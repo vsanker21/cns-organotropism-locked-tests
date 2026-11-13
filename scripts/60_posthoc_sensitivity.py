@@ -160,6 +160,56 @@ def g2m_adjustment() -> dict:
     }
 
 
+def depth_adjustment() -> dict:
+    """Parenchymal score on G2M, median genes detected, and the compartment label.
+
+    Median genes are the per-sample median, across malignant cells, of the
+    number of symbols with a raw count above zero. The compartment label is
+    permuted. The gene medians and the G2M scores stay with the sample.
+    """
+    scores = pd.read_csv(ROOT / "results/compartment/human_sample_scores.csv")
+    depth = pd.concat(
+        [
+            pd.read_csv(ROOT / "results/posthoc/csf_median_genes.csv"),
+            pd.read_csv(ROOT / "results/posthoc/parenchyma_median_genes.csv"),
+        ],
+        ignore_index=True,
+    )
+    frame = scores.merge(depth, on=["sample", "compartment", "n_malignant"], how="inner")
+    if len(frame) != 16:
+        raise RuntimeError(f"depth model has {len(frame)} samples, expected 16")
+    fluid = (frame["compartment"] == "CSF").to_numpy(dtype=float)
+    par = frame["parenchyma"].to_numpy(dtype=float)
+    g2m = frame["proliferation_control"].to_numpy(dtype=float)
+    genes = frame["median_genes"].to_numpy(dtype=float)
+    design = np.column_stack([np.ones(len(frame)), g2m, genes, fluid])
+    model = sm.OLS(par, design).fit()
+    rng = np.random.default_rng(SEED)
+    observed = float(model.params[3])
+    count = 0
+    for _ in range(10000):
+        shuffled = rng.permutation(fluid)
+        fit = sm.OLS(par, np.column_stack([np.ones(len(frame)), g2m, genes, shuffled])).fit()
+        if abs(float(fit.params[3])) >= abs(observed):
+            count += 1
+    fluid_genes = genes[fluid == 1]
+    solid_genes = genes[fluid == 0]
+    return {
+        "n": int(len(frame)),
+        "coefficient": observed,
+        "g2m_coefficient": float(model.params[1]),
+        "genes_coefficient": float(model.params[2]),
+        "ols_p": float(model.pvalues[3]),
+        "permutation_p": (1 + count) / 10001,
+        "permutation_count": int(count),
+        "fluid_median_genes_min": float(fluid_genes.min()),
+        "fluid_median_genes_max": float(fluid_genes.max()),
+        "parenchyma_median_genes_min": float(solid_genes.min()),
+        "parenchyma_median_genes_max": float(solid_genes.max()),
+        "ranges_overlap": bool(fluid_genes.min() <= solid_genes.max() and solid_genes.min() <= fluid_genes.max()),
+    }
+
+
 def main() -> None:
     for cohort, column, y, score in load_relapse():
         out = firth_or(y, score)
@@ -171,6 +221,9 @@ def main() -> None:
             f"n {out['n']} events {out['events']}",
         )
     print(g2m_adjustment())
+    depth_path = ROOT / "results/posthoc/parenchyma_median_genes.csv"
+    if depth_path.exists() and (ROOT / "results/posthoc/csf_median_genes.csv").exists():
+        print(depth_adjustment())
 
 
 if __name__ == "__main__":

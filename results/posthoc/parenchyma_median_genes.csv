@@ -1,0 +1,11 @@
+sample,compartment,n_malignant,median_genes,min_genes,max_genes
+BrM_NS_02,Parenchyma,34,1184.5,501.0,5018.0
+BrM_NS_03,Parenchyma,1886,2922.5,303.0,7437.0
+BrM_NS_04,Parenchyma,583,3401.0,268.0,7884.0
+BrM_NS_06,Parenchyma,38,690.0,365.0,4689.0
+BrM_NS_07,Parenchyma,4621,2494.0,300.0,6192.0
+BrM_NS_12,Parenchyma,2125,2255.0,372.0,8660.0
+BrM_NS_13,Parenchyma,1184,1082.5,205.0,6068.0
+BrM_NS_16,Parenchyma,43,1645.0,544.0,4497.0
+BrM_NS_17,Parenchyma,657,1235.0,251.0,8448.0
+BrM_NS_19,Parenchyma,235,1223.0,406.0,4927.0

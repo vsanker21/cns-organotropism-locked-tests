@@ -1,0 +1,17 @@
+{
+  "n": 16,
+  "coefficient": 0.5107549311209858,
+  "g2m_coefficient": 0.4159069779987473,
+  "genes_coefficient_per_gene": 6.802667121984902e-05,
+  "genes_coefficient_per_1000": 0.06802667121984902,
+  "permutation_count": 4,
+  "permutation_draws": 10000,
+  "permutation_p": 0.0004999500049995,
+  "seed": 20261112,
+  "fluid_median_genes_min": 1653.0,
+  "fluid_median_genes_max": 4492.0,
+  "parenchyma_median_genes_min": 690.0,
+  "parenchyma_median_genes_max": 3401.0,
+  "ranges_overlap": true,
+  "note": "Post hoc. Malignant-cell counts matched the stored QC for all 16 samples. Not part of the lock."
+}
