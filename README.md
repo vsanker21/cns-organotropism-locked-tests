@@ -10,4 +10,6 @@ The expression matrices are the public GEO series named with the results. They a
 
 https://github.com/vsanker21/cns-organotropism-locked-tests
 
+https://doi.org/10.5281/zenodo.24196209
+
 This archive records the files at the time of deposit. One commit made for the deposit does not itself show that the locked files were written before the scores.
