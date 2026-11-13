@@ -1,0 +1,5 @@
+suppressPackageStartupMessages(library(msigdbr))
+c2 <- msigdbr(species = "Homo sapiens", collection = "C2", subcollection = "CGP")
+genes <- unique(c2$gene_symbol[c2$gs_name == "SMID_BREAST_CANCER_RELAPSE_IN_BRAIN_UP"])
+writeLines(genes, "g:/Cancer Metastasis/results/locked/smid_brain_up_genes.txt")
+cat("N", length(genes), "\n")

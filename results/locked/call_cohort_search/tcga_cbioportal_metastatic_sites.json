@@ -1,0 +1,72 @@
+{
+  "n_metastatic_site_patient": 24,
+  "metastatic_site_patient_counts": [
+    [
+      "Bone",
+      9
+    ],
+    [
+      "Bone|Liver",
+      4
+    ],
+    [
+      "Other, specify",
+      4
+    ],
+    [
+      "Liver",
+      2
+    ],
+    [
+      "Lung|Bone|Liver|Other, specify",
+      1
+    ],
+    [
+      "Lung",
+      1
+    ],
+    [
+      "Lung|Bone",
+      1
+    ],
+    [
+      "Lung|Other, specify",
+      1
+    ],
+    [
+      "Lung|Bone|Liver",
+      1
+    ]
+  ],
+  "n_brain_in_metastatic_site_patient": 0,
+  "brain_patient_ids": [],
+  "n_metastatic_site_other": 7,
+  "metastatic_site_other_counts": [
+    [
+      "skin",
+      2
+    ],
+    [
+      "left adrenal gland",
+      1
+    ],
+    [
+      "Skin",
+      1
+    ],
+    [
+      "Abdomen",
+      1
+    ],
+    [
+      "Ovary",
+      1
+    ],
+    [
+      "axilaary node negative but intrammary node positive",
+      1
+    ]
+  ],
+  "n_brain_in_metastatic_site_other": 0,
+  "other_brain_patient_ids": []
+}

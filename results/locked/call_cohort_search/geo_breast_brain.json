@@ -1,0 +1,456 @@
+{
+  "term": "breast cancer[All Fields] AND (brain metastasis[All Fields] OR brain relapse[All Fields]) AND Homo sapiens[Organism]",
+  "count": "778",
+  "summaries": [
+    {
+      "uid": "200345865",
+      "accession": "GSE345865",
+      "title": "Transcriptomic Signatures Associated with Brain Metastasis Across Breast Cancer Subtypes",
+      "summary": "Brain metastasis is a significant complication of breast cancer, and its molecular determinants vary across breast cancer subtypes. This study examined transcriptomic differences associated with brain metastasis using RNA sequencing of breast cancer tissues. The deposited RNA-seq dataset contains 42 analyzed biological samples, comprising 23 samples classified as brain-metastasis positive and 19 as brain-metastasis negative. Differential gene-expression and functional enrichment analyses were us",
+      "n_samples": 42,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200325935",
+      "accession": "GSE325935",
+      "title": "Single Nuclei and Spatial Transcriptomic Datasets in Brain Metastases [Xenium]",
+      "summary": "We performed single nuclei and spatial transcriptomic sequencing on a cohort of solid tumor human brain metastasis specimens resected at Duke University Medical Center from 1998 to 2022. This includes 23 single nuclei specimens, 12 Visium standard specimens, and 4 Xenium specimens. These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries. Analysis of these data revealed novel tumor-microenvironment cell-cell interactions associated with patient survival",
+      "n_samples": 4,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200325196",
+      "accession": "GSE325196",
+      "title": "Single Nuclei and Spatial Transcriptomic Datasets in Brain Metastases",
+      "summary": "We performed single nuclei and spatial transcriptomic sequencing on a cohort of solid tumor human brain metastasis specimens resected at Duke University Medical Center from 1998 to 2022. This includes 23 single nuclei specimens, 12 Visium standard specimens, and 4 Xenium specimens. These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries. Analysis of these data revealed novel tumor-microenvironment cell-cell interactions associated with patient survival",
+      "n_samples": 35,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200301558",
+      "accession": "GSE301558",
+      "title": "Brain FGF2 and NCAM1 contribute to FGFR1-dependent progression of ER+ breast cancer brain metastases in young and aged hosts [NanoString_DSP]",
+      "summary": "Estrogen receptor positive (ER+) breast cancer (BC) represents a significant proportion of BC brain metastasis (BCBM) but remains understudied. Here, we report that FGFR1-amplification, a well-established driver of ER+ BC endocrine resistance, promotes ER+ BCBM colonization in young and aged mice, through brain-dependent mechanisms. FGFR1-dependent brain colonization in young and aged mice occurs via canonical FGF2/FGFR1 signaling and non-canonical NCAM1/FGFR1  interactions. Astrocytic FGF2-medi",
+      "n_samples": 115,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200301400",
+      "accession": "GSE301400",
+      "title": "Brain FGF2 and NCAM1 contribute to FGFR1-dependent progression of ER+ breast cancer brain metastases in young and aged hosts",
+      "summary": "Estrogen receptor positive (ER+) breast cancer (BC) represents a significant proportion of BC brain metastasis (BCBM) but remains understudied. Here, we report that FGFR1-amplification, a well-established driver of ER+ BC endocrine resistance, promotes ER+ BCBM colonization in young and aged mice, through brain-dependent mechanisms. FGFR1-dependent brain colonization in young and aged mice occurs via canonical FGF2/FGFR1 signaling and non-canonical NCAM1/FGFR1  interactions. Astrocytic FGF2-medi",
+      "n_samples": 18,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200326480",
+      "accession": "GSE326480",
+      "title": "ACSS2 supresses ferroptosis via E2F1-SLC7A11 signaling in breast cancer brain metastasis",
+      "summary": "Brain metastasis in breast cancer patients represents a terminal disease stage, with median survival typically measured in months. Tumors that colonize the brain must adapt to its unique microenvironment, such as high acetate levels. Primary brain tumor cells enhance acetate conversion to acetyl-CoA through phosphorylation of acetyl-CoA synthetase 2 (ACSS2) by cyclin-dependent kinase 5 (CDK5), a process regulated by the nutrient sensor O-GlcNAc transferase (OGT). In this study, we showed that br",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200281582",
+      "accession": "GSE281582",
+      "title": "Human ChIP-seq of three metastatic Patient-Derived-Organoid (PDO)",
+      "summary": "A key problem in cancer biology is understanding the phenotypic characteristics of the aggressive cell states present in macrometastases and their molecular underpinnings. Here we report on the cellular constituents of human breast cancer metastases,  revealing that these malignant cells are invariably locked in a chimeric cell state. Human BC metastatic cells indeed display a gene-expression profile associated to embryonic development of tubular organs, while also retaining the transcriptional ",
+      "n_samples": 17,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200281580",
+      "accession": "GSE281580",
+      "title": "Human scRNA-seq of three primary and five metastatic breast cancers",
+      "summary": "A key problem in cancer biology is understanding the phenotypic characteristics of the aggressive cell states present in macrometastases and their molecular underpinnings. Here we report on the cellular constituents of human breast cancer metastases,  revealing that these malignant cells are invariably locked in a chimeric cell state. Human BC metastatic cells indeed display a gene-expression profile associated to embryonic development of tubular organs, while also retaining the transcriptional ",
+      "n_samples": 8,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200281492",
+      "accession": "GSE281492",
+      "title": "Molecular characterisation of the metastatic cell state in Breast Cancer",
+      "summary": "This SuperSeries is composed of the SubSeries listed below.",
+      "n_samples": 101,
+      "gdsType": null,
+      "taxon": "Mus musculus; Homo sapiens"
+    },
+    {
+      "uid": "200281490",
+      "accession": "GSE281490",
+      "title": "Human scRNA-seq of three breast cancer metastases and three normal mammary glands",
+      "summary": "A key problem in cancer biology is understanding the phenotypic characteristics of the aggressive cell states present in macrometastases and their molecular underpinnings. Here we report on the cellular constituents of human breast cancer metastases,  revealing that these malignant cells are invariably locked in a chimeric cell state. Human BC metastatic cells indeed display a gene-expression profile associated to embryonic development of tubular organs, while also retaining the transcriptional ",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200281488",
+      "accession": "GSE281488",
+      "title": "In situ single-cell profiling of a brain metastasis from a HER2+ Breast Cancer Patient and 8 primary tumors from TNBC patients.    ",
+      "summary": "A key problem in cancer biology is understanding the phenotypic characteristics of the aggressive cell states present in macrometastases and their molecular underpinnings. Here we report on the cellular constituents of  breast cancer metastases,  revealing that these malignant cells display a gene-expression profile associated to embryonic development of tubular organs. Similar properties are found in malignant cells from pro-metastatic primary tumors but not in primary tumors that never metasta",
+      "n_samples": 9,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200291804",
+      "accession": "GSE291804",
+      "title": "Multi-omics analysis of brain metastasis elucidates obesity induced prostaglandin crosstalk in tumor microenvironment restrain CD8T cell expansion",
+      "summary": "Brain metastasis (BrM) is one of the most crucial complications in tumor patients. Obesity contributes to the metabolic remodeling of tumor cells, yet the how obesity impact tumor microenvironment still remains unclear. We utilized scRNA-seq together with TCR seq to decipher the crosstalk with BrM microenvironment",
+      "n_samples": 18,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200322943",
+      "accession": "GSE322943",
+      "title": "Dissecting the cellular architecture of breast cancer brain metastases reveals prognostically distinct immune landscapes [RNA-Seq]",
+      "summary": "Breast cancer brain metastases (BCBM) are a severe condition with high demand for improved personalized treatment, but a comprehensive understanding of BCBM immune-microenvironment heterogeneity and susceptibility to immunotherapy is lacking. Here, we multimodally profile the immune niche in a vast, clinically well-annotated cohort of 156 BCBM applying tissue cytometry, bulk and single nuclei RNA-sequencing, flow cytometry, and spatial transcriptomics, complemented by functional studies in patie",
+      "n_samples": 100,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200281551",
+      "accession": "GSE281551",
+      "title": "RNAseq analysis of genes differentially expressed in BR-shCON and BR-shSPANXB1",
+      "summary": "We used RNA sequencing to analyze gene expression profiles of BR-shCON and BR-shSPANXB1.  The goal of this study is to explore genes that are differentially expressed in BR-shCON and BR-shSPANXB1.",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200291206",
+      "accession": "GSE291206",
+      "title": "Spatial crosstalk modeling of the tumor microenvironment uncovers CCR5-mediated glia-to-glia signaling as a key regulator of brain metastases",
+      "summary": "Glial cells play a critical role in shaping the tumor microenvironment in brain metastases, facilitating disease progression through complex tumor-glial and distinct glia-to-glia signaling pathways. To investigate these interactions, we conducted RNA sequencing of astrocytes, microglia, and oligodendrocytes at various stages of brain metastasis progression, combined with spatial transcriptomics and crosstalk analysis using the CCCExplorer tool. Our analysis uncovered that while glial cells conve",
+      "n_samples": 18,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200283312",
+      "accession": "GSE283312",
+      "title": "CREB5 promotes tumorigenicity and upregulates druggable cell surface modalities in basal-like breast cancer",
+      "summary": "Basal-like breast cancers (BLBC), of which many are triple negative, have poor outcomes due to the limited targeted therapies available for patients. To address this need, we examined the clinical correlates and functional properties of CREB5, a transcription factor commonly amplified or overexpressed in other metastatic cancers. Using transcriptomic data from TCGA and METABRIC, we found BLBCs harbored the highest levels of CREB5 expression compared to other BC subtypes and that CREB5-high tumor",
+      "n_samples": 23,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200289226",
+      "accession": "GSE289226",
+      "title": "Reelin-LRP8 signaling mediates brain metastasis of breast cancer cells via abluminal migration",
+      "summary": "Brain metastasis (BM) remains a significant challenge in breast cancer (BC) management. While conventional metastatic routes involve hematogenous dissemination, emerging evidence suggests that BC cells can also migrate along the abluminal surface of blood vessels, bypassing the blood-brain barrier (BBB). To investigate this phenomenon, we established a zebrafish xenograft model utilizing GFP-labeled MDA-MB-231 cells, allowing real-time observation of BC cell migration along the posterior cerebra",
+      "n_samples": 8,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200287168",
+      "accession": "GSE287168",
+      "title": "Effect of hypoxia on HIF-1\u03b1 binding genes in SUM159 breast cancer cells with ChIP-Seq.",
+      "summary": "Brain metastasis is a major cause of breast cancer mortality, but the molecular basis and pathological mechanisms are poorly understood. Here, we determined that integrin \u03b23 (ITGB3) expression mediated by hypoxia-inducible factor 1 (HIF-1) plays a critical role in brain metastasis of breast cancer. Hypoxia induces HIF-1-dependent expression of ITGb3, which is required for breast cancer cell migration and invasion. Knockdown of HIF-1a or ITGB3 expression impairs the colonization of breast cancer ",
+      "n_samples": 8,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200268804",
+      "accession": "GSE268804",
+      "title": "Effect of depletion of hypoxia-inducible factor (HIFs) on gene expression in MDA231-BrM2 breast cancer brain-selective metastatic cells with RNA-Seq.",
+      "summary": "Brain metastasis is a major cause of breast cancer mortality, but the molecular basis and pathological mechanisms are poorly understood. Here, we determined that integrin \u03b23 (ITGB3) expression mediated by hypoxia-inducible factor 1 (HIF-1) plays a critical role in brain metastasis of breast cancer. Hypoxia induces HIF-1-dependent expression of ITGb3, which is required for breast cancer cell migration and invasion. Knockdown of HIF-1a or ITGB3 expression impairs the colonization of breast cancer ",
+      "n_samples": 12,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200268802",
+      "accession": "GSE268802",
+      "title": "Effect of hypoxia on HIF-1\u03b1 binding genes in MDA231-BrM2 breast cancer brain-selective metastatic cells with ChIP-Seq.",
+      "summary": "Brain metastasis is a major cause of breast cancer mortality, but the molecular basis and pathological mechanisms are poorly understood. Here, we determined that integrin \u03b23 (ITGB3) expression mediated by hypoxia-inducible factor 1 (HIF-1) plays a critical role in brain metastasis of breast cancer. Hypoxia induces HIF-1-dependent expression of ITGb3, which is required for breast cancer cell migration and invasion. Knockdown of HIF-1a or ITGB3 expression impairs the colonization of breast cancer ",
+      "n_samples": 8,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200290037",
+      "accession": "GSE290037",
+      "title": "Loss of IL13RA2 promotes metastatic tumour growth in triple-negative breast cancer via increased AKT signalling",
+      "summary": "Triple-negative breast cancer is characterized by absence of oestrogen receptor, progesterone receptor, and a lack of HER2 amplification and is associated with poor patient prognosis and high rates of distant metastasis. These patients are at elevated risk of brain metastasis, which remains a major therapeutic challenge. IL13RA2, a high-affinity receptor for IL13, is highly expressed in primary brain cancers, many extracranial solid tumours, and in lung- and brain-seeking metastatic variant cell",
+      "n_samples": 21,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200261351",
+      "accession": "GSE261351",
+      "title": "Direct measurement of RNA Polymerase II hypertranscription in cancer FFPE samples",
+      "summary": "Hypertranscription occurs at targets of oncogene transcription factors in aggressive human cancers. However, detection relies on mRNAs which are heavily processed and have variable half-lives, and on accurate cell number estimations. Here we apply FFPE-CUTAC on slides and curls to quantify hypertranscription at regulatory elements and replication-coupled histone genes.",
+      "n_samples": 278,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200249712",
+      "accession": "GSE249712",
+      "title": "Accurate Identification of Sites of Origin in Carcinoma of Unknown Primary (CUP) Tumors Using DNA Methylation",
+      "summary": "This SuperSeries is composed of the SubSeries listed below.",
+      "n_samples": 53,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200249688",
+      "accession": "GSE249688",
+      "title": "Accurate Identification of Sites of Origin in Carcinoma of Unknown Primary (CUP) Tumors Using DNA Methylation I",
+      "summary": "53 tumors used in the clinical training and validation of a CUP machine learning classifier using methylation profiling",
+      "n_samples": 42,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200231895",
+      "accession": "GSE231895",
+      "title": "Breast cancer brain metastasis",
+      "summary": "Investigating the differential expression of gene during breast cancer brain metastasis",
+      "n_samples": 4,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200283272",
+      "accession": "GSE283272",
+      "title": "Neoadjuvant HER2 inhibition induces ESR1 DNA methylation alterations resulting in clinically relevant ER expression changes in breast cancer",
+      "summary": "Divergent estrogen receptor (ER) and HER2 status with breast cancer disease progression has important consequences for clinical management and long-term survival.\u202f Molecular subtype expression is dynamic and influenced by therapeutic intervention and the metastatic environment.   HER2 status, ER expression levels and global DNA methylation was assessed in pre-treatment biopsies, in post-treatment samples in patients with residual disease and, where relevant, in metastatic tumour samples.  Mappin",
+      "n_samples": 22,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200246721",
+      "accession": "GSE246721",
+      "title": "5-methylcytosine modification profiling of messenger RNA in breast cancer brain metastasis",
+      "summary": "We performed m5C MeRIP-seq to clarify the role of m5C RNA modification in the pathogenesis of BCBM",
+      "n_samples": 12,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200269160",
+      "accession": "GSE269160",
+      "title": "NAT10 is identified as a novel driver for brain metastasis",
+      "summary": "Metastatic breast cancer remains a major cause of cancer related deaths in women and there are few effective therapies against this advanced disease. Using in vivo and in vitro genetic screens, we identified NAT10 as a driver for breast cancer brain metastassis. Here, we profile the transcriptome of metastatic breast cancer cells MDA-MB-231-BrM3 following NAT10 knockdown, aiming to identify the downstream effectors of NAT10.",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200245467",
+      "accession": "GSE245467",
+      "title": "Immunogenomics and spatial proteomic mapping highlight distinct neuro-immune architectures in melanoma vs. non-melanoma-derived brain metastasis",
+      "summary": "Brain metastases (BrMs) are a devastating complication of solid tumors with challenging clinical management. In this study, immunogenomic and digital spatial analyses were applied to interrogate the peripheral blood and tumor specimens derived from 53 unique patients with metastatic brain tumors originating from different solid tumors including melanoma, breast cancer, lung cancer and renal cell carcinoma. In the peripheral blood, lower levels of neutrophil -lymphocytes ratio (NLR) were detected",
+      "n_samples": 54,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200254379",
+      "accession": "GSE254379",
+      "title": "Gene expression profile at single cell level of human brain metastasis samples",
+      "summary": "We used Chromium Fixed RNA Profiling to analyze the heterogeneity of astrocytes in brain metastasis at the single cell level",
+      "n_samples": 2,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200268217",
+      "accession": "GSE268217",
+      "title": "RET overexpression leads to increased brain metastatic competency in luminal breast cancer patients",
+      "summary": "Breast cancer brain metastasis is a rising occurrence, necessitating a better understanding of the mechanisms involved for effective management. Breast cancer brain metastases diverge significantly from the primary tumor, with gains in kinase and concomitant losses of steroid signaling observed. In this study, we explored the role of the kinase receptor RET in promoting breast cancer brain metastasis and provide a rationale for targeting the receptor in this patient cohort. Here, exome capture R",
+      "n_samples": 16,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200235886",
+      "accession": "GSE235886",
+      "title": "RET overexpression leads to increased brain metastatic competency in luminal breast cancer",
+      "summary": "In the present study we aimed to explore the role of tyrosine kinase receptor, RET, in promoting breast cancer brain metastasis. Using patient-derived brain metastatic models, we found RET significantly enriched in brain metastasis originating from estrogen receptor positive breast cancer where it played a key role in promoting cancer cell adhesion, survival, and outgrowth in the brain.",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200264575",
+      "accession": "GSE264575",
+      "title": "Simultaneous targeting of peripheral and brain tumors with a therapeutic nanoparticle to disrupt metabolic adaptability at both sites",
+      "summary": "Brain metastasis of advanced breast cancer often results in deleterious consequences. Metastases to the brain lead to significant challenges in treatment options, as the blood\u2013 brain barrier (BBB) prevents conventional therapy. Thus, we hypothesized that creation of a nanoparticle (NP) that distributes to both primary tumor site and across the BBB for secondary brain tumor can be extremely beneficial. Here, we report a simple target- ing strategy to attack both the primary breast and secondary b",
+      "n_samples": 29,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200249573",
+      "accession": "GSE249573",
+      "title": "Cancer-stromal cell interactions in breast cancer brain metastases induce glycocalyx-mediated resistance to HER2-targeting therapies [RNA-seq]",
+      "summary": "In a 3D coculture with stroma cells derived from breast cancer patients\u2019 brain metastasis, HER2+ breast cancer cells were protected from HER2-targeted therapies, particularly the EGFR/HER2 small molecule inhibitor neratinib. To get insight into how this protection arises, a Synthetic Notch (SynNotch) reporter model allowed to study the effect of direct contact between stroma and cancer cells.",
+      "n_samples": 40,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200249459",
+      "accession": "GSE249459",
+      "title": "Cancer-stromal cell interactions in breast cancer brain metastases induce glycocalyx-mediated resistance to HER2-targeting therapies [ATAC-seq]",
+      "summary": "In a 3D coculture with stroma cells derived from breast cancer patients\u2019 brain metastasis, HER2+ breast cancer cells were protected from HER2-targeted therapies, particularly the EGFR/HER2 small molecule inhibitor neratinib. To get insight into how this protection arises, ATAC-seq on coculture cells with or without neratinib as performed.",
+      "n_samples": 24,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200227427",
+      "accession": "GSE227427",
+      "title": "Tumor lineage-specific immune response in brain metastatic disease: opportunities for targeted immunotherapy regimen?",
+      "summary": "Metastases in the brain are the most severe and devastating complication of cancer. The incidence of brain metastasis is increasing. Therefore, the need of finding specific druggable targets for brain metastasis is demanding. The aim of this study was to compare the brain (immune) response to brain metastases of the most common tumor lineages, viz., lung adenocarcinoma and breast cancer. Targeted gene expression profiles of 11 brain metastasis of lung adenocarcinoma (BM-LUAD) were compared to 11",
+      "n_samples": 22,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200254461",
+      "accession": "GSE254461",
+      "title": "Machine-learning model based on glycosyltransferase expression predicts multiple cancer types, subtypes and survival probability",
+      "summary": "Whereas current tools for diagnosing cancer focus on identifying markers in limited types of the disease, such as the PAM50 kit known primarily for subtyping breast cancer, our research reveals that 27 different cancers have a unique glycosyltransferase (GT) fingerprint that can be detected using a single test, with 93.7% accuracy in external validation. Four models were built on the expression patterns of 71 GTs that are universally influential in inducing the formation of cancer cells and givi",
+      "n_samples": 57,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200248830",
+      "accession": "GSE248830",
+      "title": "Unlocking Molecular mechanisms and identifying druggable targets in matched-paired brain metastasis of Breast and Lung cancers\u00a0",
+      "summary": "Introduction: The incidence of brain metastases in cancer patients is increasing, with lung and breast cancer being the most common sources. Despite advancements in targeted therapies, the prognosis remains poor, highlighting the importance to investigate the underlying mechanisms in brain metastases. The aim of this study was to investigate the differences in the molecular mechanisms involved in brain metastasis of breast and lung cancers. In addition, we aimed to identify cancer lineage-specif",
+      "n_samples": 44,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200216934",
+      "accession": "GSE216934",
+      "title": "miRNAs associated with breast cancer brain metastasis",
+      "summary": "The goal of this study is to determine the extracellular miRNAs associated with breast cancer metastasis to the brain.  By combining the small RNA-seq data of patient sera and cell culture models, we are able to select breast cancer cell-derived miRNAs that are associated with brain metastasis for further functional study.",
+      "n_samples": 46,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200159285",
+      "accession": "GSE159285",
+      "title": "LMO2 is critical for early metastatic events in breast cancer",
+      "summary": "This SuperSeries is composed of the SubSeries listed below.",
+      "n_samples": 466,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200159284",
+      "accession": "GSE159284",
+      "title": "Identification of a minority population in breast cancer that integrates into the vasculature and initiates metastasis [scRNA-Seq]",
+      "summary": "Metastasis is responsible for the majority of cancer-related deaths1. Although single-cell RNA sequencing (scRNA-seq) has revealed considerable heterogeneity among tumor cells, identifying the cellular determinants of metastasis has remained challenging. Here, we analyzed scRNA-seq data of primary human breast tumor biopsies and identified a minority population of immature THY1+/VEGFA+ basal epithelial cells that display angiogenic features and are marked by the expression of the oncogene, LMO2.",
+      "n_samples": 457,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200147949",
+      "accession": "GSE147949",
+      "title": "Microglia coordinate the anti-tumor immune response to breast cancer brain metastasis",
+      "summary": "This SuperSeries is composed of the SubSeries listed below.",
+      "n_samples": 12,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200147948",
+      "accession": "GSE147948",
+      "title": "Microglia coordinate the anti-tumor immune response to breast cancer brain metastasis [MITRG 10X data]",
+      "summary": "We used single-cell RNA-sequencing to investigate the role of myeloid cells in a humanized mouse model of breast cancer brain metastasis (BCBM). We generated brain metastases with a cardiac-injection of the human triple-negative breast cancer cell line MDA-MB-231BR2 (231BR) into MITRG mice and allowed tumors to grow in the brain for 25 days. We then took all human cells (includes myeloid cells and 231BR) from these mice verses control MITRG brains (only myeloid cells) to find transcriptional cha",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200147942",
+      "accession": "GSE147942",
+      "title": "Microglia coordinate the anti-tumor immune response to breast cancer brain metastasis [Foxn1 nu/nu 10X data]",
+      "summary": "We used single-cell RNA-sequencing to investigate the role of brain-resident microglia versus infiltrating cells in a mouse model of breast cancer brain metastasis (BCBM). We generated brain metastases with a cardiac-injection of the human triple-negative breast cancer cell line MDA-MB-231BR2 (231BR) into Foxn1 nu/nu mice and allowed tumors to grow in the brain for four weeks. We then compared astrocytes (ASCA2+CD45-) and myeloid cells (CD11b+CD45+) from these mice verses control Foxn1 nu/nu bra",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Mus musculus; Homo sapiens"
+    },
+    {
+      "uid": "200224899",
+      "accession": "GSE224899",
+      "title": "ATM-inhibitor AZD1390 is a radiosensitizer for breast cancer CNS metastasis",
+      "summary": "Purpose: Central nervous system (CNS) metastasis has remained a major source of mortality for breast cancer patients. This is largely driven by the inability of current therapeutics to penetrate the blood brain barrier (BBB) and the lack of preclinical models for testing new therapies. Here we study the efficacy of AZD1390, a BBB penetrating ataxia-telangiectasia mutated (ATM) inhibitor, as a radiosensitizer for breast cancer CNS metastasis treatment. Experimental Design: Three PDX tumors includ",
+      "n_samples": 16,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200224942",
+      "accession": "GSE224942",
+      "title": "Restoring Tumor Immunogenicity with Dendritic Cell Reprogramming",
+      "summary": "This SuperSeries is composed of the SubSeries listed below.",
+      "n_samples": 356,
+      "gdsType": null,
+      "taxon": "Mus musculus; Homo sapiens"
+    },
+    {
+      "uid": "200224941",
+      "accession": "GSE224941",
+      "title": "Restoring Tumor Immunogenicity with Dendritic Cell Reprogramming [scRNA-seq]",
+      "summary": "Decreased antigen presentation contributes to the ability of cancer cells to evade the immune system. We used the minimal gene regulatory network of type 1 conventional dendritic cells (cDC1) to reprogram cancer cells into professional antigen- presenting cells (tumor-APCs). Enforced expression of the transcription factors PU.1, IRF8, and BATF3 (PIB) was sufficient to induce cDC1 phenotype in 36 cell lines derived from human and mouse hematological and solid tumors. Within 9 days of reprogrammin",
+      "n_samples": 59,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200220017",
+      "accession": "GSE220017",
+      "title": "Biglycan and reduced glycolysis are associated with breast cancer cell dormancy in the brain",
+      "summary": "To understand the mechanisms of breast cancer cell dormancy in the brain",
+      "n_samples": 6,
+      "gdsType": null,
+      "taxon": "Homo sapiens"
+    },
+    {
+      "uid": "200223351",
+      "accession": "GSE223351",
+      "title": "Distinct tumor architectures for metastatic colonization of the brain [RNA-seq]",
+      "summary": "Brain metastasis is a dismal complication of cancer that hinges on the initial survival and outgrowth of disseminated cancer cells. To better understand these crucial early stages of brain metastatic colonization, we investigated two prevalent sources of cerebral relapse in the clinic, triple-negative breast cancer (TNBC) and HER2+ breast cancer (HER2BC). We elucidated distinctive early tumor architectures, physical and functional stromal interfaces, and autocrine growth programs employed by the",
+      "n_samples": 11,
+      "gdsType": null,
+      "taxon": "Homo sapiens; Mus musculus"
+    },
+    {
+      "uid": "200223309",
+      "accession": "GSE223309",
+      "title": "Distinct tumor architectures for metastatic colonization of the brain [scRNA-seq]",
+      "summary": "Brain metastasis is a dismal complication of cancer that hinges on the initial survival and outgrowth of disseminated cancer cells. To better understand these crucial early stages of brain metastatic colonization, we investigated two prevalent sources of cerebral relapse in the clinic, triple-negative breast cancer (TNBC) and HER2+ breast cancer (HER2BC). We elucidated distinctive early tumor architectures, physical and functional stromal interfaces, and autocrine growth programs employed by the",
+      "n_samples": 12,
+      "gdsType": null,
+      "taxon": "Mus musculus; Homo sapiens"
+    }
+  ]
+}

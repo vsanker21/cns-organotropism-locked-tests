@@ -1,0 +1,19 @@
+Within-study control. Gene lists are unchanged from the frozen compartment lock.
+
+Cohort: GSE131907 only. Origins: pleural effusion (PE), brain metastasis (mBrain), lymph-node metastasis (mLN). No other origin enters the test.
+
+Malignant-cell rule and the 20-cell floor are unchanged. Author labels do not admit cells.
+
+Scores are gene-wise z-scores of log2(CPM+1), averaged within each locked program. Z-scores are computed once, across the eligible samples from these three origins only.
+
+Two contrasts, both two-sided Mann-Whitney tests at the sample level:
+1. PE versus solid metastases, where solid means mBrain and mLN together.
+2. mBrain versus mLN.
+
+The six tests are the two contrasts for the leptomeningeal program, the parenchyma-selected program, and the Hallmark G2M program. Benjamini-Hochberg is applied across those six p-values.
+
+Reading, fixed before the scores were calculated:
+- The fluid-versus-solid reading is supported only when the parenchyma-selected program and G2M are both higher in PE than in solid metastases and both unadjusted p-values are below 0.05.
+- A program is not brain-specific when mBrain and mLN do not separate at p < 0.05.
+- The leptomeningeal program is a compartment program on a contrast only when its mean difference has the opposite sign from G2M, its p-value is below 0.05, and its absolute mean difference is larger than that of G2M.
+- No gene is added or replaced from this contrast.

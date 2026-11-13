@@ -1,0 +1,7 @@
+Extended data search. Written before any new expression matrix is opened. 12 November 2026.
+
+The rule in call_cohort_eligibility_rule.txt is unchanged. A series qualifies only if clinical or sample metadata show either:
+- primary tumors, a brain-relapse label, more than 23 events, and independence from GSE12276 and GSE76714, or
+- two metastatic sites collected by the same procedure, at least two samples on each side, microglia separable from macrophages, public single-cell or single-nucleus counts, not GSE131907 and not GSE123902.
+
+Repositories may be queried. Headers, sample tables, and clinical tables may be saved. An expression matrix is downloaded only after a series meets one of those two conditions. Controlled-access records are counted from their public descriptions and are not treated as available data. No gene list is chosen during this search.

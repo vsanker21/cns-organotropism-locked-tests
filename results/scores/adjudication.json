@@ -1,0 +1,350 @@
+{
+  "signatures": {
+    "stepA": {
+      "n_genes": 253
+    },
+    "neural": {
+      "n_genes": 50
+    },
+    "bos": {
+      "n_genes": 3
+    },
+    "proliferation": {
+      "n_genes": 200
+    }
+  },
+  "stepA_rule": "lfcThreshold_gt1_padj_lt_0.05",
+  "neural_set": "GAVISH_3CA_MALIGNANT_METAPROGRAM_29_NPC_OPC",
+  "bos_set": "PARTIAL_BOS_THREE_GENES_FROM_GSE12237_RECORD",
+  "GSE76714": {
+    "n_with_brain_met": 23,
+    "n_without_brain_met": 48,
+    "tests": [
+      {
+        "label": "GSE76714:stepA",
+        "n": 71,
+        "n_positive": 23,
+        "mean_score_positive": 0.015248526370868211,
+        "mean_score_negative": -0.007306585552707768,
+        "mannwhitney_p": 0.5268827213500358,
+        "auc": 0.5471014492753623,
+        "auc_ci95": [
+          0.4077533692722372,
+          0.6829076086956521
+        ],
+        "log_or_per_sd": 0.13585414140703075,
+        "or_per_sd": 1.1455147982323153,
+        "or_ci95": [
+          0.6966207570602715,
+          1.883670762994061
+        ],
+        "logit_p": 0.5924035159718004,
+        "coverage": {
+          "n_present": 188,
+          "n_genes": 253,
+          "coverage": 0.7430830039525692,
+          "valid": true
+        },
+        "logit_q_bh": 0.9676812677957415
+      },
+      {
+        "label": "GSE76714:neural",
+        "n": 71,
+        "n_positive": 23,
+        "mean_score_positive": -0.00895604795423493,
+        "mean_score_negative": 0.004291439644737341,
+        "mannwhitney_p": 0.42094240619045753,
+        "auc": 0.4402173913043478,
+        "auc_ci95": [
+          0.30162251463553935,
+          0.5974137866963953
+        ],
+        "log_or_per_sd": -0.06797160696406168,
+        "or_per_sd": 0.9342870004450029,
+        "or_ci95": [
+          0.5657772457560081,
+          1.5428195561914777
+        ],
+        "logit_p": 0.7905451423124644,
+        "coverage": {
+          "n_present": 47,
+          "n_genes": 50,
+          "coverage": 0.94,
+          "valid": true
+        },
+        "logit_q_bh": 0.9676812677957415
+      },
+      {
+        "label": "GSE76714:bos",
+        "n": 0,
+        "n_positive": 0,
+        "error": "not_enough_outcome_variation",
+        "coverage": {
+          "n_present": 3,
+          "n_genes": 3,
+          "coverage": 1.0,
+          "valid": false
+        },
+        "logit_q_bh": NaN
+      },
+      {
+        "label": "GSE76714:proliferation",
+        "n": 71,
+        "n_positive": 23,
+        "mean_score_positive": -0.00294910247317451,
+        "mean_score_negative": 0.0014131116017295474,
+        "mannwhitney_p": 0.868257525051559,
+        "auc": 0.4873188405797101,
+        "auc_ci95": [
+          0.34508169934640526,
+          0.6317274889753881
+        ],
+        "log_or_per_sd": -0.010274081059857054,
+        "or_per_sd": 0.9897785170245089,
+        "or_ci95": [
+          0.6021335936875004,
+          1.62698365119231
+        ],
+        "logit_p": 0.9676812677957415,
+        "coverage": {
+          "n_present": 180,
+          "n_genes": 200,
+          "coverage": 0.9,
+          "valid": true
+        },
+        "logit_q_bh": 0.9676812677957415
+      }
+    ]
+  },
+  "GSE12276": {
+    "label_counts": {
+      "other": 169,
+      "local": 10,
+      "": 9,
+      "brain+other": 8,
+      "brain": 8
+    },
+    "tests": [
+      {
+        "label": "GSE12276:stepA",
+        "n": 185,
+        "n_positive": 16,
+        "mean_score_positive": 0.05516788378937704,
+        "mean_score_negative": -0.002339078511971737,
+        "mannwhitney_p": 0.2643640393663721,
+        "auc": 0.584689349112426,
+        "auc_ci95": [
+          0.41144850498338875,
+          0.7463063725490194
+        ],
+        "log_or_per_sd": 0.3251849666967712,
+        "or_per_sd": 1.3842866692347264,
+        "or_ci95": [
+          0.809452017876588,
+          2.3673417822193032
+        ],
+        "logit_p": 0.23491380451561705,
+        "coverage": {
+          "n_present": 212,
+          "n_genes": 253,
+          "coverage": 0.8379446640316206,
+          "valid": true
+        },
+        "bos_is_circular_on_this_cohort": false
+      },
+      {
+        "label": "GSE12276:neural",
+        "n": 185,
+        "n_positive": 16,
+        "mean_score_positive": 0.014424789765614121,
+        "mean_score_negative": 0.002900269611321276,
+        "mannwhitney_p": 0.8508312785336938,
+        "auc": 0.514423076923077,
+        "auc_ci95": [
+          0.3429223216820387,
+          0.6789887875118507
+        ],
+        "log_or_per_sd": 0.053984543472262024,
+        "or_per_sd": 1.055468288154129,
+        "or_ci95": [
+          0.6304197870555329,
+          1.7670976231602253
+        ],
+        "logit_p": 0.8373292456812532,
+        "coverage": {
+          "n_present": 49,
+          "n_genes": 50,
+          "coverage": 0.98,
+          "valid": true
+        },
+        "bos_is_circular_on_this_cohort": false
+      },
+      {
+        "label": "GSE12276:bos",
+        "n": 0,
+        "n_positive": 0,
+        "error": "not_enough_outcome_variation",
+        "coverage": {
+          "n_present": 3,
+          "n_genes": 3,
+          "coverage": 1.0,
+          "valid": false
+        },
+        "bos_is_circular_on_this_cohort": true
+      },
+      {
+        "label": "GSE12276:proliferation",
+        "n": 185,
+        "n_positive": 16,
+        "mean_score_positive": 0.09175216210920477,
+        "mean_score_negative": -0.022203403321744506,
+        "mannwhitney_p": 0.2248133594229157,
+        "auc": 0.5920857988165681,
+        "auc_ci95": [
+          0.4331221882692471,
+          0.7376784461152882
+        ],
+        "log_or_per_sd": 0.2809828844411982,
+        "or_per_sd": 1.324430935365712,
+        "or_ci95": [
+          0.7768303543081527,
+          2.2580442342728957
+        ],
+        "logit_p": 0.30196005088563493,
+        "coverage": {
+          "n_present": 187,
+          "n_genes": 200,
+          "coverage": 0.935,
+          "valid": true
+        },
+        "bos_is_circular_on_this_cohort": false
+      }
+    ]
+  },
+  "metastasis_sites": {
+    "stepA": {
+      "kruskal_p": 0.23577033393350805,
+      "kruskal_h": 4.249318358409255,
+      "pairwise": [
+        {
+          "contrast": "Brain_vs_Lung",
+          "p": 0.48858036803422333,
+          "median_brain": -0.06153348616812763,
+          "median_other": -0.04315019565831216,
+          "q_bh": 0.48858036803422333
+        },
+        {
+          "contrast": "Brain_vs_Bone",
+          "p": 0.2263582844194887,
+          "median_brain": -0.06153348616812763,
+          "median_other": 0.09136198572493782,
+          "q_bh": 0.48858036803422333
+        },
+        {
+          "contrast": "Brain_vs_Liver",
+          "p": 0.37693546389198557,
+          "median_brain": -0.06153348616812763,
+          "median_other": -0.10334875793578821,
+          "q_bh": 0.48858036803422333
+        }
+      ],
+      "n": {
+        "Bone": 18,
+        "Brain": 22,
+        "Liver": 5,
+        "Lung": 20
+      }
+    },
+    "neural": {
+      "kruskal_p": 0.07854477304646053,
+      "kruskal_h": 6.8002415766052025,
+      "pairwise": [
+        {
+          "contrast": "Brain_vs_Lung",
+          "p": 0.03333093227987938,
+          "median_brain": 0.02875246118814561,
+          "median_other": -0.115828892795454,
+          "q_bh": 0.09999279683963813
+        },
+        {
+          "contrast": "Brain_vs_Bone",
+          "p": 0.6734713298179319,
+          "median_brain": 0.02875246118814561,
+          "median_other": 0.08333853241681574,
+          "q_bh": 0.6734713298179319
+        },
+        {
+          "contrast": "Brain_vs_Liver",
+          "p": 0.44719435154217757,
+          "median_brain": 0.02875246118814561,
+          "median_other": -0.021006639256800845,
+          "q_bh": 0.6707915273132663
+        }
+      ],
+      "n": {
+        "Bone": 18,
+        "Brain": 22,
+        "Liver": 5,
+        "Lung": 20
+      }
+    }
+  },
+  "GSE12237": {
+    "coverage": {
+      "stepA": {
+        "n_present": 141,
+        "n_genes": 253,
+        "coverage": 0.5573122529644269,
+        "valid": true
+      },
+      "neural": {
+        "n_present": 38,
+        "n_genes": 50,
+        "coverage": 0.76,
+        "valid": true
+      }
+    },
+    "contrasts": [
+      {
+        "background": "MDA-MB-231",
+        "signature": "stepA",
+        "n_brm": 4,
+        "n_parental": 3,
+        "mean_brm": 0.007879851047309285,
+        "mean_parental": -0.2632032925770186,
+        "mannwhitney_p": 0.22857142857142856,
+        "independent_of_discovery": false
+      },
+      {
+        "background": "MDA-MB-231",
+        "signature": "neural",
+        "n_brm": 4,
+        "n_parental": 3,
+        "mean_brm": -0.04928999184923944,
+        "mean_parental": -0.1935723132710453,
+        "mannwhitney_p": 0.8571428571428571,
+        "independent_of_discovery": false
+      },
+      {
+        "background": "CN34",
+        "signature": "stepA",
+        "n_brm": 4,
+        "n_parental": 2,
+        "mean_brm": 0.2625907675418933,
+        "mean_parental": -0.14613629831287656,
+        "mannwhitney_p": 0.26666666666666666,
+        "independent_of_discovery": true
+      },
+      {
+        "background": "CN34",
+        "signature": "neural",
+        "n_brm": 4,
+        "n_parental": 2,
+        "mean_brm": 0.24368194557481765,
+        "mean_parental": -0.0984254375445892,
+        "mannwhitney_p": 0.5333333333333333,
+        "independent_of_discovery": true
+      }
+    ]
+  }
+}

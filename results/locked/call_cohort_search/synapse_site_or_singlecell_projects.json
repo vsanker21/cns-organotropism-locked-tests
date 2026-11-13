@@ -1,0 +1,444 @@
+[
+  {
+    "id": "syn7433743",
+    "name": "Interdisciplinary Approaches to Cancer Metastasis",
+    "description": "  ${image?fileName=combinedLogo%5FwithTitle%2Epng&align=Center&responsive=true}  Metastasis remains the principal cause of mortality among cancer patients. For a tumor cell to metastasize, it must escape the primary tumor, successfully nego",
+    "children": [
+      "IACM Project Resources"
+    ]
+  },
+  {
+    "id": "syn4112414",
+    "name": "2015 MICCAI Guess the Primary Challenge",
+    "description": "  #CBTC Challenge 3: Guess the Primary This is the third of three Challenges in the Computational Brain Tumor Cluster of Events ([CBTC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=20644646)) 2015 to be held on Oct 9 i",
+    "children": [
+      "2015 MICCAI Guess the Primary Terms of Use.pdf",
+      "Challenge Data"
+    ]
+  },
+  {
+    "id": "syn73580025",
+    "name": "iS2C2_Bone_Mets_scRNAseq_ST",
+    "description": "  # **iS2C2: A Co-Intelligent Platform for Mechanistic Discovery of Disease Cellular Crosstalk**  ## **Overview**  This project contains the single-cell and spatial transcriptomic datasets used to validate the **iS2C2** platform. The study ",
+    "children": [
+      "Bone_Mets_Spatial_Transcriptomics.rds",
+      "Bone_Mets_scRNAseq.rds"
+    ]
+  },
+  {
+    "id": "syn15569329",
+    "name": "HeLP Challenge 2018",
+    "description": "  ###WRAP-UP WORKSHOP  ${image?fileName=merge%2Epng&align=None&scale=100&responsive=true&altText=}  ###NEWS ####- 19/03/06: 19/03/03(\uc77c) 24:00\ub97c \uae30\uc810\uc73c\ub85c contest 1 \uacfc 2 \uac00 \ubaa8\ub450 \uc885\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4. docker \uae30\ubc18\uc758 \ud074\ub77c\uc6b0\ub4dc \uc2dc\uc2a4\ud15c\uc758 \uc81c\uc57d\uc774 \ub9ce\uc740 \ud655\uc5f0 \uc18d\uc5d0\uc11c\ub3c4 \ucd5c\uc120\uc744 \ub2e4\ud574 contest \uc5d0 \uc784\ud574 \uc8fc\uc2e0 \ucc38\uac00\uc790 \ubd84",
+    "children": []
+  },
+  {
+    "id": "syn27188565",
+    "name": "AI-IMPACT consortium",
+    "description": "  ${image?fileName=AI%2DIMPACTlogo%2Epng&align=None&scale=40&responsive=true} #AI-IMPACT (Health Holland funded): Repurposing and discovery of multi-target kinase inhibitors against brain tumors\t ####Supported by Health Holland ${buttonlink",
+    "children": [
+      "saved_models"
+    ]
+  },
+  {
+    "id": "syn51156910",
+    "name": "BraTS 2023 Challenge",
+    "description": "  ${image?fileName=brats%2Dbanner%2Dv3%2Drevised%2Epng&align=Center&scale=100&responsive=true&altText=Brain Tumor Segmentation %28BraTS%29 %2D Cluster of Challenges}  #### -> There are ${teammembercount?teamId=3466985} [registered participa",
+    "children": [
+      "Data",
+      "MET Annotator Leaderboard"
+    ]
+  },
+  {
+    "id": "syn21497922",
+    "name": "Sottoriva Lab - Cancer Evolutionary Genomics and Modelling",
+    "description": "  {row}  {column width=8} # \ufeff\ufeffPredicting the evolution of cancer, one patient at a time. Our team focuses on deciphering the dynamics of cancer growth, progression and treatment resistance in each patient using rigorous mathematical and com",
+    "children": [
+      "BREAST_CANCER_ITH",
+      "EPICC",
+      "EVOESCAPE_ALLDATA",
+      "EVOESCAPE_TCGA_Hartwig_Riaz_SOPRANO",
+      "EVOSTEERING",
+      "GMB_RESIDUAL_DISEASE",
+      "IMMUNOPANEL",
+      "LEGACY",
+      "MOBSTER",
+      "PROSPECT-C",
+      "d1_CNA_table",
+      "d2_SNV_table"
+    ]
+  },
+  {
+    "id": "syn75957506",
+    "name": "Angiogenesis and Lymphangiogenesis Analysis",
+    "description": "  **Angiogenesis and Lymphangiogenesis Analysis**  **Overview**  [Angiogenesis and Lymphangiogenesis Analysis](https://www.alfacytology.com/3d-cancer-models/angiogenesis-and-lymphangiogenesis-analysis.html) is a critical area of cancer rese",
+    "children": []
+  },
+  {
+    "id": "syn53708249",
+    "name": "BraTS 2024 Challenge",
+    "description": "  ${image?fileName=brats%2D2024%2Epng&align=Center&scale=100&responsive=true&altText=Brain Tumor Segmentation %28BraTS%29 %2D Cluster of Challenges}  #### -> There are ${teammembercount?teamId=3501723} [registered participants](https://www.",
+    "children": [
+      "Data"
+    ]
+  },
+  {
+    "id": "syn21034537",
+    "name": "HeLP Challenge 2019",
+    "description": "  ###NEWS ####- 20/04/09(\ubaa9): HeLP Challenge 2019 \ucd5c\uc885 \uacb0\uacfc \ubc1c\ud45c \ub4dc\ub9bd\ub2c8\ub2e4. \ucd5c\uc6b0\uc218\uc0c1\uc740 \"Goldenpass\", \uc6b0\uc218\uc0c1\uc740 \"Thanos\"\uc640 \"\ud504\ub9ac\uc998\"\uc774 \uacf5\ub3d9 \uc218\uc0c1\ud558\uc600\uc2b5\ub2c8\ub2e4. \ucc38\uc5ec\ud574\uc8fc\uc2e0 \ubaa8\ub4e0 \ud300\uaed8 \uac10\uc0ac\ub4dc\ub9bd\ub2c8\ub2e4. ${image?fileName=1st%5F%28goldenpass%29%2Ejpg&align=None&scale=70&responsive=true&altText=} ${image?fi",
+    "children": []
+  },
+  {
+    "id": "syn10147652",
+    "name": "Parkinsons Research",
+    "description": "  What has been contributed so far to research in mathematics applied to 3-D Cartesian mapping of a circle in 3-D a ball along a tube represented by microtubules represented by veins represented by bloodstreams represented on the mapping by",
+    "children": [
+      "IMG_0035.JPG"
+    ]
+  },
+  {
+    "id": "syn74274097",
+    "name": "BraTS 2026 Challenge",
+    "description": "  -> ${image?fileName=BraTS%5FBanner%5Finit%2Epng&align=None&scale=100&responsive=true&altText=} <-  #The 15th BraTS Cluster of Challenges at MICCAI 2026  Since its inception at MICCAI 2012, the Brain Tumor Segmentation (BraTS) Challenge ha",
+    "children": [
+      "BraTS-slides-workshop2026",
+      "MICCAI BraTS Challenge 2026 - Schedule v2",
+      "project_synid.png"
+    ]
+  },
+  {
+    "id": "syn10002875",
+    "name": "WINDOW Consortium",
+    "description": " Root ${image?fileName=Logo%5FWINDOWS%2Epng&align=Left&scale=20&responsive=true} ##WINDOW consortium: enabling combination therapy against glioblastoma ####Supported by THE BRAIN TUMOUR CHARITY ${buttonlink?text=About WINDOW&url=#!Synapse:s",
+    "children": []
+  },
+  {
+    "id": "syn64153130",
+    "name": "BraTS-Lighthouse 2025 Challenge",
+    "description": "  ${image?fileName=logo%5F2025%2Epng&align=Center&scale=100&responsive=true&altText=Brain Tumor Segmentation %28BraTS%29 challenge banner}  <div class=\"col-sm-6\"> <div class=\"alert alert-success\">  ###! Challenge closed  ####! Thank you to ",
+    "children": [
+      "MICCAI BraTS Lighthouse Challenge 2025 - Schedule.pdf"
+    ]
+  },
+  {
+    "id": "syn62274230",
+    "name": "Human liver senescence",
+    "description": "  # Cellular senescence in human liver under normal aging and cancer  This project accompanies the study by Karpova, Li, Peng, and colleagues in *Cell Genomics* (2026). The paper maps cellular senescence across human liver aging, fibrosis, ",
+    "children": [
+      "Normal_liver_477genes_Labels_confident_manually_adjusted_v4.tsv",
+      "Normal_liver_5Kgenes_Labels_confident_manually_adjusted_v4.tsv",
+      "mCRC_Labels_confident_manually_adjusted_v4.tsv"
+    ]
+  },
+  {
+    "id": "syn70194549",
+    "name": "Utilizing protein scavenging for the treatment of NF1-deficient MPNST",
+    "description": " Utilizing protein scavenging for the treatment of NF1-deficient MPNST # Utilizing protein scavenging for the treatment of NF1-deficient MPNST ## CTF - Drug Discovery Initiative ### Principal Investigator: Craig Ramirez ### Project Lead / D",
+    "children": [
+      "Analysis",
+      "Data Sharing Plan",
+      "Milestone Reports",
+      "Raw Data"
+    ]
+  },
+  {
+    "id": "syn75957419",
+    "name": "Tumor Biology and Microenvironment Research",
+    "description": "  [Tumor Biology and Microenvironment Research](https://www.alfacytology.com/3d-cancer-models/tumor-biology-and-microenvironment-research-services.html)  **Overview** Tumor Biology and Microenvironment Research has become a fundamental area",
+    "children": []
+  },
+  {
+    "id": "syn52939291",
+    "name": "BraTS-ISBI 2024 - Generalizability Across Tumors Challenge - BraTS-GoAT Challenge",
+    "description": "  ${image?fileName=brats%2Dbanner%2Epng&align=Center&scale=100&responsive=true&altText=BraTS}  <!-- <div class=\"col-sm-2\"> </div> <div class=\"col-sm-4\">  #### ${jointeam?teamId=3486191&isChallenge=true&isMemberMessage=You have successfully ",
+    "children": [
+      "Data",
+      "MLCube Resources",
+      "Organizing Team"
+    ]
+  },
+  {
+    "id": "syn51333298",
+    "name": "A Whole Animal Approach For Developing A Novel cNF Therapeutic Lead",
+    "description": " A Whole Animal Approach For Developing A Novel cNF Therapeutic Lead # A Whole Animal Approach For Developing A Novel cNF Therapeutic Lead ## NTAP - Biology and Therapeutic Development for Cutaneous Neurofibromas ### Principal Investigator:",
+    "children": [
+      "Analysis",
+      "Data Sharing Plan",
+      "Milestone Reports",
+      "Protocols",
+      "Raw Data",
+      "Raw image data",
+      "behavioralassaytemplate_synapse_storage_manifest_table",
+      "clinicalassaytemplate_synapse_storage_manifest_table",
+      "imagingassaytemplate_synapse_storage_manifest_table"
+    ]
+  },
+  {
+    "id": "syn7073405",
+    "name": "MetHet Tumor Heterogeneity Modeling Project",
+    "description": "  ###MetHet: The modeling of heterogeneous tumor metastases  #####**MetHet** is a discrete spatiotemporal model of drug delivery to a tumor at the mesoscopic (cellular) scale. This model allows the exploration of parameter space for events ",
+    "children": [
+      "Compucell3D simulations",
+      "EXTENDED METHODS FOR THE HETEROGENEOUS BLADDER METASTASIS MODEL.docx",
+      "Movies"
+    ]
+  },
+  {
+    "id": "syn76396299",
+    "name": "Liver Cancer Organoid Research",
+    "description": "  **Overview** [Liver Cancer Organoid Research](https://www.alfacytology.com/3d-cancer-models/liver-cancer-organoid-development.html) has become an advanced approach for investigating liver cancer biology, tumor progression, and therapeutic",
+    "children": []
+  },
+  {
+    "id": "syn17084070",
+    "name": "Phenotype Transitions in Small Cell Lung Cancer - CA215845",
+    "description": "  ###The CSBC U01 Research Project \\@ Vanderbilt  **List of Collaborating Institutions**  &nbsp;  **Project Websites** https://labnodes.vanderbilt.edu/community/profile/id/334 https://my.vanderbilt.edu/lopezlab/  &nbsp;  **Project Descripti",
+    "children": [
+      "Data",
+      "Publications",
+      "Tools",
+      "datasets"
+    ]
+  },
+  {
+    "id": "syn21614175",
+    "name": "EHR Patient Mortality Challenge LCSB_LUX",
+    "description": "  #EHR Patient Mortality Challenge LCSB_LUX <!-- Tree Ensemble Classification with Comorbidity Flavoured Data -->  Peter Banda, Carlos Vega, Soumyabrata Ghosh, Enrico Glaab, Roland Krause, Venkata Satagopam Luxembourg Centre for Systems Bio",
+    "children": [
+      "LCSB_LUX_VALIDATION",
+      "application.conf",
+      "conceptCategories.json"
+    ]
+  },
+  {
+    "id": "syn18684611",
+    "name": "Qualifying antibodies for image-based immune profiling and multiplexed tissue imaging",
+    "description": "  #Qualifying antibodies for image-based immune profiling and multiplexed tissue imaging Ziming Du^1,2*^, Jia-Ren Lin^2,3*^, Rumana Rashid^1,4*^, Zoltan Maliga^2,3^, Shu Wang^2,3,5^, Jon C. Aster^1,2,^ Benjamin Izar^2,3,6,7^, Peter K. Sorge",
+    "children": [
+      "FIGURES",
+      "IHC_JPG_FILES",
+      "PIXEL_DATA_FIVE_REGIONS.xlsx",
+      "RCPNL_FILES_EIGHT_TONSILS",
+      "RCPNL_FILES_LUNG-1-LN",
+      "RCPNL_FILES_LUNG-2-BR",
+      "RCPNL_FILES_LUNG-3-PR",
+      "RCPNL_FILES_TONSIL",
+      "SINGLE_CELL_DATA_EIGHT_TONSILS.xlsx",
+      "SINGLE_CELL_DATA_LUNG-1-LN.xlsx",
+      "SINGLE_CELL_DATA_LUNG-2-BR.xlsx",
+      "SINGLE_CELL_DATA_LUNG-3-PR.xlsx",
+      "SINGLE_CELL_DATA_Tonsil.xlsx",
+      "TIFF_FILES_FIVE_REGIONS",
+      "antibody_list.xlsx",
+      "dataset_list.xlsx"
+    ]
+  },
+  {
+    "id": "syn29616137",
+    "name": "2022 CSBC PS-ON mini-DREAM Challenge",
+    "description": "  ${image?fileName=minidream%5F2022%5Fbanner%2Epng&align=None&scale=100&responsive=true&altText=mini%2DDREAM 2022 banner} ---  <!--<div class=\"alert alert-warning\">The 2020 mini-DREAM Challenge has concluded as of <strong>August 13th, 2020<",
+    "children": [
+      "Activities",
+      "Data",
+      "Resources",
+      "Slides"
+    ]
+  },
+  {
+    "id": "syn22149791",
+    "name": "2020 CSBC PS-ON mini-DREAM Challenge",
+    "description": "  ${image?fileName=minidream2020%2Dbanner%2Epng&align=None&scale=100&responsive=true&altText=mini%2DDREAM banner} ---  <!--<div class=\"alert alert-warning\">The 2020 mini-DREAM Challenge has concluded as of <strong>August 13th, 2020</strong>",
+    "children": [
+      "Activities",
+      "Challenge Certification Test",
+      "Data",
+      "Presentations",
+      "RStudio Files section",
+      "Resources",
+      "Submissions"
+    ]
+  },
+  {
+    "id": "syn25653150",
+    "name": "2021 CSBC PS-ON mini-Dream Challenge",
+    "description": "  ${image?fileName=minidream2021%2Dbanner%2Epng&align=None&scale=100&responsive=true&altText=minidream2021%2Dbanner} ---  <!--<div class=\"alert alert-warning\">The 2020 mini-DREAM Challenge has concluded as of <strong>August 13th, 2020</stro",
+    "children": [
+      "Activities",
+      "Challenge Certification Test",
+      "Data",
+      "Resources",
+      "SURP_2021_Conference_Agenda.docx",
+      "Slides",
+      "Submissions"
+    ]
+  },
+  {
+    "id": "syn1688369",
+    "name": "METABRIC Data for Use in Independent Research",
+    "description": "  >####Information about this study is limited to what is described through this portal and in the papers linked below. Please see [EGAS00000000098](https://ega-archive.org/studies/EGAS00000000098) for an independent distribution of Metabri",
+    "children": [
+      "Metabric Files as Rbinaries",
+      "Metabric Files as Text Files"
+    ]
+  },
+  {
+    "id": "syn2623706",
+    "name": "Colorectal Cancer Subtyping Consortium (CRCSC)",
+    "description": "  ## Background Several independent groups have recently reported novel molecular subtypes in colorectal cancer (CRC). A systematic comparison of the reported subtypes was needed to determine common findings and facilitate translation into ",
+    "children": [
+      "classifier",
+      "data",
+      "genesets"
+    ]
+  },
+  {
+    "id": "syn4228681",
+    "name": "Prostate Cancer DREAM Challenge Prediction",
+    "description": "  #An Ensemble Model Predicting Early Docetaxel Treatment Discontinuation for mCRPC Patients Due to Adverse Events  Wei-Yi Cheng Informatics, Roche Pharmaceutical Research and Early Development, Roche Innovation Center New York, New York, N",
+    "children": [
+      "Q1",
+      "Q2",
+      "prosperouscat.tar.gz"
+    ]
+  },
+  {
+    "id": "syn5556706",
+    "name": "AstraZeneca_Submissions",
+    "description": "  ##**Signaling pathway activities to predict drug synergy**  (AstraZeneca-Sanger Drug Combination Prediction DREAM Challenge 2015 - Methodological Summary) **AUTHORS**: Cankut CUBUK1, Marta R. Hidalgo1, Alicia Amadoz1, Jose Carbonell-Cabal",
+    "children": []
+  },
+  {
+    "id": "syn18813072",
+    "name": "2019 CSBC PS-ON mini-Dream Challenge",
+    "description": "  ${image?fileName=minidream2019%2Dbanner%2Epng&align=None&scale=100&responsive=true&altText=} ---  <!--<div class=\"alert alert-warning\">The 2019 mini-DREAM Challenge has concluded as of <strong>August 6th, 2019</strong>. All materials from",
+    "children": [
+      "2019 miniDREAM Module Recordings",
+      "Activities",
+      "Presentations",
+      "Resources",
+      "Submissions"
+    ]
+  },
+  {
+    "id": "syn12105406",
+    "name": "2018 CSBC PS-ON mini-DREAM Challenge",
+    "description": "  ${image?fileName=minidream2018%2Dbanner%2Esvg&align=None&scale=100&responsive=true&altText=} ---  <div class=\"alert alert-warning\">The 2018 mini-DREAM Challenge has concluded as of <strong>August 7th, 2018</strong>. All materials from the",
+    "children": [
+      "2018 mini-DREAM Roster",
+      "Activities",
+      "Data",
+      "Presentations",
+      "Resources"
+    ]
+  },
+  {
+    "id": "syn4939884",
+    "name": "Development of a novel treatment approach to Neurofibromatosis Type 1-related MPNST using genetically engineered Clostridium novyi-NT",
+    "description": " NTAP project ##Development of a novel treatment approach to Neurofibromatosis Type 1-related MPNST using genetically engineered Clostridium novyi-NT. **Initiative:** Francis Collins &nbsp; **Name:** Verena Staedtke, M.D., Ph.D. **Contact E",
+    "children": [
+      "Data"
+    ]
+  },
+  {
+    "id": "syn25551331",
+    "name": "2021 Hack for Rare",
+    "description": "  ${image?fileName=Hackathon%2D2021%2DBanner%2D%282160x540%29 FINAL%2Ejpg&align=None&scale=100&responsive=true&altText=} &nbsp;   <!--${buttonlink?text=Register for the 2021 Hack4RARE&url=https://www%2Esynapse%2Eorg/#!Synapse:syn25551331/wi",
+    "children": [
+      "2021 Hackathon Datasets",
+      "Consent Form_Hack for RARE.pdf",
+      "Hackathon Template Project SynID",
+      "googleform.html",
+      "guide.html",
+      "problem_pitch.html",
+      "team_signup.html"
+    ]
+  },
+  {
+    "id": "syn4721051",
+    "name": "Final DREAM9.5 submission- team limax",
+    "description": "  ##Final DREAM9.5 submission from team limax  Artem Sokolov, Chris Wong, Yulia Newton, Robert Baertsch, Josh Stuart University of California, Santa Cruz  ##Introduction  The final predictions were made by an ensemble of three distinct meth",
+    "children": [
+      "limax-code.tgz",
+      "limax-risk.csv",
+      "limax-tte.csv"
+    ]
+  },
+  {
+    "id": "syn18404605",
+    "name": "Anti-PD1 Response Prediction DREAM Challenge",
+    "description": "    ${image?fileName=bmsNewestBanner%2Epng&align=Center&scale=100&responsive=true&altText=}  > ####!The challenge is now closed. > <!-- ${jointeam?teamId=3386497&isChallenge=false&isSimpleRequestButton=true&isMemberMessage=You have successf",
+    "children": [
+      "Code Books",
+      "Webinar Recording and Slides"
+    ]
+  },
+  {
+    "id": "syn10240587",
+    "name": "GENIE Test Upload",
+    "description": "  <font size=6>  Preparing data files for AACR Project GENIE </font>  &nbsp; ${toc}  ## **Introduction** Full GENIE participants upload files to Synapse that include clinical and genetic data, as well as assay and workflow information. This",
+    "children": [
+      "Center Mapping",
+      "Database to Synapse Id Mapping",
+      "NAACCR_ETHNICITY_MAPPING",
+      "NAACCR_RACE_MAPPING",
+      "NAACCR_SEX_MAPPING",
+      "Resources",
+      "SAMPLE_TYPE_MAPPING",
+      "TEST Merge Variant Checking (Mutations in Cis)",
+      "TEST Sample Clinical Database"
+    ]
+  },
+  {
+    "id": "syn1688370",
+    "name": "OsloVal Data for Use in Independent Research",
+    "description": "  >####Information about this study is limited to what is described in this portal and the publication linked below ## Data Description  #####! This Project gives access to the OsloVal Breast Cancer Challenge Validation data for use in inde",
+    "children": [
+      "OSLOVAL_DataRequestInstructions.pdf",
+      "OsloVal Data as Rbinary files",
+      "OsloVal Data as Text Files"
+    ]
+  },
+  {
+    "id": "syn23552461",
+    "name": "Team Shirin NF Hackathon 2020 Drug Discovery",
+    "description": "  # Copper and Zinc complexes as proposed metalloallosteric therapy for cutaneous neurofibroma  Isaac Dimitrovsky$$\\(^1\\)$$ and Lars Warren Ericson$$\\(^2\\)$$  1 WRQ Research. ikedim@gmail.com, www.ikedim.com 2 Catskills Research Company, la",
+    "children": [
+      "articles.zip",
+      "cnf_human.jpg",
+      "copper.tar.gz",
+      "copper.zip",
+      "nfCopper.ipynb",
+      "shirinRNA.png"
+    ]
+  },
+  {
+    "id": "syn7214402",
+    "name": "MC3",
+    "description": "  #TCGA Unified Ensemble \"MC3\" Call Set   This wiki page provides documentation for the pancan.merged.v0.2.6.PUBLIC.maf dataset. This is the public, open-access, dataset of somatic mutation calls (SNVs and indels) produced as part of the ca",
+    "children": [
+      "FigureGeneration",
+      "broad_mc3_wigs.tar.gz",
+      "mc3.v0.2.8.PUBLIC.code.filtered.maf.zip",
+      "mc3.v0.2.8.PUBLIC.maf.gz"
+    ]
+  },
+  {
+    "id": "syn53065760",
+    "name": "MIDI-B De-identification Challenge",
+    "description": "  ${image?fileName=midi%5Fbenchmark%2Epng&align=None&scale=100&responsive=true&altText=}  <!--  <div class=\"col-sm-2\"> </div> <div class=\"col-sm-4\">  #### ${jointeam?teamId=3487812&isChallenge=true&isMemberMessage=Registered for MIDI%2DB \u2705&",
+    "children": [
+      "Data",
+      "Logs-Benchmarking",
+      "Logs-Final-Round",
+      "Organizing Team"
+    ]
+  },
+  {
+    "id": "syn20366914",
+    "name": "Single Cell Signaling in Breast Cancer Challenge",
+    "description": "   ${image?fileName=banner%5Fdraft%2Epng&align=None&scale=100&responsive=true&altText=}  > The challenge is now closed.   ## Overview  Signaling underlines nearly every cellular event. Individual cells, even if genetically identical, respon",
+    "children": [
+      "Additional files",
+      "Data"
+    ]
+  }
+]

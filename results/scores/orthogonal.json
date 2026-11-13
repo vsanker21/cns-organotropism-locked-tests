@@ -1,0 +1,150 @@
+{
+  "mouse_stepA": {
+    "n": 49,
+    "n_genes_scored": null,
+    "means": [
+      {
+        "derivative": "Parental",
+        "mean": 0.13420130359599475,
+        "count": 15
+      },
+      {
+        "derivative": "Parenchyma",
+        "mean": 0.00437957029318873,
+        "count": 15
+      },
+      {
+        "derivative": "Leptomeningeal",
+        "mean": -0.10940595307040803,
+        "count": 19
+      }
+    ],
+    "params": {
+      "Intercept": 0.12540251795223714,
+      "C(derivative, Treatment(reference='Parental'))[T.Parenchyma]": -0.1298217333028061,
+      "C(derivative, Treatment(reference='Parental'))[T.Leptomeningeal]": -0.24638582055390532,
+      "C(model)[T.B16]": 0.021996964109394147,
+      "C(model)[T.E0771]": 0.021996964109394092,
+      "C(model)[T.EMT6]": 4.6256743895420104e-17,
+      "C(model)[T.Yumm52]": 2.122629735838582e-17
+    },
+    "pvalues": {
+      "Intercept": 0.29376448093680657,
+      "C(derivative, Treatment(reference='Parental'))[T.Parenchyma]": 0.24328338255159146,
+      "C(derivative, Treatment(reference='Parental'))[T.Leptomeningeal]": 0.022924843441429196,
+      "C(model)[T.B16]": 0.8717757006938873,
+      "C(model)[T.E0771]": 0.8717757006938875,
+      "C(model)[T.EMT6]": 0.9999999999999998,
+      "C(model)[T.Yumm52]": 0.9999999999999999
+    },
+    "conf_int": {
+      "Intercept": [
+        -0.11262568879123272,
+        0.36343072469570703
+      ],
+      "C(derivative, Treatment(reference='Parental'))[T.Parenchyma]": [
+        -0.3511992982872735,
+        0.09155583168166129
+      ],
+      "C(derivative, Treatment(reference='Parental'))[T.Leptomeningeal]": [
+        -0.45695788708770213,
+        -0.035813754020108474
+      ],
+      "C(model)[T.B16]": [
+        -0.25136368220722227,
+        0.2953576104260106
+      ],
+      "C(model)[T.E0771]": [
+        -0.2513636822072223,
+        0.29535761042601055
+      ],
+      "C(model)[T.EMT6]": [
+        -0.28579720746959714,
+        0.28579720746959725
+      ],
+      "C(model)[T.Yumm52]": [
+        -0.2857972074695973,
+        0.2857972074695973
+      ]
+    },
+    "n_orthologs": 196,
+    "n_orthologs_in_matrix": 187,
+    "derivative_counts": {
+      "Leptomeningeal": 19,
+      "Parental": 15,
+      "Parenchyma": 15
+    }
+  },
+  "bone_tropic_1833_vs_parental": {
+    "stepA": {
+      "n_genes": 253,
+      "n_present": 235,
+      "mean_parental": 0.06786053826180208,
+      "mean_bone_tropic": -0.06786053826180229,
+      "welch_p": 0.1758244331511608
+    },
+    "neural": {
+      "n_genes": 50,
+      "n_present": 47,
+      "mean_parental": -0.11905348964959984,
+      "mean_bone_tropic": 0.11905348964959861,
+      "welch_p": 0.424258718246605
+    }
+  },
+  "smid_brain_up": {
+    "n_genes": 41,
+    "GSE76714_external": {
+      "label": "GSE76714:smid_brain_up",
+      "n": 71,
+      "n_positive": 23,
+      "mean_score_positive": 0.07220044818540462,
+      "mean_score_negative": -0.03459604808883992,
+      "mannwhitney_p": 0.12307429228789435,
+      "auc": 0.6141304347826086,
+      "auc_ci95": [
+        0.47861788617886186,
+        0.7524925333064868
+      ],
+      "log_or_per_sd": 0.30728680725738294,
+      "or_per_sd": 1.3597308928408356,
+      "or_ci95": [
+        0.8056781006448643,
+        2.2947975121402737
+      ],
+      "logit_p": 0.24982166707754105,
+      "coverage": {
+        "n_present": 39,
+        "n_genes": 41,
+        "coverage": 0.9512195121951219,
+        "valid": true
+      }
+    },
+    "GSE12276_circular": {
+      "label": "GSE12276:smid_brain_up",
+      "n": 185,
+      "n_positive": 16,
+      "mean_score_positive": 0.3344487096616289,
+      "mean_score_negative": -0.05243993507266058,
+      "mannwhitney_p": 0.014107215559397998,
+      "auc": 0.6860207100591715,
+      "auc_ci95": [
+        0.5495188195038494,
+        0.8183085438317338
+      ],
+      "log_or_per_sd": 0.5958392982531131,
+      "or_per_sd": 1.8145532574128302,
+      "or_ci95": [
+        1.0949888206895078,
+        3.0069745569769197
+      ],
+      "logit_p": 0.020772927821560847,
+      "coverage": {
+        "n_present": 38,
+        "n_genes": 41,
+        "coverage": 0.926829268292683,
+        "valid": true
+      },
+      "note": "This gene set was derived from GSE12276, so agreement here only checks the scoring pipeline."
+    }
+  }
+}

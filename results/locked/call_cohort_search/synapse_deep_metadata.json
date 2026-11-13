@@ -1,0 +1,1570 @@
+{
+  "n_projects_paged": 448,
+  "n_hinted": 111,
+  "opened": [
+    {
+      "id": "syn57077557",
+      "name": "Spatial Distribution Map of Brain Metastasis",
+      "description": "",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn57078248",
+          "name": "Breast.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn57078331",
+          "name": "Lung.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn7433743",
+      "name": "Interdisciplinary Approaches to Cancer Metastasis",
+      "description": "  ${image?fileName=combinedLogo%5FwithTitle%2Epng&align=Center&responsive=true}  Metastasis remains the principal cause of mortality among cancer patients. For a tumor cell to metastasize, it must escape the primary tumor, successfully negotiate various molecular and cellular interactions, and colonize a new microenvironment to establish a secondary tumor. To predict how and when cancer will metas",
+      "n_children": 3,
+      "children": [
+        {
+          "id": "syn11435893",
+          "name": "IACM Project Resources",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn11469639",
+          "name": "IACM-funded project resources",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn11990119",
+          "name": "Project files and metadata",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn3207674",
+      "name": "Brain extraction evaluation (2010)",
+      "description": "  This Synapse project contains the data, code, and results related to the following project:  #### Evaluation of open-access, automated brain extraction methods on multi-site multi-disorder data. Avants, B, Klein, A, Tustison, N, Woo, J, Gee, JC. 2010. 16th Annual Meeting for the Organization of Human Brain Mapping. http://mindboggle.info/posters/HBM2010_Atropos_poster.pdf",
+      "n_children": 17,
+      "children": [
+        {
+          "id": "syn3207734",
+          "name": "README.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207723",
+          "name": "S01_bxt_figures",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3207724",
+          "name": "atropos",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3207738",
+          "name": "evaluate_nonoverlap.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207742",
+          "name": "evaluate_overlap.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207745",
+          "name": "evaluate_overlap.sh",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207749",
+          "name": "evaluate_overlap_freesurfer.sh",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207753",
+          "name": "evaluate_overlap_to_table.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3217244",
+          "name": "output",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3207757",
+          "name": "process_freesurfer_results.sh",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207760",
+          "name": "rank_indifferencezone.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207726",
+          "name": "results",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3207764",
+          "name": "run_fs_lpba.sh",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207768",
+          "name": "run_fs_nvm.sh",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207772",
+          "name": "run_missing.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3217036",
+          "name": "shells.tar.gz",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3207776",
+          "name": "table_ROIxMethod_MO_Buckner40_bertsurfarea.csv",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn26346373",
+      "name": "Cortical Brain Organoids",
+      "description": "  This project contains raw data, including full read information, as well as Seurat objects associated with the [paper](https://www.nature.com/articles/s41586-021-04358-6) **\"Autism genes converge on asynchronous development of shared neuron classes\"**, as well as the upcoming paper associated with the [study](https://www.biorxiv.org/content/10.1101/2022.03.17.484798v1) **\"Single-cell multiomics ",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn26346471",
+          "name": "Fastq Files + Proteomic Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn26346581",
+          "name": "SeuratObjects",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn3208225",
+      "name": "Brain cortical features evaluation (HBM2011)",
+      "description": "  This Synapse project contains the code related to the following project:  #### Automated extraction of nested sulcal features from human brain MRI data. Bao, F, Lee, N, Hame, Y, Im, K, Riviere, D, Li, G, Klein, A. 2011. 17th Annual Meeting for the Organization of Human Brain Mapping. http://mindboggle.info/posters/HBM2011_nestedfeatures_poster.pdf ",
+      "n_children": 9,
+      "children": [
+        {
+          "id": "syn3208260",
+          "name": "CUMC12_labels_regions.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208264",
+          "name": "avg.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208268",
+          "name": "count_landmarks.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208272",
+          "name": "landmark1_to_landmark2_distances.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208276",
+          "name": "landmark_to_labelborder_distances.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208281",
+          "name": "landmark_to_landmark_distances.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208284",
+          "name": "register_to_template.py",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208289",
+          "name": "results.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3208253",
+          "name": "x",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn22150694",
+      "name": "Human Brain Tau Immunoprecipitation",
+      "description": "  ##Tau Immunoprecipitation and Human Postmortem Brain Proteomics  Healthy control (n = 4) and AD patient (n = 4) frontal cortex brain samples (Table S1) were homogenized in NP-40 lysis buffer (25 mM Tris-HCl at pH 7.5, 150 mM NaCl, 1 mM EDTA, 1% NP-40, 5% Glycerol, 5 mM iodoacetamide) with protease and phosphatase inhibitors using a bullet blender according to manufacturer\u2019s instructions followed",
+      "n_children": 3,
+      "children": [
+        {
+          "id": "syn22150826",
+          "name": "RAW data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22150829",
+          "name": "Search Results - With PTMs",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22150827",
+          "name": "Search Results - Without PTMs",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn73569657",
+      "name": "BPSD brain proteomics",
+      "description": "  # Data Sharing for _Behavioral and psychological symptoms of dementia: insights from a multivariate and network-based brain proteome-wide study_  Synapse ID: syn73569657  ## Proteomic data See published manuscript for detailed description of study subjects and proteomic profiling. Briefly, post-mortem dorsolateral prefrontal cortex tissue samples were collected from donors from three cohorts. Al",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn73572886",
+          "name": "protein_compiled_raw.csv",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn73572633",
+          "name": "sample_ids.csv",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn20933797",
+      "name": "Consensus Brain Protein Coexpression Study",
+      "description": "  ###The Consensus Brain Protein Coexpression (ConsensusProteinCoexpression) Study  ***Plese cite [Johnson ECB, et al, Nat Med, 2020](https://doi.org/10.1038/s41591-020-0815-6) when referencing this work and to see additional methods pertaining to the full work.***  #Methods for ALL Brain Tissue Cohorts ###Brain Tissue Samples and Case Classification Brain tissue used in this study was obtained fr",
+      "n_children": 8,
+      "children": [
+        {
+          "id": "syn21441775",
+          "name": "Aging",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21493638",
+          "name": "All_Traits_Harmonized-Johnson_et_al_Supplementary_Table_1.xlsx",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn21441777",
+          "name": "BLSA precuneus",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21441787",
+          "name": "CSF",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21441771",
+          "name": "Consensus",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21441782",
+          "name": "Mayo Temporal Cortex",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21441776",
+          "name": "ROSMAP",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21441786",
+          "name": "U. Penn Multiple Neurodegenerative Diseases",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn25887675",
+      "name": "Spina Bifida Aperta Spatio-temporal Brain MRI Atlas",
+      "description": "  #A Spatio-temporal Atlas of the Developing Fetal Brain with Spina Bifida Aperta ${image?fileName=Slide2%2Ejpg&align=Center&scale=100&responsive=true&altText=}  ##Data description This project contains $15$ folders. Each folder corresponds to a unique volume of our spatio-temporal fetal brain atlas and contains four nifti files: - srr.nii.gz (average 3D reconstructed MRI) - mask.nii.gz (3D brain ",
+      "n_children": 3,
+      "children": [
+        {
+          "id": "syn26236111",
+          "name": "LICENSE.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn25910198",
+          "name": "SpinaBifidaAtlas_v1",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn35049554",
+          "name": "SpinaBifidaAtlas_v2.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn68638152",
+      "name": "Human iPSC-Derived Immunocompetent Brain Organoids as a Preclinical Model for Neurofibromatosis Type 1",
+      "description": " Human iPSC-Derived Immunocompetent Brain Organoids as a Preclinical Model for Neurofibromatosis Type 1 # Human iPSC-Derived Immunocompetent Brain Organoids as a Preclinical Model for Neurofibromatosis Type 1 ## GFF - Next Generation Models ### Principal Investigator: Xitiz Chamling, Lena Smirnova ### Project Lead / Data Coordinator: Xitiz Chamling, Lena Smirnova ### Institution: Johns Hopkins Uni",
+      "n_children": 13,
+      "children": [
+        {
+          "id": "syn68638153",
+          "name": "Analysis",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn69051313",
+          "name": "Data Sharing Plan",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn68638154",
+          "name": "Milestone Reports",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn68638156",
+          "name": "Project Files and Metadata",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn68638155",
+          "name": "Raw Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn73882229",
+          "name": "View for LiveCell_Myelin_Reporter_Frames (syn73882170)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882228",
+          "name": "View for LiveCell_Myelin_Reporter_Video (syn73882169)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882227",
+          "name": "View for Organoid_Images_Brightfield (syn73882168)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882226",
+          "name": "View for Organoid_Images_Fluorescence (syn73882167)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882232",
+          "name": "View for TBI_Response_Images (syn73882173)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882233",
+          "name": "View for TBI_Response_Images_Alt (syn73882174)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882231",
+          "name": "View for scRNAseq_Transcriptomes_Processed (syn73882172)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73882230",
+          "name": "View for scRNAseq_Transcriptomes_Raw (syn73882171)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn53191971",
+      "name": "Single-cell Epigenome Analysis of the AD Brain",
+      "description": "  # Alzheimer\u2019s Disease Brain Epigenome Project  ## Project Overview  This Synapse project hosts sequencing data and processing results from a study of **Alzheimer\u2019s Disease (AD) and control (CTL) human donor brains**, using multi-modal epigenomic profiling. The goal of this study is to **map histone modification landscapes across multiple brain regions and peripheral blood** in order to better un",
+      "n_children": 4,
+      "children": [
+        {
+          "id": "syn66724578",
+          "name": "Pilot",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn67035154",
+          "name": "cellranger",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn71722222",
+          "name": "metadata",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn68178144",
+          "name": "processed",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn35856920",
+      "name": "BOCA4 Transcriptome and chromatin accessibility landscapes across 25 distinct human brain regions",
+      "description": "  #A Multi-Regional Human Brain Atlas of Chromatin Accessibility and Gene Expression Facilitates Promoter-Isoform Resolution Genetic Fine-Mapping Pengfei Dong<sup>1,2,3,4,\u2020</sup>, Liting Song<sup>1,2,3,4</sup>, Jaroslav Bendl<sup>1,2,3,4</sup>, Ruth Misir<sup>2,3,4</sup>, Zhiping Shao<sup>1,2,3,4</sup>, Jonathan Edelstien<sup>2,3,4</sup>, David A Davis<sup>5</sup>, Vahram Haroutunian<sup>2,3,6,7</",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn74372113",
+      "name": "Optical genome mapping identifies clinically relevant somatic structural variation in epilepsy-affected brain tissue",
+      "description": "  Somatic variants are a prominent cause of epilepsy-associated cortical malformations, but about half of patients undergoing genetic testing have no finding due partly to limitations in variant detection. Most studies have focused on single-nucleotide variants or small indels that are accessible to short-read sequencing technologies, but somatic structural variants are also emerging as important ",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn74372501",
+          "name": "Bionano saphyr",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn74444889",
+          "name": "PacBio_revio",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn10183278",
+      "name": "Global quantitative analysis of the human brain proteome in AD and PD for Nature Scientific Data",
+      "description": "  Summary<br> Patients with Alzheimer\u2019s disease (AD) and Parkinson disease (PD) often have overlap in clinical presentation and brain neuropathology suggesting that these two diseases share common underlying mechanisms. Currently, the molecular pathways linking AD and PD are incompletely understood. Utilizing Tandem Mass Tag (TMT) assays and MultiNotch MS3 mass spectrometry, we performed an unbias",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn10183280",
+          "name": "Data Analysis",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn10188047",
+          "name": "RAW DATA",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn51272688",
+      "name": "PU.1 Enriched snRNAseq Human Brain Data from Alzheimer's and Aged Cases",
+      "description": "  ##Welcome to the PU.1 enriched human brain snRNAseq dataset! ${image?fileName=Screenshot 2023%2D05%2D25 at 3%2E05%2E40 PM%2Epng&align=Center&scale=100&responsive=true&altText=Study design from nuclei extraction to sorting to snRNAseq to dataset gene expression and transcription factor prediction to IHC validation%2E}  Here we provide the raw, processed, and supplemental single-nucleus RNAseq (sn",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn51286679",
+          "name": "Analysis",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn51286676",
+          "name": "Raw Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn78407084",
+      "name": "Brain resilience single cell",
+      "description": "",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn18501448",
+      "name": "G CELLIQ Image Processing Toolbox",
+      "description": "  #G CELLIQ IMAGE PROCESSING TOOL  Morphological plasticity is critical to organism development - as exemplified by the reversible conversion of embryonic non-migratory epithelial cells to motile mesenchymal cells required for tissue Morphological plasticity is critical to organism development as exemplified by the reversible conversion of embryonic non-migratory epithelial cells to motile mesench",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn73580025",
+      "name": "iS2C2_Bone_Mets_scRNAseq_ST",
+      "description": "  # **iS2C2: A Co-Intelligent Platform for Mechanistic Discovery of Disease Cellular Crosstalk**  ## **Overview**  This project contains the single-cell and spatial transcriptomic datasets used to validate the **iS2C2** platform. The study focuses on characterizing the cellular composition, transcriptional programs, and spatial organization of the bone metastatic microenvironment.  **Dataset Title",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn73580285",
+          "name": "Bone_Mets_Spatial_Transcriptomics.rds",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn73580361",
+          "name": "Bone_Mets_scRNAseq.rds",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn39010860",
+      "name": "PTEN Brain Organoids- proteomics and bulk RNA",
+      "description": "",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn39011580",
+          "name": "Bulk RNA-seq",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn39011018",
+          "name": "Proteomics TMT Matrix",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn55388137",
+      "name": "McGinnis_CancerCell_2024",
+      "description": "  Companion code and R objects for \"The temporal progression of lung immune remodeling during breast cancer metastasis\" (McGinnis et al., 2024, Cancer Cell)  https://github.com/chris-mcginnis-ucsf/pymt_atlas",
+      "n_children": 18,
+      "children": [
+        {
+          "id": "syn55725234",
+          "name": "SI_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451532",
+          "name": "density_plot.Robj",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55465851",
+          "name": "fig1_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55457157",
+          "name": "fig2_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55457226",
+          "name": "fig3_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55457633",
+          "name": "fig4_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55464275",
+          "name": "fig5_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55464413",
+          "name": "fig6_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55388294",
+          "name": "fig7_objects.zip",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451831",
+          "name": "figure1.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451834",
+          "name": "figure2.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451838",
+          "name": "figure3.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451842",
+          "name": "figure4.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451847",
+          "name": "figure5.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451851",
+          "name": "figure6.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451854",
+          "name": "figure7.R",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451536",
+          "name": "jsd_comp.Robj",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn55451538",
+          "name": "stderror.Robj",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn68638297",
+      "name": "Improving Immunotherapy in MPNSTs",
+      "description": " Improving Immunotherapy in MPNSTs # Improving Immunotherapy in MPNSTs ## GFF - Next Generation Models ### Principal Investigator: Dawn Quelle ### Project Lead / Data Coordinator: Dawn Quelle, Rebecca Dodd ### Institution: University of Iowa ### Project Description: Malignant Peripheral Nerve Sheath Tumors (MPNSTs) are the leading cause of death in NF1 patients. Roughly half of MPNST patients deve",
+      "n_children": 24,
+      "children": [
+        {
+          "id": "syn68638298",
+          "name": "Analysis",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn78409961",
+          "name": "Data Sharing Plan",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn68638299",
+          "name": "Milestone Reports",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn68638321",
+          "name": "Project Files and Metadata",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn68638300",
+          "name": "Raw Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn73876703",
+          "name": "View for Aim 1 - RNA (syn68638301)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876746",
+          "name": "View for Aim 1 - clinical trial mIHC (syn68638308)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876717",
+          "name": "View for Aim 1 - clinical trial methylation (syn68638303)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876725",
+          "name": "View for Aim 1 - clinical trial scRNA seq fastqs (syn68638304)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876735",
+          "name": "View for Aim 1 - clinical trial scRNA seq hdf5 files (syn68638305)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876738",
+          "name": "View for Aim 1 - mIHC (syn68638306)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876710",
+          "name": "View for Aim 1 - methylation (syn68638302)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876751",
+          "name": "View for Aim 1b - clinical trial methylation (syn68638309)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876761",
+          "name": "View for Aim 1b - clinical trial scRNA seq fastqs (syn68638310)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876787",
+          "name": "View for Aim 2 - Kinome Analysis (syn68638313)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876769",
+          "name": "View for Aim 2 - global DNA methylation (syn68638311)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876807",
+          "name": "View for Aim 2 - in vitro 3D (syn68638315)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876796",
+          "name": "View for Aim 2 - mIHC (syn68638314)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876780",
+          "name": "View for Aim 2 - scRNASeq (syn68638312)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73876815",
+          "name": "View for Aim 3 - in vitro tumor growth (syn68638316)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn76396408",
+      "name": "Melanoma Organoid Research",
+      "description": "  **Overview** [Melanoma Organoid Research](https://www.alfacytology.com/3d-cancer-models/melanoma-organoid-development.html) has become an advanced approach for investigating melanoma biology, tumor progression, metastasis, and therapeutic responses through physiologically relevant three-dimensional (3D) tumor models. Melanoma is one of the most aggressive forms of skin cancer and is characterize",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn36812517",
+      "name": "UK DRI Multi-'omics Atlas Project",
+      "description": "  ${image?fileName=DRI logo small noBGD%2Epng&align=None&scale=100&responsive=true&altText=} **Neurodegenerative diseases arise from interactions between cells throughout the brain; they are not a cell- or regionally- autonomous process. **The pathologies evolve from primary dysfunction through secondary pathology or adaptive changes. The Multi-\u2018omics Atlas Project, a UK DRI Director\u2019s Initiative,",
+      "n_children": 6,
+      "children": [
+        {
+          "id": "syn60957129",
+          "name": "Characterisation of premature cell senescence in Alzheimer's disease using single nuclear transcriptomics",
+          "type": "org.sagebionetworks.repo.model.table.Dataset"
+        },
+        {
+          "id": "syn61256416",
+          "name": "Datasets related to manuscripts",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn60959704",
+          "name": "Diverse human astrocyte and microglial transcriptional responses to Alzheimers pathology",
+          "type": "org.sagebionetworks.repo.model.table.Dataset"
+        },
+        {
+          "id": "syn75260906",
+          "name": "Mechanisms of increased Alzheimers Disease pathology with R47H and R62H TREM2 variants",
+          "type": "org.sagebionetworks.repo.model.table.Dataset"
+        },
+        {
+          "id": "syn52658314",
+          "name": "Pipelines",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn52658321",
+          "name": "Studies",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn70782124",
+      "name": "SEA-AD DREAM challenge (Christina Shi)",
+      "description": "  #A general model to predict AD pathology using snRNA-seq data of 1,298 samples from 699 individuals across 6 brain regions Christina Huan Shi^1^, Timothy Y Huang^2^, Kevin Y. Yip^1,2,3^   ^1^ Center for Data Science and Artificial Intelligence, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA 92037, USA ^2^ Center for Neurologic Diseases, Sanford Burnham Prebys Medical Discovery ",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn3218329",
+      "name": "Mindboggle-101 -- 101 labeled brains",
+      "description": "  ## Mindboggle-101 (version 3, updated 2019-04-03)  Welcome to the world\u2019s largest collection of free, manually labeled human brain image data!   The following website contains the master data repository for this project: https://osf.io/nhtur/   The following website organizes links to the contents of this Synapse project: http://mindboggle.info/data.html   Please cite the following article and t",
+      "n_children": 15,
+      "children": [
+        {
+          "id": "syn3250841",
+          "name": "CHANGELOG.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3268020",
+          "name": "DKT_protocol",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3250492",
+          "name": "Extra-18_data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3249401",
+          "name": "LABELS.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3218389",
+          "name": "Mindboggle101_release3",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn8299243",
+          "name": "README.html",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3218390",
+          "name": "atlases",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218391",
+          "name": "code",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218394",
+          "name": "docs",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3249398",
+          "name": "mindboggle101_list.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn3369168",
+          "name": "mindboggled",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218397",
+          "name": "processed_FreeSurfer",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218395",
+          "name": "processed_antsCorticalThickness",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218398",
+          "name": "source_data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn3218393",
+          "name": "templates",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn21497922",
+      "name": "Sottoriva Lab - Cancer Evolutionary Genomics and Modelling",
+      "description": "  {row}  {column width=8} # \ufeff\ufeffPredicting the evolution of cancer, one patient at a time. Our team focuses on deciphering the dynamics of cancer growth, progression and treatment resistance in each patient using rigorous mathematical and computational approaches, with the objective of anticipating the future course of the disease.  We tackle cancer as a complex system, using rational tissue samplin",
+      "n_children": 12,
+      "children": [
+        {
+          "id": "syn22151260",
+          "name": "BREAST_CANCER_ITH",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25540700",
+          "name": "EPICC",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22150271",
+          "name": "EVOESCAPE_ALLDATA",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22149238",
+          "name": "EVOESCAPE_TCGA_Hartwig_Riaz_SOPRANO",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22151245",
+          "name": "EVOSTEERING",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22151225",
+          "name": "GMB_RESIDUAL_DISEASE",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22296999",
+          "name": "IMMUNOPANEL",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22151185",
+          "name": "LEGACY",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22219393",
+          "name": "MOBSTER",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn22151240",
+          "name": "PROSPECT-C",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21822279",
+          "name": "d1_CNA_table",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn21822293",
+          "name": "d2_SNV_table",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn75957506",
+      "name": "Angiogenesis and Lymphangiogenesis Analysis",
+      "description": "  **Angiogenesis and Lymphangiogenesis Analysis**  **Overview**  [Angiogenesis and Lymphangiogenesis Analysis](https://www.alfacytology.com/3d-cancer-models/angiogenesis-and-lymphangiogenesis-analysis.html) is a critical area of cancer research focused on understanding how blood vessel and lymphatic vessel formation contribute to tumor growth, progression, metastasis, and therapeutic response. Ang",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn7344947",
+      "name": "BSMN Knowledge Portal",
+      "description": "  ${image?fileName=BSMN8%2Epng&align=None&scale=60&responsive=true}  #### The BSMN is made up of 18 principal investigators across 12 research sites and involves more than 60 members worldwide. We use advances in DNA sequencing, single-cell genomics, computational biology, and genome engineering to determine the extent of normal brain mosaicism and to determine if aberrant brain mosaicism is assoc",
+      "n_children": 9,
+      "children": [
+        {
+          "id": "syn18082297",
+          "name": "Grant Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn23021143",
+          "name": "Homepage - Goals Module",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn21781196",
+          "name": "Individuals",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn21645000",
+          "name": "Portal",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21438208",
+          "name": "Projects",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn21438195",
+          "name": "Publications",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn21438231",
+          "name": "Studies",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn22024464",
+          "name": "SupplementaryInformation",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21438237",
+          "name": "Tools",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn69808236",
+      "name": "SEA-AD_DREAM_Challenge-TREATS",
+      "description": "  ##Alzheimer's pathology prediction using pre-selected genes in a gradient-boosting approach _Tushar Patel, Atakan Ayden, Steve Hoffmann, Alena van B\u00f6mmel_ Hoffmann Lab, Leibniz Institute on Aging - Fritz Lipmann Institute, Jena, Germany  Will you be able to make your submission public as part of the challenge archive? Yes  ####Summary Sentence We developed a generalizable single-cell transcripto",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn76396500",
+      "name": "Cholangiocarcinoma Organoid Research",
+      "description": "  **Overview** [Cholangiocarcinoma Organoid Research](https://www.alfacytology.com/3d-cancer-models/cholangiocarcinoma-organoid-development.html) has become an advanced approach for investigating cholangiocarcinoma biology, tumor progression, and therapeutic responses through physiologically relevant three-dimensional (3D) tumor models. Cholangiocarcinoma is an aggressive malignancy originating fr",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn6126101",
+      "name": "EmoryProteoGenomics",
+      "description": "  Gene expression contributes to phenotypic traits and human disease. To date, comparatively less is known about regulators of protein abundance, which is also under genetic control and likely influences clinical phenotypes. However, identifying and quantifying allele-specific protein abundance by bottom-up proteomics is challenging since single nucleotide variants (SNVs) that alter protein sequen",
+      "n_children": 1,
+      "children": [
+        {
+          "id": "syn10147608",
+          "name": "RAWFILES",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn63181047",
+      "name": "PsychAD_snTWAS",
+      "description": "  Single-nucleus transcriptome-wide association study of human brain disorders  Authors: Sanan Venkatesh^1-5,^ Zhenyi Wu^1-5^, Marios Anyfantakis^1-5^, Christian Dillard^1-4^, Prashant N.M.^1-4^, David Burstein^1-6^, Deepika Mathur^1-6^, Roman Kosoy^1-4^, Chris Chatzinakos^7,8^, Bukola Ajanaku^1-4^, Fotis Tsetsos^1-4,6^, Biao Zeng^1-4^, Aram Hong^1-4^, Clara Casey^1-4^, Marcela Alvia^1-4^, Zhiping",
+      "n_children": 3,
+      "children": [
+        {
+          "id": "syn73943715",
+          "name": "Covariance matrices",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn73943252",
+          "name": "Supplementary Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn73943360",
+          "name": "snTIMs",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn25781400",
+      "name": "EWASplus",
+      "description": "  ## EWASplus project    ### Introduction EWASplus is a computational tool that uses supervised machine learning strategy to extend the current EWAS coverage (approximately 2% CpGs coverage for Illumina 450K array; 480K CpGs in total) to the entire genome (approximately 29M CpGs in total). The tool has been tested for multiple cohorts ([ROS/MAP]((https://adknowledgeportal.synapse.org/Explore/Studi",
+      "n_children": 2,
+      "children": [
+        {
+          "id": "syn25781851",
+          "name": "EWAS result for ROS MAP cohort",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25781840",
+          "name": "targeted bisulfite sequencing data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn53650847",
+      "name": "scMyeloidData",
+      "description": "  # Single-Cell Dataset of Human Myeloid Cells for Studying Aging and Alzheimer\u2019s Disease Contact PIs: [Donghoon Lee](mailto:donghoon.lee@mssm.edu); [Panagiotis Roussos](mailto:panagiotis.roussos@mssm.edu)  ## Funding Acknowledgments We acknowledge the National Institute on Aging for their generous support in funding this research with the following NIH grants: R01AG065582 and its Administrative S",
+      "n_children": 4,
+      "children": [
+        {
+          "id": "syn53651327",
+          "name": "scMyeloid_cell_annotations.tsv",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn53651276",
+          "name": "scMyeloid_gene_annotations.tsv",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn53651464",
+          "name": "scMyeloid_lognorm_counts.npz",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn53651475",
+          "name": "scMyeloid_raw_counts.npz",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn71199949",
+      "name": "Development of Preclinical Models for High-Grade Gliomas in NF1 patients",
+      "description": " Development of Preclinical Models for High-Grade Gliomas in NF1 patients # Development of Preclinical Models for High-Grade Gliomas in NF1 patients ## GFF - Brain Tumor Initiative ### Principal Investigator: Yuan Zhu ### Project Lead / Data Coordinator: Yuan Zhu ### Institution: University of Texas Southwestern Medical Center ### Project Description: Individuals with neurofibromatosis type 1 (NF1",
+      "n_children": 11,
+      "children": [
+        {
+          "id": "syn71199958",
+          "name": "Analysis",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn71218749",
+          "name": "Data Sharing Plan",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn71199960",
+          "name": "Milestone Reports",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn71199973",
+          "name": "Project Files and Metadata",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn71199961",
+          "name": "Raw Data",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn73877119",
+          "name": "View for Histology_HGAP_Aim1 (syn71199964)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73877133",
+          "name": "View for Histology_HGG_Aim2 (syn71199971)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73877150",
+          "name": "View for IHC_HGAP_Aim1 (syn71199963)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73877164",
+          "name": "View for IHC_HGG_Aim2 (syn71199968)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73877176",
+          "name": "View for RNASeq_HGAP_Aim1 (syn71199966)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        },
+        {
+          "id": "syn73877189",
+          "name": "View for scRNASeq_HGG_Aim2 (syn71199972)",
+          "type": "org.sagebionetworks.repo.model.table.EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn25777935",
+      "name": "Tinnitus",
+      "description": "   #Welcome to NBML Tinnitus Dataset!  \"**Tinnitus**\" dataset contains resting-state raw EEG data recorded from tinnitus patients at National Brain Mapping Laboratory (NBML), Tehran, Iran, using a 64 channel g.HIamp biosignal amplifier and acquisition/processing system (g.tec medical engineering, Austria) (http://www.gtec.at) with the electrodes positioned according to the international 10\u201310 syst",
+      "n_children": 12,
+      "children": [
+        {
+          "id": "syn25786291",
+          "name": "ChannelLocation.txt",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn25786686",
+          "name": "Electrode_numbers.xlsx",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn25785667",
+          "name": "Subject_1",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25786217",
+          "name": "Subject_10",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25785722",
+          "name": "Subject_2",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25785784",
+          "name": "Subject_3",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25785837",
+          "name": "Subject_4",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25785891",
+          "name": "Subject_5",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25785949",
+          "name": "Subject_6",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25786005",
+          "name": "Subject_7",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25786092",
+          "name": "Subject_8",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn25786155",
+          "name": "Subject_9",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn21788402",
+      "name": "ADselectiveVulnerability_snRNAseq",
+      "description": "  # Molecular characterization of selectively vulnerable neurons in Alzheimer\u2019s Disease  Kun Leng^1,2,3,4,13^, Emmy Li^1,2,3,13^, Rana Eser^5^, Antonia Piergies^5^, Rene Sit^2^, Michelle Tan^2^, Norma Neff^2^, Song Hua Li^5^, Roberta Diehl Rodriguez^6^, Claudia Kimie Suemoto^7,8^, Renata Elaine Paraizo Leite^7^, Carlos A. Pasqualucci^7^, William W. Seeley^5,11^, Salvatore Spina^5^, Helmut Heinsen^",
+      "n_children": 12,
+      "children": [
+        {
+          "id": "syn22722817",
+          "name": "EC_allCells",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300677",
+          "name": "EC_astrocytes",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300678",
+          "name": "EC_excitatoryNeurons",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300679",
+          "name": "EC_inhibitoryNeurons",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300680",
+          "name": "EC_microglia",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300681",
+          "name": "EC_oligodendrocytes",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22722860",
+          "name": "SFG_allCells",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300683",
+          "name": "SFG_astrocytes",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300684",
+          "name": "SFG_excitatoryNeurons",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300685",
+          "name": "SFG_inhibitoryNeurons",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300686",
+          "name": "SFG_microglia",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn22300687",
+          "name": "SFG_oligodendrocytes",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn76396121",
+      "name": "Pancreatic Cancer Organoid Research",
+      "description": "  **Overview** [Pancreatic Cancer Organoid Research](https://www.alfacytology.com/3d-cancer-models/pancreatic-cancer-organoid-development.html) has become an advanced approach for investigating pancreatic cancer biology, tumor progression, and therapeutic responses through physiologically relevant three-dimensional (3D) tumor models. Pancreatic cancer, particularly pancreatic ductal adenocarcinoma",
+      "n_children": 0,
+      "children": []
+    },
+    {
+      "id": "syn52396927",
+      "name": "DLPFC Lifespan Atlas",
+      "description": "  # A single-cell transcriptomic atlas of the prefrontal cortex across the human lifespan  Hui Yang^1,2,3,4,*^, Tereza Clarence^1,2,3,4,*^, Madeline R. Scott^7,*^, Prashant N.M.^1,2,3,4^, Xinyi Wang^1,2,3,4^, Milos Pjanic^1,2,3,4^, Sanan Venkatesh^1,2,3,4,^ Aram Hong^1,2,3,4^, Clara Casey^1,2,3,4,^ Zhiping Shao^1,2,3,4,^ Marcela Alvia^1,2,3,4,^ Stathis Argyriou^1,2,3,4,^ PsychAD Consortium^11^, Pa",
+      "n_children": 8,
+      "children": [
+        {
+          "id": "syn59192589",
+          "name": "Age_group_specific_transcriptomic_changes",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62064548",
+          "name": "Age_group_specific_variance_explained_by_age",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn61775901",
+          "name": "Circadian_Rhythm",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62064535",
+          "name": "DLPFC_lifespan_snRNAseq",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62055454",
+          "name": "Degree_of_sharing",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62055453",
+          "name": "Lifespan_trajectories",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62055441",
+          "name": "Nuclei_Composition",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62064510",
+          "name": "Pseudotime_trajectories",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn2342036",
+      "name": "Neural Systems - POMDP Wheelchair",
+      "description": " Root Code: https://github.com/kaysoky/POMDPy Some bits and pieces This will track assorted bits of background for this project, the motivations, and some initial high-level designs.  It will take on more organization as more gets filled in.  # Background and Motivation ## Model of a BCI Generally we consider our BCIs as being made of 3 parts: 1. Sensors / signal processing - this includes the phy",
+      "n_children": 1,
+      "children": [
+        {
+          "id": "syn2351977",
+          "name": "papers",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    }
+  ],
+  "other_queries": {
+    "leptomeningeal": [
+      {
+        "id": "syn34512705",
+        "name": "Dissecting the Human Leptomeninges at single-cell resolution",
+        "description": "  ### Files have been moved to [syn54847635](https://www.synapse.org/#!Synapse:syn54847635).  Omics data for Dissecting the human leptomeninges at single-cell resolution Kearns, N.A., Iatrou, A., Flood, D.J. et al. Nat Commun 14, 7036 (2023).   https://doi.org/10.1038/s41467-023-42825-y  Methods  Sample preparation, library construction, sequencing, and data processing for total RNA-seq Frozen lep"
+      },
+      {
+        "id": "syn66496696",
+        "name": "SEA-AD DREAM Challenge - Predicting Alzheimers Pathology from snRNA-seq Data",
+        "description": "   -> ${image?fileName=SEA%2DAD DREAM Challenge%5Fbanner%5Fv4%2Ejpg&align=None&scale=100&responsive=true&altText=} <-  <div class=\"alert alert-success\">  ###! Challenge closed   Thank you to the [${teammembercount?teamId=3542566} Synapse users](https://www.synapse.org/Team:3542566) who registered and participated!  Final results are available [here](https://www.synapse.org/Synapse:syn66496696/wiki"
+      },
+      {
+        "id": "syn74274097",
+        "name": "BraTS 2026 Challenge",
+        "description": "  -> ${image?fileName=BraTS%5FBanner%5Finit%2Epng&align=None&scale=100&responsive=true&altText=} <-  #The 15th BraTS Cluster of Challenges at MICCAI 2026  Since its inception at MICCAI 2012, the Brain Tumor Segmentation (BraTS) Challenge has advanced brain tumor image analysis by benchmarking algorithmic innovations, providing high-quality annotated datasets, and tasking participants with developi"
+      },
+      {
+        "id": "syn53708249",
+        "name": "BraTS 2024 Challenge",
+        "description": "  ${image?fileName=brats%2D2024%2Epng&align=Center&scale=100&responsive=true&altText=Brain Tumor Segmentation %28BraTS%29 %2D Cluster of Challenges}  #### -> There are ${teammembercount?teamId=3501723} [registered participants](https://www.synapse.org/#!Team:3501723). <-  <nowiki> #### ${jointeam?teamId=3501723&isChallenge=true&isMemberMessage=Registered for BraTS 2024 \u2705&text=Register for BraTS 20"
+      },
+      {
+        "id": "syn64153130",
+        "name": "BraTS-Lighthouse 2025 Challenge",
+        "description": "  ${image?fileName=logo%5F2025%2Epng&align=Center&scale=100&responsive=true&altText=Brain Tumor Segmentation %28BraTS%29 challenge banner}  <div class=\"col-sm-6\"> <div class=\"alert alert-success\">  ###! Challenge closed  ####! Thank you to everyone who joined the challenge!  </div> </div>  <div class=\"col-sm-6\"> <div class=\"alert alert-info\">  ###! Link to MICCAI 2025 Schedule ####! https://www.sy"
+      }
+    ],
+    "htan_dcc": [
+      {
+        "id": "syn21041850",
+        "name": "Human Lung Cell Atlas",
+        "description": "  #Human Lung Cell Atlas ${image?fileName=HLCA%2Ejpg&align=Center&scale=100&responsive=true&altText=} Although single cell RNA sequencing studies have begun providing compendia of cell expression profiles, it has proven more difficult to systematically identify and localize all molecular cell types in individual organs to create a full molecular cell atlas. From droplet- and plate-based single cel"
+      },
+      {
+        "id": "syn18384497",
+        "name": "atlas-explorer",
+        "description": "  ## Introduction  <!-- Provide an introduction, background, and a description for the question you are answering. -->  ATLAS Explorer is a web app from [Worthwhile Applications](https://worthwhile.app) for querying and visualising AMR data from the ATLAS programme.  We believe that many practitioners who could benefit from this data either a) don't know it exists or b) don't have the capacity to "
+      },
+      {
+        "id": "syn49637038",
+        "name": "SINGLE-CELL ATLAS OF HUMAN BLOOD DURING HEALTHY AGING",
+        "description": "  Data for the \"Single-cell atlas of healthy human blood unveils age-related loss of  NKG2C+GZMB- CD8+ memory T cells and accumulation of type 2 memory CD4+/CD8+ T cells\", paper.  Comprehensive, large-scale single-cell profiling of healthy human blood at different ages is one of the  critical pending tasks required to establish a framework for systematic understanding of human aging.  Here, using "
+      },
+      {
+        "id": "syn62274230",
+        "name": "Human liver senescence",
+        "description": "  # Cellular senescence in human liver under normal aging and cancer  This project accompanies the study by Karpova, Li, Peng, and colleagues in *Cell Genomics* (2026). The paper maps cellular senescence across human liver aging, fibrosis, and colorectal cancer liver metastasis using single-cell and spatial measurements.  **Publication:** Karpova A, Li X, Peng C-W, et al. Cellular senescence in hu"
+      },
+      {
+        "id": "syn53694312",
+        "name": "A molecular cellular atlas of COVID-19 initiation in human lung",
+        "description": "  ${image?fileName=Screenshot 2024%2D02%2D27 at 23%2E00%2E39%2Epng&align=Center&scale=100&responsive=true&altText=}  # scCOVID-19: A molecular cell atlas of COVID-19 initiation in human lung  Early stages of deadly respiratory diseases such as COVID-19 have been challenging to elucidate due to the lack of an experimental system that recapitulates the cellular and structural complexity of the human"
+      },
+      {
+        "id": "syn25998572",
+        "name": "Graph neural-network based gene clustering for Neurofibromatosis patients",
+        "description": "  #  Graph neural-network based gene clustering  and Interpretable Classification for Neurofibromatosis patients  --- ### Team members: Patricia Ptasznik^1^, Deepak Agrawal^2^, Hossein Dashti^3^, Sheng Xu^4^, Saba Ebrahimi^5^, Tolou Esfandeh^6^  ^1^ [Sr. Manager, IT Data - Business Analytics at American Airlines](https://www.linkedin.com/in/patricia-ptasznik-b5533120/) ^2^ [Lead OR Scientist, Oper"
+      },
+      {
+        "id": "syn24317288",
+        "name": "Gene network network-based drug discovery in plexiform neurofibromas",
+        "description": " Gene network network-based drug discovery in plexiform neurofibromas  ## Gene network-based drug discovery in plexiform neurofibromas ---  ### Team members:  Daochun Sun$$\\(^1\\)$$, Rebecca Brown$$\\(^2\\)$$ and Sameer Farouk Sait$$\\(^3\\)$$  1 Medical College of Wisconsin  @sundaochun  2 Mount Sinai Hospital  @rbxbrown   3 Memorial Sloan Kettering Cancer Center  @farouk  ### Abstract: --- <font size"
+      },
+      {
+        "id": "syn52396927",
+        "name": "DLPFC Lifespan Atlas",
+        "description": "  # A single-cell transcriptomic atlas of the prefrontal cortex across the human lifespan  Hui Yang^1,2,3,4,*^, Tereza Clarence^1,2,3,4,*^, Madeline R. Scott^7,*^, Prashant N.M.^1,2,3,4^, Xinyi Wang^1,2,3,4^, Milos Pjanic^1,2,3,4^, Sanan Venkatesh^1,2,3,4,^ Aram Hong^1,2,3,4^, Clara Casey^1,2,3,4,^ Zhiping Shao^1,2,3,4,^ Marcela Alvia^1,2,3,4,^ Stathis Argyriou^1,2,3,4,^ PsychAD Consortium^11^, Pa"
+      },
+      {
+        "id": "syn53130024",
+        "name": "Tumor-Macrophage Interactions in Schwannoma",
+        "description": " Tumor-Macrophage Interactions in Schwannoma # Tumor-Macrophage Interactions in Schwannoma ## CTF - Young Investigator Award ### Principal Investigator: Sara Veiga ### Project Lead / Data Coordinator: Sara Veiga ### Institution: Harvard University ### Project Description: Schwannomas are a devastating hallmark of NF2 that cause significant pain, nerve dysfunction and morbidity. The tumors are unpr"
+      },
+      {
+        "id": "syn25999587",
+        "name": "Collaborative Track_Desmoid Tumor Patient Case - Text Analysis by Simon TSE",
+        "description": "  ##Desktop research to the cause of Desmoid  Tumour in Vanessa's case  ####**Background** In May 2011, patient discovered a lump on Vanessa's back and after completing a biopsy diagnosed her with a Desmoid Tumor on her back - completed at Kaiser Permanente in Northern California. The tumor was surgically removed in 2011 and remained dormant until 2016.  In March, 2016 the tumor returned aggressiv"
+      },
+      {
+        "id": "syn25887675",
+        "name": "Spina Bifida Aperta Spatio-temporal Brain MRI Atlas",
+        "description": "  #A Spatio-temporal Atlas of the Developing Fetal Brain with Spina Bifida Aperta ${image?fileName=Slide2%2Ejpg&align=Center&scale=100&responsive=true&altText=}  ##Data description This project contains $15$ folders. Each folder corresponds to a unique volume of our spatio-temporal fetal brain atlas and contains four nifti files: - srr.nii.gz (average 3D reconstructed MRI) - mask.nii.gz (3D brain "
+      },
+      {
+        "id": "syn2787209",
+        "name": "DREAM5 - Network Inference",
+        "description": "  ${image?fileName=concept 1%2D2%5Fsmall%2Ejpg&align=None&scale=100}  ${buttonlink?text=About the Challenge&url=#!Synapse:syn2787209/wiki/70350&highlight=true}| ${buttonlink?text=Challenge Data&url=#!Synapse:syn2787209/wiki/70351&highlight=true} | ${buttonlink?text=Leaderboards&url=#!Synapse:syn2787209/wiki/70352&highlight=true}|${buttonlink?text=GP-DREAM webservice&url=http://dream.broadinstitute"
+      },
+      {
+        "id": "syn26018183",
+        "name": "Archived Collaborative Track_Desmoid Tumor Patient Case - Text Analysis by Simon TSE 1627709152933 9712784 syn25999587",
+        "description": "  ##Desktop research to the cause of Desmoid  Tumour in Vanessa's case  ####**Background** In May 2011, patient discovered a lump on Vanessa's back and after completing a biopsy diagnosed her with a Desmoid Tumor on her back - completed at Kaiser Permanente in Northern California. The tumor was surgically removed in 2011 and remained dormant until 2016.  In March, 2016 the tumor returned aggressiv"
+      },
+      {
+        "id": "syn78556133",
+        "name": "The role of the human microenvironment on Neurofibromatosis-related tumor formation and progression",
+        "description": " The role of the human microenvironment on Neurofibromatosis-related tumor formation and progression # The role of the human microenvironment on Neurofibromatosis-related tumor formation and progression ## CTF - Young Investigator Award ### Principal Investigator: Jonas Van Lent ### Project Lead / Data Coordinator: Jonas Van Lent ### Institution: Institute for Biomedical Research and Innovation ##"
+      },
+      {
+        "id": "syn36812517",
+        "name": "UK DRI Multi-'omics Atlas Project",
+        "description": "  ${image?fileName=DRI logo small noBGD%2Epng&align=None&scale=100&responsive=true&altText=} **Neurodegenerative diseases arise from interactions between cells throughout the brain; they are not a cell- or regionally- autonomous process. **The pathologies evolve from primary dysfunction through secondary pathology or adaptive changes. The Multi-\u2018omics Atlas Project, a UK DRI Director\u2019s Initiative,"
+      }
+    ],
+    "organ_site_relapse": [
+      {
+        "id": "syn30282632",
+        "name": "Dataset - MMO-Net (Multi Magnification Organ Network) A use case for Organ Identification using Multiple Magnifications in Preclinical Pathology Studies",
+        "description": "  # MMO-Net: The Organ Identification Dataset\t  This dataset was designed to identify 7 rat organs (liver, kidney, thyroid gland, parathyroid gland, urinary bladder, salivary glands and mandibular lymph node) with and without histopathological findings. It gathers over 20 rat organs from control and treated animals making a total of N = 320 WSI. Images come from 3 laboratories and are digitized ac"
+      },
+      {
+        "id": "syn76396144",
+        "name": "Breast Cancer Organoid Research",
+        "description": "  **Overview** [Breast Cancer Organoid Research](https://www.alfacytology.com/3d-cancer-models/breast-cancer-organoid-development.html) has become an advanced approach for investigating breast cancer biology, tumor progression, and therapeutic responses through physiologically relevant three-dimensional (3D) tumor models. Breast cancer is characterized by significant molecular diversity, distinct "
+      },
+      {
+        "id": "syn39489404",
+        "name": "Overall Breast  Cancer  Expression TWAS",
+        "description": "  Title: A joint transcriptome-wide association study across multiple tissues identifies new candidate susceptibility genes for breast cancer Guimin Gao,1*# Peter N. Fiorica,1# Julian McClellan,1# Alvaro N. Barbeira,2# James L. Li,1 Olufunmilayo I. Olopade,3 Hae Kyung Im,2* Dezheng Huo,1,2* 1 Department of Public Health Sciences, University of Chicago, IL, 60637, USA 2 Section of Genetic Medicine,"
+      },
+      {
+        "id": "syn22364283",
+        "name": "Metastatic Breast Cancer Targeted NGS",
+        "description": "  Targeted next-generation sequencing assays using triplet samples of normal breast tissue, primary breast cancer, and recurrent/metastatic lesions."
+      },
+      {
+        "id": "syn22010051",
+        "name": "SAFIR02-BREAST IMMUNO",
+        "description": "   #SAFIR02-BREAST IMMUNO dataset  <br>  Dear data users,  Thank you for your interest in our work. In this synapse project you will find :  1) the documents to be downloaded and sent back to us in order to have access to the data (syn22238399, in the 'Files' tab) :      - STUDY_SYNOPSIS.docx = the template for the summary of the study ;      - CNIL declaration.pdf = fill it and we will take care "
+      },
+      {
+        "id": "syn7286377",
+        "name": "Breast Cancer AltAnalyze Tutorial",
+        "description": "  This site is intended to provide datasets, software and databases for the fast analysis of raw or processed RNA-Seq data in a two separate one hour in class sessions (University of Cincinnati Functional Genomics Course). This demo used the software AltAnalyze [AltAnalyze](http://www.altanalyze.org) to analyze downsampled FASTQ files or BAM files corresponding to clinical Breast Cancer samples. P"
+      },
+      {
+        "id": "syn59490671",
+        "name": "Metastatic Breast Cancers Digital Whole-slide Images",
+        "description": "  **Overview** This dataset is comprised of n=77 metastatic breast cancer patients (MBC) with digital H&E whole-slide images from Georges Fran\u00e7ois Leclerc Cancer Center (n=99 images). All 77 patients were treated with platinum, while 54 of these patients were first treated with taxane. Each treatment was given sequentially with CR and PFS response endpoints assessed separately for each treatment b"
+      },
+      {
+        "id": "syn2179898",
+        "name": "Modeling precision treatment of breast cancer",
+        "description": " Root # Modeling precision treatment of breast cancer ##### **AUTHORS**: *Anneleen Daemen, Obi L Griffith, Laura M Heiser, Nicholas J Wang, Oana M Enache, Zachary Sanborn, Francois Pepin, Steffen Durinck, James E Korkola, Malachi Griffith, Joe S Hur, Nam Huh, Jongsuk Chung, Leslie Cope, Mary J Fackler, Christopher Umbricht, Saraswati Sukumar, Pankaj Seth, Vikas P Sukhatme, Lakshmi R Jakkula, Yilin"
+      },
+      {
+        "id": "syn60198081",
+        "name": "BGW-TWAS of breast and ovarian cancer phenotypes",
+        "description": "  #_Cis_- and _Trans_-eQTL TWAS of Breast and Ovarian Cancer Phenotypes  We performed a transcriptome-wide association study of breast and ovarian cancer (along with subtypes) that considered regulatory effects of variants both proximal and distal to a given gene. We used the [Bayesian Genome-Wide TWAS (BGW-TWAS)](https://doi.org/10.1016/j.ajhg.2020.08.022) method applied to [GTEx V8](https://www."
+      },
+      {
+        "id": "syn2346643",
+        "name": "JWGray Breast Cancer Cell Line Panel",
+        "description": "  ## **JWGray Breast Cancer Cell Line Panel** ${image?fileName=circos%5FHCC1954%5Fall%2Epng&align=left&scale=20}  ### **Overview** The data on this wiki represent one of the most comprehensive sets of profiling data available on a collection of cell lines. The data have been published across several manuscripts, but have been curated here into a single resource for the broader scientific community"
+      },
+      {
+        "id": "syn8668872",
+        "name": "Uncoupling obesity from breast cancer in African American women",
+        "description": "  Obesity-driven cancers are causing great concern in the United States and around the world because of the increase in metabolic diseases, such as Type 2 diabetes and hypertension, which are common in obese patients. There is a deepening evidence base that links the chronic inflammation in insulin-resistant types of obesity to dangerous changes in the microenvironment for cancers in obesity, incl"
+      },
+      {
+        "id": "syn2813426",
+        "name": "DREAM7 - Sage Bionetworks-DREAM Breast Cancer Prognosis Challenge",
+        "description": "   ${image?fileName=breast cancer %2D em cell%2Ejpg&align=Left&scale=40}   **Launch Date: ** **Close Date:**  #### Challenge Publication(s)   #### OVERVIEW   The goal of the breast cancer prognosis Challenge is to assess the accuracy of computational models designed to predict breast cancer survival, based on clinical information about the patient's tumor as well as genome-wide molecular profiling"
+      },
+      {
+        "id": "syn20818327",
+        "name": "Single Cell Signaling in Breast Cancer Challenge KAUST_RSS",
+        "description": "  Heterogeneous approach to modeling signaling networks on breast cancer cell lines. Somayah Abdullah Albarade1, Christophe Van Neste1, Vladimir Bajic1, Didier Barradas Bautista2  1 King Abdullah University of Science and Technology, CBRC. 2 King Abdullah University of Science and Technology, Catalysis center.   Suggested figures limit: 2 figures Summary Sentence We considered the amount of data p"
+      },
+      {
+        "id": "syn1461050",
+        "name": "Breast Cancer Challenge Final Round",
+        "description": " ####Training on the full METABRIC cohort and preparing your code for Oslo Validation In the penultimate phase of the Challenge, we are providing you two things:  >* The entire METABRIC cohort of 1981 samples to retrain your submitted models >* A unit test to test your code and ensure that it will run on the real Oslo Validation (OsloVal) data  We are providing the full METABRIC cohort to re-train"
+      },
+      {
+        "id": "syn22975916",
+        "name": "Characterizing Advanced Breast Cancer Heterogeneity and Treatment Resistance Through Serial Biopsies and Comprehensive Analytics",
+        "description": "  # Characterizing Advanced Breast Cancer Heterogeneity and Treatment Resistance Through Serial Biopsies and Comprehensive Analytics  This dataset is available here to accompany the manuscript: Characterizing Advanced Breast Cancer Heterogeneity and Treatment Resistance Through Serial Biopsies and Comprehensive Analytics.  The manuscript describes a case study of a metastatic breast cancer with a "
+      }
+    ]
+  },
+  "zip_handles": [
+    {
+      "id": "syn57078248",
+      "name": "Breast.zip",
+      "handle": "138192664",
+      "fileName": null,
+      "contentSize": null,
+      "contentType": null,
+      "handle_http": 403
+    },
+    {
+      "id": "syn57078331",
+      "name": "Lung.zip",
+      "handle": "138192776",
+      "fileName": null,
+      "contentSize": null,
+      "contentType": null,
+      "handle_http": 403
+    }
+  ]
+}

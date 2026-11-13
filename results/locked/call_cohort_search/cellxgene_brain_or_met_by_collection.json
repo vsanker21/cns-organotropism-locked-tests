@@ -1,0 +1,7012 @@
+{
+  "Single-cell, multi-region profiling of the macaque brain across the lifespan": [
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: midbrain neurons)",
+      "tissues": [
+        "midbrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 90755,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: entorhinal cortex)",
+      "tissues": [
+        "entorhinal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 222142,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: microglia)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 183923,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (full dataset, count-matrix only)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 5302610,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: cerebellar neurons)",
+      "tissues": [
+        "cerebrocerebellum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 736684,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: anterior cingulate cortex)",
+      "tissues": [
+        "anterior cingulate cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 545928,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: dorsolateral prefrontal cortex)",
+      "tissues": [
+        "dorsolateral prefrontal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 289840,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: GABAergic neurons)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 544142,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: mediodorsal thalamic nucleus)",
+      "tissues": [
+        "medial dorsal nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 414270,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: basket cells)",
+      "tissues": [
+        "cerebrocerebellum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 74152,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: ependymal cells)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 26203,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: hippocampus)",
+      "tissues": [
+        "hippocampal formation"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 342947,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: midbrain)",
+      "tissues": [
+        "midbrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 288858,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: vascular cells)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 278827,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: nucleus accumbens)",
+      "tissues": [
+        "nucleus accumbens"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 250154,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: lateral cerebellar cortex)",
+      "tissues": [
+        "cerebrocerebellum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 893367,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: glutamatergic neurons)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1486012,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: head of caudate nucleus)",
+      "tissues": [
+        "head of caudate nucleus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 225147,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: inferior posterior parietal gyrus)",
+      "tissues": [
+        "inferior parietal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1531756,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: astrocytes)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 472984,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (4.3 million cell subset)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 4300000,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: oligodendrocytes and oligodendrocyte precursor cells)",
+      "tissues": [
+        "anterior cingulate cortex",
+        "cerebrocerebellum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "medial dorsal nucleus of thalamus",
+        "midbrain",
+        "nucleus accumbens",
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1247585,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (region subset: primary motor cortex)",
+      "tissues": [
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 298201,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan (cell-type subset: medium spiny neurons)",
+      "tissues": [
+        "head of caudate nucleus",
+        "nucleus accumbens"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 161343,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    }
+  ],
+  "Neuroectodermal cells of dorsal forebrain organoids": [
+    {
+      "title": "Dorsal forebrain organoids derived from KOLF2.1J, BIONi010-C and HMGU1 iPSCs",
+      "tissues": [
+        "forebrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 14189,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "A Single-Cell and Spatial Transcriptomic Atlas Characterising Transcriptional and Immune Diversity in Adult-Type Diffuse Gliomas": [
+    {
+      "title": "Brain tumour single-cell atlas (glioma cohort, 66 samples)",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "IDH-wildtype glioblastoma",
+        "astrocytoma, IDH-mutant, grade 2",
+        "astrocytoma, IDH-mutant, grade 3",
+        "astrocytoma, IDH-mutant, grade 4",
+        "oligodendroglioma, IDH-mutant and 1p/19q-codeleted grade 2",
+        "oligodendroglioma, IDH-mutant and 1p/19q-codeleted, grade 3"
+      ],
+      "cell_count": 638930,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "A Genetically Driven Immunologic Mechanism Underlying the Link between EBV and Multiple Sclerosis": [
+    {
+      "title": "EBV and multiple sclerosis: B cells with EBER1 PCR-augmented EBV detection",
+      "tissues": [
+        "blood"
+      ],
+      "diseases": [
+        "autoimmune encephalitis",
+        "brain disorder",
+        "demyelinating disease of central nervous system",
+        "multiple sclerosis",
+        "musculoskeletal system disorder",
+        "non-arteritic anterior ischemic optic neuropathy || long COVID-19",
+        "normal",
+        "transverse myelitis"
+      ],
+      "cell_count": 410646,
+      "assay": [
+        "10x 5' v2",
+        "10x 5' v3"
+      ]
+    }
+  ],
+  "A detailed census of cell types in the mouse nervous system": [
+    {
+      "title": "AdolescentMouseBrain",
+      "tissues": [
+        "CA1 field of hippocampus",
+        "amygdala",
+        "cerebellum",
+        "dentate gyrus of hippocampal formation",
+        "dorsal root ganglion",
+        "dorsal striatum",
+        "enteric nervous system",
+        "hippocampal formation",
+        "hypothalamus",
+        "medulla oblongata",
+        "midbrain",
+        "olfactory bulb",
+        "pons",
+        "somatosensory cortex",
+        "spinal cord",
+        "sympathetic trunk",
+        "telencephalon",
+        "thalamic complex",
+        "ventral striatum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 159976,
+      "assay": [
+        "10x 3' v1",
+        "10x 3' v2"
+      ]
+    }
+  ],
+  "Single-cell integration and multi-modal profiling reveals phenotypes and spatial organization of neutrophils in colorectal cancer": [
+    {
+      "title": "The single-cell Colorectal Cancer Atlas -- core atlas",
+      "tissues": [
+        "ascending colon",
+        "blood",
+        "caecum",
+        "caecum epithelium",
+        "colon",
+        "colonic epithelium",
+        "colorectal mucosa",
+        "colorectum",
+        "descending colon",
+        "hepatic cecum",
+        "hepatic flexure of colon",
+        "left colon",
+        "liver",
+        "lymph node",
+        "mesenteric lymph node",
+        "mucosa of transverse colon",
+        "rectosigmoid junction",
+        "rectum",
+        "right colon",
+        "sigmoid colon",
+        "splenic flexure of colon",
+        "transverse colon"
+      ],
+      "diseases": [
+        "colon adenocarcinoma",
+        "colon adenocarcinoma || mucinous adenocarcinoma",
+        "colon adenoma",
+        "colon adenoma || colorectal tubulovillous adenoma",
+        "colon adenoma || tubular adenoma",
+        "colon carcinoma",
+        "colon sessile serrated adenoma/polyp",
+        "colorectal adenocarcinoma",
+        "colorectal cancer",
+        "colorectal neoplasm",
+        "colorectal tubulovillous adenoma",
+        "hyperplastic polyp",
+        "metastasis from malignant tumor of colon",
+        "mucinous adenocarcinoma",
+        "normal",
+        "polyp of colon",
+        "rectum adenocarcinoma",
+        "tubular adenoma"
+      ],
+      "cell_count": 3790266,
+      "assay": [
+        "10x 3' v1",
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' transcription profiling",
+        "10x 5' v1",
+        "10x 5' v2",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "Fluidigm C1-based SMARTer library preparation",
+        "GEXSCOPE technology",
+        "Smart-seq2",
+        "TruDrop"
+      ]
+    }
+  ],
+  "Single-Cell Multiomic Atlas of Human Cortical Development in Down Syndrome": [
+    {
+      "title": "Human fetal cortex in Down syndrome, 10X-Multiome (snRNA/ATACseq), complete dataset",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "complete trisomy 21",
+        "normal"
+      ],
+      "cell_count": 248998,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "Human fetal cortex in Down syndrome, 10X-Multiome (snRNA/ATACseq), subsetted excitatory lineage",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "complete trisomy 21",
+        "normal"
+      ],
+      "cell_count": 215680,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "A multimodal single-cell atlas of the adolescent brain reveals gene regulatory networks linking development to disease risk": [
+    {
+      "title": "Histologically normal brain tissue from human pediatric epilepsy patients",
+      "tissues": [
+        "amygdala",
+        "frontal lobe",
+        "hippocampal formation",
+        "temporal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 88658,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "Histologically normal brain tissue from human pediatric epilepsy patients (fragment files included)",
+      "tissues": [
+        "amygdala",
+        "hippocampal formation",
+        "temporal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 77358,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "Single-cell RNA sequencing data of control and VPA-treated dorsal forebrain organoids": [
+    {
+      "title": "Single-cell RNA sequencing data of control and VPA-treated dorsal forebrain organoids",
+      "tissues": [
+        "neocortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 26499,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "ALS motor cortex and spinal cord single-nucleus multiome dataset": [
+    {
+      "title": "Brain dataset",
+      "tissues": [
+        "primary motor cortex"
+      ],
+      "diseases": [
+        "amyotrophic lateral sclerosis",
+        "normal"
+      ],
+      "cell_count": 75583,
+      "assay": [
+        "10x 3' v3",
+        "10x multiome"
+      ]
+    }
+  ],
+  "Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism": [
+    {
+      "title": "LCA complete",
+      "tissues": [
+        "adipose tissue",
+        "aorta",
+        "blood",
+        "bone element",
+        "bone marrow",
+        "brainstem",
+        "brown adipose tissue",
+        "cardiac muscle tissue",
+        "cerebral cortex",
+        "colon",
+        "diaphragm",
+        "epithelium of tongue",
+        "gonadal fat pad",
+        "heart",
+        "heart left ventricle",
+        "heart right ventricle",
+        "hypothalamus-pituitary axis",
+        "kidney",
+        "left cardiac atrium",
+        "limb bone",
+        "limb muscle",
+        "liver",
+        "lung",
+        "mammary gland",
+        "mesenteric fat pad",
+        "pancreas",
+        "retina",
+        "right cardiac atrium",
+        "skin of body",
+        "small intestine",
+        "spleen",
+        "subcutaneous adipose tissue",
+        "testis",
+        "thymus",
+        "tongue",
+        "tongue muscle",
+        "trachea",
+        "urinary bladder",
+        "uterus",
+        "vertebral column"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 244081,
+      "assay": [
+        "10x 3' v2",
+        "Smart-seq2"
+      ]
+    },
+    {
+      "title": "Brain",
+      "tissues": [
+        "brainstem",
+        "cerebral cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 5944,
+      "assay": [
+        "10x 3' v2",
+        "Smart-seq2"
+      ]
+    }
+  ],
+  "Ex vivo modelling of human colorectal cancer liver metastasis by normothermic machine perfusion": [
+    {
+      "title": "CRLM-NMP-ATLAS",
+      "tissues": [
+        "liver"
+      ],
+      "diseases": [
+        "colorectal carcinoma || metastatic malignant neoplasm",
+        "normal"
+      ],
+      "cell_count": 75104,
+      "assay": [
+        "BD Rhapsody Whole Transcriptome Analysis"
+      ]
+    }
+  ],
+  "Progressive plasticity during colorectal cancer metastasis": [
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_kg183_tumor",
+      "tissues": [
+        "liver",
+        "sigmoid colon"
+      ],
+      "diseases": [
+        "colorectal cancer"
+      ],
+      "cell_count": 1203,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_epithelial",
+      "tissues": [
+        "caecum",
+        "chest wall",
+        "descending colon",
+        "hepatic flexure of colon",
+        "liver",
+        "lung",
+        "peritoneum",
+        "rectum",
+        "sigmoid colon",
+        "transverse colon"
+      ],
+      "diseases": [
+        "colorectal cancer",
+        "normal"
+      ],
+      "cell_count": 47107,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_kg182_tumor",
+      "tissues": [
+        "chest wall",
+        "liver",
+        "rectum"
+      ],
+      "diseases": [
+        "colorectal cancer"
+      ],
+      "cell_count": 935,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_non-tumor_epithelial",
+      "tissues": [
+        "caecum",
+        "descending colon",
+        "hepatic flexure of colon",
+        "rectum",
+        "sigmoid colon",
+        "transverse colon"
+      ],
+      "diseases": [
+        "colorectal cancer",
+        "normal"
+      ],
+      "cell_count": 21026,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_untreated_epithelial",
+      "tissues": [
+        "caecum",
+        "hepatic flexure of colon",
+        "liver",
+        "sigmoid colon"
+      ],
+      "diseases": [
+        "colorectal cancer",
+        "normal"
+      ],
+      "cell_count": 13843,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_kg150_tumor",
+      "tissues": [
+        "liver",
+        "sigmoid colon"
+      ],
+      "diseases": [
+        "colorectal cancer"
+      ],
+      "cell_count": 2574,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_kg146_tumor",
+      "tissues": [
+        "liver",
+        "lung",
+        "rectum"
+      ],
+      "diseases": [
+        "colorectal cancer"
+      ],
+      "cell_count": 3351,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "progressive_plasticity_during_crc_metastasis_tumor",
+      "tissues": [
+        "caecum",
+        "chest wall",
+        "descending colon",
+        "hepatic flexure of colon",
+        "liver",
+        "lung",
+        "peritoneum",
+        "rectum",
+        "sigmoid colon",
+        "transverse colon"
+      ],
+      "diseases": [
+        "colorectal cancer"
+      ],
+      "cell_count": 26086,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Neural Organoid Hormonal Atlas (NOHA)": [
+    {
+      "title": "A molecular cell atlas of endocrine signalling in human neural organoids",
+      "tissues": [
+        "forebrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 163714,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Brain vascular single-cell multi-omics elucidates disease risk associations": [
+    {
+      "title": "Brain vascular single-cell multi-omics elucidates disease risk associations - snRNA-seq",
+      "tissues": [
+        "dorsolateral prefrontal cortex"
+      ],
+      "diseases": [
+        "Alzheimer disease",
+        "cognitive disorder",
+        "normal"
+      ],
+      "cell_count": 65479,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "Chromatin accessibility during human first-trimester neurodevelopment": [
+    {
+      "title": "All_Neuron_GABA",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 29897,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_Neuron_GLUT",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 29523,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_OPC",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 4101,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_Immune",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 10845,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_Vascular",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 5683,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_RGL",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 70803,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_FBL",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 8841,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "Full_Dataset",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 166785,
+      "assay": [
+        "10x multiome"
+      ]
+    },
+    {
+      "title": "All_Neuron_Peptidergic",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "diencephalon",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain",
+        "pons",
+        "telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7092,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "Immune Response mechanisms in the cerebrospinal fluid in leptomeningeal disease at single cell resolution": [
+    {
+      "title": "Immune Response mechanisms in the cerebrospinal fluid in leptomeningeal disease at single cell resolution",
+      "tissues": [
+        "cerebrospinal fluid"
+      ],
+      "diseases": [
+        "brain cancer",
+        "glioblastoma",
+        "inflammatory disease",
+        "lymphoma"
+      ],
+      "cell_count": 73793,
+      "assay": [
+        "10x 5' v2"
+      ]
+    }
+  ],
+  "Single cell RNA sequencing of the human embryonic meninges at 5-13 weeks post conception": [
+    {
+      "title": "Neural",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 9286,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Vascular_perivascular",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7155,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Immune",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 8461,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Fibroblasts",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 71657,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Erythropoietic",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 36639,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "All_cells",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 156726,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Vascular_endothelial",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7358,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Epithelial",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 9705,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Neural_crest",
+      "tissues": [
+        "brain meninx",
+        "forebrain meninges",
+        "meninx"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 6465,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Developmental Zebrafish Reference Atlas": [
+    {
+      "title": "Sub UMAP of the midbrain",
+      "tissues": [
+        "brain",
+        "hindbrain",
+        "midbrain",
+        "midbrain tectum",
+        "midbrain tegmentum",
+        "midbrain-hindbrain boundary",
+        "multicellular anatomical structure"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 27534,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Developmental Zebrafish Atlas",
+      "tissues": [
+        "adenohypophysis",
+        "anterior lateral plate mesoderm",
+        "anterior segment of eyeball",
+        "blood",
+        "blood island",
+        "blood vessel endothelium",
+        "brain",
+        "bulbus arteriosus",
+        "cerebellum",
+        "cleithrum",
+        "cloaca",
+        "corpuscles of Stannius",
+        "cranial ganglion",
+        "craniocervical muscle",
+        "crista ampullaris",
+        "diencephalon",
+        "distal tubule",
+        "dorsolateral placode",
+        "ear vesicle",
+        "ectoderm-derived structure",
+        "endocardium",
+        "endocrine pancreas",
+        "enteric ganglion",
+        "epibranchial ganglion",
+        "esophagus",
+        "fast muscle tissue",
+        "floor plate",
+        "forebrain",
+        "ganglionic layer of retina",
+        "genitourinary system",
+        "gonad primordium",
+        "habenula",
+        "hatching gland",
+        "head",
+        "head connective tissue",
+        "heart",
+        "heart primordium",
+        "hindbrain",
+        "hypaxial musculature",
+        "hypochord",
+        "inner nuclear layer of retina",
+        "integument",
+        "interrenal primordium",
+        "intestinal epithelium",
+        "intestine",
+        "lateral line",
+        "lateral line ganglion",
+        "lateral plate mesoderm",
+        "lens of camera-type eye",
+        "lens vesicle",
+        "leptomeninx",
+        "liver",
+        "liver primordium",
+        "lymphatic vessel endothelium",
+        "macula",
+        "median fin fold",
+        "meninx",
+        "midbrain",
+        "midbrain tectum",
+        "midbrain tegmentum",
+        "midbrain-hindbrain boundary",
+        "multicellular anatomical structure",
+        "myotome",
+        "neural crest",
+        "neural rod",
+        "notochord",
+        "olfactory epithelium",
+        "olfactory system",
+        "outer nuclear layer of retina",
+        "pancreas",
+        "pancreatic epithelial bud",
+        "parachordal cartilage",
+        "pectoral appendage bud",
+        "pectoral fin",
+        "periderm",
+        "periocular mesenchyme",
+        "pharyngeal arch",
+        "pharyngeal pouch",
+        "pharynx",
+        "pigmented layer of retina",
+        "posterior neural tube",
+        "presomitic mesoderm",
+        "proepicardium",
+        "pronephric glomerulus",
+        "pronephric mesoderm",
+        "pronephros",
+        "proximal convoluted tubule",
+        "retina",
+        "sclerotome",
+        "semicircular canal",
+        "skin epidermis",
+        "slow muscle tissue",
+        "somite",
+        "spinal cord",
+        "swim bladder",
+        "taste bud",
+        "telencephalon",
+        "thyroid follicle",
+        "tooth placode",
+        "trigeminal ganglion",
+        "trunk neural crest",
+        "ventricular zone",
+        "vestibulocochlear ganglion",
+        "zona limitans intrathalamica"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1220178,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Sub UMAP of the spinal cord",
+      "tissues": [
+        "hindbrain",
+        "multicellular anatomical structure",
+        "neural rod",
+        "spinal cord"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 27772,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Sub UMAP of the hindbrain",
+      "tissues": [
+        "forebrain",
+        "hindbrain",
+        "multicellular anatomical structure",
+        "spinal cord",
+        "ventricular zone"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 87944,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "Sub UMAP of the forebrain",
+      "tissues": [
+        "brain",
+        "diencephalon",
+        "forebrain",
+        "habenula",
+        "multicellular anatomical structure",
+        "telencephalon",
+        "zona limitans intrathalamica"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 49637,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    }
+  ],
+  "Single-cell census of murine glioblastoma subtypes": [
+    {
+      "title": "Single-cell census of murine glioblastoma subtypes",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "glioblastoma"
+      ],
+      "cell_count": 94181,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Simultaneous profiling of transcription and chromatin accessibility at the single-cell level for postnatal human brain development": [
+    {
+      "title": "Postnatal human brain development: RNA",
+      "tissues": [
+        "anterior cingulate cortex",
+        "caudate nucleus",
+        "dorsolateral prefrontal cortex",
+        "hippocampal formation"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 101924,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "Integrated cancer cell-specific single-cell RNA-seq datasets of immune checkpoint blockade-treated patients": [
+    {
+      "title": "Integrated cancer cell-specific single-cell RNA-seq datasets of immune checkpoint blockade-treated patients",
+      "tissues": [
+        "arm skin",
+        "brain",
+        "breast",
+        "kidney",
+        "liver",
+        "nose skin",
+        "skin of body",
+        "skin of calf",
+        "skin of cheek",
+        "skin of external ear",
+        "skin of forehead",
+        "skin of knee",
+        "skin of neck",
+        "skin of scalp"
+      ],
+      "diseases": [
+        "HER2 positive breast carcinoma",
+        "basal cell carcinoma",
+        "estrogen-receptor positive breast cancer",
+        "hepatocellular carcinoma",
+        "intrahepatic cholangiocarcinoma",
+        "melanoma",
+        "metastatic melanoma",
+        "nonpapillary renal cell carcinoma",
+        "squamous cell carcinoma",
+        "triple-negative breast carcinoma"
+      ],
+      "cell_count": 355941,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' transcription profiling",
+        "Smart-seq2"
+      ]
+    }
+  ],
+  "An integrated transcriptomic cell atlas of human neural organoids": [
+    {
+      "title": "HNOCA Extended: The Human Neural Organoid Atlas",
+      "tissues": [
+        "arcuate nucleus of hypothalamus",
+        "brain",
+        "cerebellum",
+        "cerebral cortex",
+        "choroid plexus",
+        "dorsal plus ventral thalamus",
+        "hindbrain",
+        "midbrain tectum",
+        "midbrain tegmentum",
+        "telencephalon",
+        "ventral part of telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1920454,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x multiome",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "Drop-seq",
+        "Quartz-seq",
+        "SPLiT-seq",
+        "Smart-seq2"
+      ]
+    },
+    {
+      "title": "The Human Neural Organoid Atlas",
+      "tissues": [
+        "arcuate nucleus of hypothalamus",
+        "brain",
+        "cerebellum",
+        "cerebral cortex",
+        "choroid plexus",
+        "dorsal plus ventral thalamus",
+        "hindbrain",
+        "midbrain tectum",
+        "midbrain tegmentum",
+        "telencephalon",
+        "ventral part of telencephalon"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1767346,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x multiome",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "Drop-seq",
+        "Quartz-seq",
+        "SPLiT-seq",
+        "Smart-seq2"
+      ]
+    }
+  ],
+  "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment": [
+    {
+      "title": "Frozen samples (single nucleus)",
+      "tissues": [
+        "axilla",
+        "bone spine",
+        "brain",
+        "breast",
+        "chest wall",
+        "liver",
+        "skin epidermis"
+      ],
+      "diseases": [
+        "breast cancer"
+      ],
+      "cell_count": 394534,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Comprehensive cell atlas of the first-trimester developing human brain": [
+    {
+      "title": "ClassImmune",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 8102,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassFibroblast",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "cortex",
+        "dorsal plus ventral thalamus",
+        "forebrain",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 19161,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassNeuroblast",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 285699,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Midbrain",
+      "tissues": [
+        "cerebellar peduncular complex",
+        "midbrain",
+        "midbrain tectum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 256434,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassGlioblastOligo",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 138610,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassPlacodes",
+      "tissues": [
+        "cerebellum",
+        "forebrain",
+        "head",
+        "hindbrain",
+        "medulla oblongata",
+        "midbrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 873,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassOligo",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "cortex",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 6190,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassErythrocyte",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 8959,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Telencephalon",
+      "tissues": [
+        "caudate-putamen",
+        "choroid plexus epithelium",
+        "cortex",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "hippocampal formation",
+        "lower layers of the cortex",
+        "occipital cortex",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 377022,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassNeuralCrest",
+      "tissues": [
+        "basal forebrain",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "cortex",
+        "forebrain",
+        "head",
+        "hindbrain",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "pons",
+        "striatum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 871,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassRadialGlia",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 519908,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassNeuronalIPC",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 110260,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassNeuron",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 561754,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "All",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "choroid plexus epithelium",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "head",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1665937,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "ClassGlioblast",
+      "tissues": [
+        "basal forebrain",
+        "brain",
+        "caudate-putamen",
+        "cerebellar peduncular complex",
+        "cerebellum",
+        "cerebral subcortex",
+        "cortex",
+        "diencephalon",
+        "dorsal plus ventral thalamus",
+        "entorhinal cortex",
+        "forebrain",
+        "frontal cortex",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "lower layers of the cortex",
+        "medulla oblongata",
+        "metencephalon",
+        "midbrain",
+        "midbrain tectum",
+        "occipital cortex",
+        "pons",
+        "striatum",
+        "telencephalon",
+        "upper layers of the cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 132420,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Molecular and cellular dynamics of the developing human neocortex at single-cell resolution": [
+    {
+      "title": "snMultiome data of the developing human neocortex",
+      "tissues": [
+        "Brodmann (1909) area 10",
+        "Brodmann (1909) area 17",
+        "Brodmann (1909) area 9",
+        "forebrain",
+        "neocortex",
+        "prefrontal cortex",
+        "telencephalon",
+        "visual cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 232328,
+      "assay": [
+        "10x multiome"
+      ]
+    }
+  ],
+  "A molecularly defined and spatially resolved cell atlas of the whole mouse brain": [
+    {
+      "title": "WB_imputation_animal1_coronal_posterior",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2082236,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_imputation_animal4_sagittal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 215278,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_MERFISH_animal2_coronal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1915592,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_imputation_animal3_sagittal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2081549,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_MERFISH_animal1_coronal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 4167869,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_MERFISH_animal4_sagittal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 215278,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_MERFISH_animal3_sagittal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2081549,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_imputation_animal1_coronal_anterior",
+      "tissues": [
+        "brain",
+        "cortical subplate",
+        "hippocampal formation",
+        "hypothalamus",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2085634,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "WB_imputation_animal2_coronal",
+      "tissues": [
+        "brain",
+        "cerebellum",
+        "cortical subplate",
+        "hindbrain",
+        "hippocampal formation",
+        "hypothalamus",
+        "midbrain",
+        "neocortex",
+        "pallidum",
+        "striatum",
+        "thalamic complex",
+        "ventricular system of brain",
+        "white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1915592,
+      "assay": [
+        "MERFISH"
+      ]
+    }
+  ],
+  "Cortical brain samples from C9-ALS, C9-ALS/FTD, C9-FTD patients and age matched controls": [
+    {
+      "title": "Occipital cortex samples from C9-FTD and age matched control brains",
+      "tissues": [
+        "occipital cortex"
+      ],
+      "diseases": [
+        "frontotemporal dementia",
+        "normal"
+      ],
+      "cell_count": 66719,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Frontal cortex samples from C9-ALS, C9-ALS/FTD and age matched control brains",
+      "tissues": [
+        "frontal cortex"
+      ],
+      "diseases": [
+        "amyotrophic lateral sclerosis",
+        "amyotrophic lateral sclerosis 26 with or without frontotemporal dementia",
+        "normal"
+      ],
+      "cell_count": 160658,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Frontal cortex samples from C9-FTD and age matched control brains",
+      "tissues": [
+        "frontal cortex"
+      ],
+      "diseases": [
+        "frontotemporal dementia",
+        "normal"
+      ],
+      "cell_count": 113106,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Occipital cortex samples from C9-ALS, C9-ALS/FTD and age matched control brains",
+      "tissues": [
+        "occipital cortex"
+      ],
+      "diseases": [
+        "amyotrophic lateral sclerosis",
+        "amyotrophic lateral sclerosis 26 with or without frontotemporal dementia",
+        "normal"
+      ],
+      "cell_count": 120807,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Single nuclei RNA- sequencing from the white matter of individuals with progressive MS and non-neurological controls": [
+    {
+      "title": "Oligodendrocytes in MS",
+      "tissues": [
+        "brain",
+        "brain white matter"
+      ],
+      "diseases": [
+        "multiple sclerosis",
+        "normal"
+      ],
+      "cell_count": 17799,
+      "assay": [
+        "10x 3' v2"
+      ]
+    }
+  ],
+  "Single-Cell DNA Methylation and 3D Genome Human Brain Atlas": [
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Inhibitory and Subcortical Neurons (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "cerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 175387,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Non-neuronal Cells (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "corticomedial nuclear complex",
+        "globus pallidus",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 83674,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Non-neuronal Cells (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "corticomedial nuclear complex",
+        "globus pallidus",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 83674,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Inhibitory and Subcortical Neurons (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "corticomedial nuclear complex",
+        "globus pallidus",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 30022,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Non-neuronal Cells (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "cerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 34722,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Inhibitory and Subcortical Neurons (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "cerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 175387,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Excitatory Neurons (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "corticomedial nuclear complex",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 30027,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Excitatory Neurons (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "corticomedial nuclear complex",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 30027,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- non-CG methylation of Excitatory Neurons (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 163779,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Excitatory Neurons (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 163779,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Inhibitory and Subcortical Neurons (snm3C-seq)",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "corticomedial nuclear complex",
+        "globus pallidus",
+        "lateral entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "piriform cortex",
+        "primary motor cortex",
+        "primary visual cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 30022,
+      "assay": [
+        "snm3C-seq"
+      ]
+    },
+    {
+      "title": "DNA methylation of brain cells -- CG methylation of Non-neuronal Cells (snmC-seq)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 46",
+        "agranular insular cortex",
+        "amygdala",
+        "anterior cingulate cortex",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "central nucleus of inferior colliculus",
+        "cerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hippocampal formation",
+        "inferior temporal gyrus",
+        "insula",
+        "lateral entorhinal cortex",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "secondary visual cortex",
+        "septal nuclear complex",
+        "subiculum",
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 34722,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    }
+  ],
+  "Spatially mapping T cell receptors and transcriptomes": [
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_07",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 40982,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_14",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 36785,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_10",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 15366,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_12",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 37193,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_09",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 37275,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_09",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 14990,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_13",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 27757,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_08",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 19034,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_08",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 18851,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_11",
+      "tissues": [
+        "lymph node"
+      ],
+      "diseases": [
+        "metastatic melanoma"
+      ],
+      "cell_count": 21003,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_14",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 37568,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_13",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 40217,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_20",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 37563,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    },
+    {
+      "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_15",
+      "tissues": [
+        "lung"
+      ],
+      "diseases": [
+        "renal cell carcinoma"
+      ],
+      "cell_count": 35839,
+      "assay": [
+        "Slide-seqV2"
+      ]
+    }
+  ],
+  "A single-cell transcriptomic atlas spanning the adult rhesus macaque brain": [
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"medium spiny neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 48920,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"microglia\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 46814,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"dopaminergic neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 3645,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2583967,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"serotonergic neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 3190,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"basket cells\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 43177,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"ependymal cells\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7055,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"cerebellar neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 371324,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"oligodendrocytes\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 278260,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (1.5 million cell subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1500000,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"glutamatergic neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 1134282,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"vascular cells\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 81014,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"astrocytes\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 136471,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"GABAergic neurons\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 371548,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    },
+    {
+      "title": "A single-cell multi-omic atlas spanning the adult rhesus macaque brain (cell class \"oligodendrocyte precursor cells\" subset)",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "amygdala",
+        "anterior cingulate cortex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corpus callosum",
+        "dorsolateral prefrontal cortex",
+        "entorhinal cortex",
+        "head of caudate nucleus",
+        "hippocampal formation",
+        "inferior parietal cortex",
+        "inferior temporal gyrus",
+        "lateral geniculate body",
+        "medial dorsal nucleus of thalamus",
+        "medulla oblongata",
+        "midbrain",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "pons",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "superior parietal cortex",
+        "superior temporal sulcus",
+        "ventral lateral nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 55515,
+      "assay": [
+        "sci-RNA-seq3"
+      ]
+    }
+  ],
+  "Tabula Muris Senis": [
+    {
+      "title": "All - A single-cell transcriptomic atlas characterizes ageing tissues in the mouse",
+      "tissues": [
+        "adipose tissue",
+        "aorta",
+        "bladder lumen",
+        "bone marrow",
+        "brain",
+        "brown adipose tissue",
+        "diaphragm",
+        "gonadal fat pad",
+        "heart",
+        "kidney",
+        "large intestine",
+        "limb muscle",
+        "liver",
+        "lung",
+        "mammary gland",
+        "mesenteric fat pad",
+        "pancreas",
+        "skin of body",
+        "spleen",
+        "subcutaneous adipose tissue",
+        "thymus",
+        "tongue",
+        "trachea"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 356213,
+      "assay": [
+        "10x 3' v2",
+        "Smart-seq2"
+      ]
+    },
+    {
+      "title": "All - A single-cell transcriptomic atlas characterizes ageing tissues in the mouse - Smart-seq2",
+      "tissues": [
+        "aorta",
+        "bladder lumen",
+        "bone marrow",
+        "brain",
+        "brown adipose tissue",
+        "diaphragm",
+        "gonadal fat pad",
+        "heart",
+        "kidney",
+        "large intestine",
+        "limb muscle",
+        "liver",
+        "lung",
+        "mammary gland",
+        "mesenteric fat pad",
+        "pancreas",
+        "skin of body",
+        "spleen",
+        "subcutaneous adipose tissue",
+        "thymus",
+        "tongue",
+        "trachea"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 110824,
+      "assay": [
+        "Smart-seq2"
+      ]
+    },
+    {
+      "title": "Brain non-myeloid cells - A single-cell transcriptomic atlas characterizes ageing tissues in the mouse",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7249,
+      "assay": [
+        "Smart-seq2"
+      ]
+    },
+    {
+      "title": "Brain myeloid cells - A single-cell transcriptomic atlas characterizes ageing tissues in the mouse - Smart-seq2",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 13417,
+      "assay": [
+        "Smart-seq2"
+      ]
+    }
+  ],
+  "A marmoset brain cell census reveals influence of developmental origin and functional class on neuronal identity": [
+    {
+      "title": "all.MICROGLIA_MACROPHAGE.comp",
+      "tissues": [
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 25",
+        "amygdala",
+        "anterior hypothalamic region",
+        "basal forebrain",
+        "brainstem",
+        "caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellum lobule",
+        "dorsal thalamus",
+        "dorsolateral prefrontal cortex",
+        "hippocampal formation",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "medial amygdaloid nucleus",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "posterior hypothalamic region",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "putamen",
+        "secondary visual cortex",
+        "temporal cortex",
+        "temporal lobe",
+        "thalamic complex",
+        "ventral lateral nucleus of thalamus",
+        "ventral thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 57414,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "all.ASTROCYTES.comp",
+      "tissues": [
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 25",
+        "amygdala",
+        "anterior hypothalamic region",
+        "basal forebrain",
+        "brainstem",
+        "caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellum lobule",
+        "dorsal thalamus",
+        "dorsolateral prefrontal cortex",
+        "hippocampal formation",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "medial amygdaloid nucleus",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "posterior hypothalamic region",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "putamen",
+        "secondary visual cortex",
+        "temporal cortex",
+        "temporal lobe",
+        "thalamic complex",
+        "ventral lateral nucleus of thalamus",
+        "ventral thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 148930,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "bf.NEURONS",
+      "tissues": [
+        "basal forebrain",
+        "central amygdaloid nucleus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 16956,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "brainstem.all",
+      "tissues": [
+        "brainstem"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 69605,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "all.OLIGO_OPC.comp",
+      "tissues": [
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 25",
+        "amygdala",
+        "anterior hypothalamic region",
+        "basal forebrain",
+        "brainstem",
+        "caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellum lobule",
+        "dorsal thalamus",
+        "dorsolateral prefrontal cortex",
+        "hippocampal formation",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "medial amygdaloid nucleus",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "posterior hypothalamic region",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "putamen",
+        "secondary visual cortex",
+        "temporal cortex",
+        "temporal lobe",
+        "thalamic complex",
+        "ventral lateral nucleus of thalamus",
+        "ventral thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 260767,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "all.ENDOTHELIA.nocbm",
+      "tissues": [
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 25",
+        "amygdala",
+        "anterior hypothalamic region",
+        "basal forebrain",
+        "brainstem",
+        "caudate nucleus",
+        "central amygdaloid nucleus",
+        "dorsal thalamus",
+        "dorsolateral prefrontal cortex",
+        "hippocampal formation",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "medial amygdaloid nucleus",
+        "medial dorsal nucleus of thalamus",
+        "nucleus accumbens",
+        "parietal cortex",
+        "posterior hypothalamic region",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "putamen",
+        "secondary visual cortex",
+        "temporal cortex",
+        "temporal lobe",
+        "thalamic complex",
+        "ventral lateral nucleus of thalamus",
+        "ventral thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 37364,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation": [
+    {
+      "title": "Single-cell RNA-seq for all cortical & hippocampal regions (SMART-Seq v4)",
+      "tissues": [
+        "agranular insular cortex",
+        "anterior cingulate cortex",
+        "auditory cortex",
+        "claustrum of brain",
+        "frontal cortex",
+        "gustatory cortex",
+        "hippocampal formation",
+        "lateral entorhinal cortex",
+        "medial entorhinal cortex",
+        "medial orbital frontal cortex",
+        "posterior parietal association areas",
+        "prefrontal cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "retrosplenial region",
+        "secondary somatosensory cortex",
+        "subicular complex",
+        "temporal cortex",
+        "visual cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 73347,
+      "assay": [
+        "Smart-seq v4"
+      ]
+    }
+  ],
+  "Human Brain Cell Atlas v1.0": [
+    {
+      "title": "All neurons",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 2480956,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "All non-neuronal cells",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 888263,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Astrocyte",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 155025,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Committed oligodendrocyte precursor",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 4720,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Eccentric medium spiny neuron",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "epithalamus",
+        "globus pallidus",
+        "granular insular cortex",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "piriform cortex",
+        "preoptic area",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata",
+        "substantia nigra",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 40144,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: MGE interneuron",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 222434,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Pretectal region - PTR",
+      "tissues": [
+        "pretectal region"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 25875,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Choroid plexus",
+      "tissues": [
+        "anterior nuclear group",
+        "cerebellar nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "hippocampal field",
+        "hypothalamus",
+        "intralaminar nuclear group",
+        "lateral geniculate body",
+        "mammillary body",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "septal nuclear complex",
+        "spinal cord",
+        "superior parietal cortex",
+        "superior temporal gyrus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 7689,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Deep-layer corticothalamic and 6b",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "central amygdaloid nucleus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "inferior frontal gyrus",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial entorhinal cortex",
+        "medial zone of hypothalamus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "piriform cortex",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 78396,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Periaqueductal gray and Dorsal raphe nucleus - PAG-DR",
+      "tissues": [
+        "gray matter of midbrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 14094,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Medium spiny neuron",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 38",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellar nuclear complex",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial entorhinal cortex",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "piriform cortex",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "septal nuclear complex",
+        "substantia innominata",
+        "substantia nigra",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 152189,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Amygdala excitatory",
+      "tissues": [
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "central amygdaloid nucleus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral nuclear group of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "median tuberal portion",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "putamen",
+        "rostral CA3",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 109452,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: CGE interneuron",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 227671,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Cerebellar inhibitory",
+      "tissues": [
+        "bed nucleus of stria terminalis",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "hypothalamus",
+        "inferior olivary complex",
+        "lateral geniculate body",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial zone of hypothalamus",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "pretectal region",
+        "primary motor cortex",
+        "red nucleus",
+        "septal nuclear complex",
+        "spinal cord",
+        "substantia innominata",
+        "substantia nigra"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 14411,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Superior colliculus and nearby nuclei - SC",
+      "tissues": [
+        "midbrain tectum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 29907,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Substantia Nigra, Red Nucleus, and nearby nuclei - SN-RN",
+      "tissues": [
+        "midbrain nucleus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 49110,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Deep-layer intratelencephalic",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial zone of hypothalamus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "posterior parahippocampal gyrus",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 228467,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Periaqueductal gray and nearby nuclei - PAG",
+      "tissues": [
+        "gray matter of midbrain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 33794,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: LAMP5-LHX6 and Chandelier",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 45118,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Thalamic excitatory",
+      "tissues": [
+        "accessory basal amygdaloid nucleus",
+        "anterior nuclear group",
+        "bed nucleus of stria terminalis",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "dentate gyrus of hippocampal formation",
+        "epithalamus",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "hypothalamus",
+        "intralaminar nuclear group",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "medial dorsal nucleus of thalamus",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "nucleus of dorsal thalamus",
+        "piriform cortex",
+        "pretectal region",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "septal nuclear complex",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 85546,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Basal forebrain (BF) - septal nuclei - SEP",
+      "tissues": [
+        "septal nuclear complex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 40815,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Microglia",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 91838,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Ependymal",
+      "tissues": [
+        "Brodmann (1909) area 43",
+        "accessory basal amygdaloid nucleus",
+        "anterior nuclear group",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior olivary complex",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral nuclear group of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "preoptic area",
+        "pretectal region",
+        "pulvinar nucleus",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "supraoptic nucleus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 5882,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Lower rhombic lip",
+      "tissues": [
+        "cerebellar nuclear complex",
+        "dorsal tegmental nucleus",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "inferior olivary complex",
+        "intralaminar nuclear group",
+        "mammillary body",
+        "midbrain tectum",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "septal nuclear complex",
+        "substantia nigra",
+        "temporal fusiform gyrus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 52650,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Inferior colliculus and nearby nuclei - IC",
+      "tissues": [
+        "midbrain tectum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 32306,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Mammillary body",
+      "tissues": [
+        "dorsal tegmental nucleus",
+        "hypothalamus",
+        "intralaminar nuclear group",
+        "mammillary body",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "primary motor cortex",
+        "substantia nigra",
+        "subthalamic nucleus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 16602,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Miscellaneous",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 25071,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Fibroblast",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 9156,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (M) - Substantia Nigra - SN",
+      "tissues": [
+        "substantia nigra"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 59505,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Bergmann glia",
+      "tissues": [
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "dorsal tegmental nucleus",
+        "globus pallidus",
+        "inferior olivary complex",
+        "mammillary body",
+        "midbrain tectum",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "pulvinar nucleus",
+        "red nucleus",
+        "septal nuclear complex",
+        "spinal cord"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 8041,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Midbrain (RN) - Red Nucleus - RN",
+      "tissues": [
+        "red nucleus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 4714,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Basal forebrain (BF) - substantia innominata and nearby nuclei - SI",
+      "tissues": [
+        "substantia innominata"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 38205,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Oligodendrocyte",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 490246,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Splatter",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 291833,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Deep-layer near-projecting",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior olfactory nucleus",
+        "bed nucleus of stria terminalis",
+        "central amygdaloid nucleus",
+        "claustrum of brain",
+        "cuneus cortex",
+        "extrastriate cortex",
+        "granular insular cortex",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior temporal gyrus",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral posterior nucleus of thalamus",
+        "medial zone of hypothalamus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "perirhinal cortex",
+        "piriform cortex",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "retrosplenial region",
+        "septal nuclear complex",
+        "subicular complex",
+        "substantia innominata",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 18856,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Dissection: Claustrum - Cla",
+      "tissues": [
+        "claustrum of brain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 40165,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Midbrain-derived inhibitory",
+      "tissues": [
+        "accessory basal amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "hypothalamus",
+        "inferior olivary complex",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "preoptic area",
+        "pretectal region",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "red nucleus",
+        "septal nuclear complex",
+        "spinal cord",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 126782,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Oligodendrocyte precursor",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 105734,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Vascular",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 35",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "centromedian nucleus of thalamus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "median tuberal portion",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "rostral CA3",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "uncal CA1",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 9932,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Upper rhombic lip",
+      "tissues": [
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 38",
+        "anterior nuclear group",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "cerebellar nuclear complex",
+        "cerebellar vermis",
+        "cerebrocerebellum",
+        "corticomedial nuclear complex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "globus pallidus",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior olivary complex",
+        "intralaminar nuclear group",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "pretectal region",
+        "primary motor cortex",
+        "pulvinar nucleus",
+        "red nucleus",
+        "retrosplenial region",
+        "septal nuclear complex",
+        "spinal cord",
+        "substantia innominata",
+        "substantia nigra",
+        "temporal fusiform gyrus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 137162,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Supercluster: Upper-layer intratelencephalic",
+      "tissues": [
+        "Brodmann (1909) area 13",
+        "Brodmann (1909) area 14",
+        "Brodmann (1909) area 19",
+        "Brodmann (1909) area 23",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 25",
+        "Brodmann (1909) area 32",
+        "Brodmann (1909) area 38",
+        "Brodmann (1909) area 40",
+        "Brodmann (1909) area 43",
+        "Brodmann (1909) area 46",
+        "accessory basal amygdaloid nucleus",
+        "agranular insular cortex",
+        "anterior cortical amygdaloid nucleus",
+        "anterior nuclear group",
+        "anterior olfactory nucleus",
+        "basolateral amygdaloid nuclear complex",
+        "bed nucleus of stria terminalis",
+        "body of caudate nucleus",
+        "central amygdaloid nucleus",
+        "claustrum of brain",
+        "corticomedial nuclear complex",
+        "cuneus cortex",
+        "dentate gyrus of hippocampal formation",
+        "dorsal tegmental nucleus",
+        "epithalamus",
+        "extrastriate cortex",
+        "globus pallidus",
+        "granular insular cortex",
+        "gray matter of midbrain",
+        "hippocampal field",
+        "hypothalamus",
+        "inferior frontal gyrus",
+        "inferior olivary complex",
+        "inferior temporal gyrus",
+        "intralaminar nuclear group",
+        "lateral amygdaloid nucleus",
+        "lateral entorhinal cortex",
+        "lateral geniculate body",
+        "lateral nuclear group of thalamus",
+        "lateral posterior nucleus of thalamus",
+        "mammillary body",
+        "medial dorsal nucleus of thalamus",
+        "medial entorhinal cortex",
+        "medial geniculate body",
+        "medial zone of hypothalamus",
+        "midbrain nucleus",
+        "midbrain tectum",
+        "middle temporal gyrus",
+        "nucleus accumbens",
+        "nucleus of dorsal thalamus",
+        "nucleus of medulla oblongata",
+        "parabrachial nucleus",
+        "perirhinal cortex",
+        "piriform cortex",
+        "pontine nuclear group",
+        "pontine reticular formation",
+        "pontine tegmentum",
+        "posterior parahippocampal gyrus",
+        "preoptic area",
+        "pretectal region",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "pulvinar nucleus",
+        "putamen",
+        "red nucleus",
+        "retrosplenial region",
+        "septal nuclear complex",
+        "spinal cord",
+        "subicular complex",
+        "substantia innominata",
+        "substantia nigra",
+        "subthalamic nucleus",
+        "superior parietal cortex",
+        "superior temporal gyrus",
+        "supraoptic nucleus",
+        "temporal fusiform gyrus",
+        "ventral anterior nucleus of thalamus"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 455006,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Molecular and spatial signatures of mouse brain aging at single-cell resolution": [
+    {
+      "title": "BrainAgingSpatialAtlas_Imputed",
+      "tissues": [
+        "brain ventricle",
+        "corpus callosum",
+        "cortical layer II/III",
+        "cortical layer V",
+        "cortical layer VI",
+        "olfactory region",
+        "pia mater",
+        "striatum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 378918,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "BrainAgingSpatialAtlas_MERFISH",
+      "tissues": [
+        "brain ventricle",
+        "corpus callosum",
+        "cortical layer II/III",
+        "cortical layer V",
+        "cortical layer VI",
+        "olfactory region",
+        "pia mater",
+        "striatum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 378918,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "BrainAgingSpatialAtlas_MERFISH_LPS",
+      "tissues": [
+        "brain ventricle",
+        "corpus callosum",
+        "cortical layer II/III",
+        "cortical layer V",
+        "cortical layer VI",
+        "olfactory region",
+        "pia mater",
+        "striatum"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 345934,
+      "assay": [
+        "MERFISH"
+      ]
+    },
+    {
+      "title": "BrainAgingSpatialAtlas_snRNAseq",
+      "tissues": [
+        "brain"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 79667,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Humoral immunity at the brain borders in homeostasis": [
+    {
+      "title": "A scRNA-seq atlas of immune cells at the CNS borders",
+      "tissues": [
+        "bone marrow",
+        "brain",
+        "brain meninx",
+        "coronal suture",
+        "dura mater",
+        "meningeal dura mater",
+        "subdural space"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 130908,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' v1"
+      ]
+    }
+  ],
+  "Single-cell transcriptomics characterization of oligodendrocytes and microglia in white matter aging": [
+    {
+      "title": "Microglia - 24 months old wild-type and Rag1-KO",
+      "tissues": [
+        "brain gray matter",
+        "brain white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 15601,
+      "assay": [
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Single-cell of aged oligodendrocytes",
+      "tissues": [
+        "brain gray matter",
+        "brain white matter"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 6051,
+      "assay": [
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "High-resolution single-cell atlas reveals diversity and plasticity of tumor-associated neutrophils in non-small cell lung cancer": [
+    {
+      "title": "The single-cell lung cancer atlas (LuCA) -- core atlas",
+      "tissues": [
+        "adrenal tissue",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "chronic obstructive pulmonary disease",
+        "lung adenocarcinoma",
+        "non-small cell lung carcinoma",
+        "normal",
+        "squamous cell lung carcinoma"
+      ],
+      "cell_count": 892296,
+      "assay": [
+        "10x 3' v1",
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' v1",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "Drop-seq",
+        "GEXSCOPE technology",
+        "Smart-seq2",
+        "inDrop"
+      ]
+    },
+    {
+      "title": "The single-cell lung cancer atlas (LuCA) -- extended atlas",
+      "tissues": [
+        "adrenal tissue",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "chronic obstructive pulmonary disease",
+        "lung adenocarcinoma",
+        "non-small cell lung carcinoma",
+        "normal",
+        "squamous cell lung carcinoma"
+      ],
+      "cell_count": 1283972,
+      "assay": [
+        "10x 3' v1",
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' v1",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "Drop-seq",
+        "GEXSCOPE technology",
+        "Smart-seq2",
+        "inDrop"
+      ]
+    }
+  ],
+  "Harmonized single-cell landscape, intercellular crosstalk and tumor architecture of glioblastoma": [
+    {
+      "title": "Core GBmap",
+      "tissues": [
+        "brain",
+        "forebrain",
+        "frontal lobe",
+        "left frontal lobe",
+        "left parietal lobe",
+        "left temporal lobe",
+        "right frontal lobe",
+        "right parietal lobe",
+        "right temporal lobe",
+        "temporal lobe",
+        "temporoparietal junction"
+      ],
+      "diseases": [
+        "glioblastoma"
+      ],
+      "cell_count": 338564,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' v1",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "CEL-seq2",
+        "STRT-seq",
+        "Smart-seq2",
+        "microwell-seq"
+      ]
+    },
+    {
+      "title": "Extended GBmap",
+      "tissues": [
+        "basal ganglion",
+        "brain",
+        "forebrain",
+        "frontal lobe",
+        "left frontal lobe",
+        "left parietal lobe",
+        "left temporal lobe",
+        "occipital lobe",
+        "parietal lobe",
+        "right frontal lobe",
+        "right occipital lobe",
+        "right parietal lobe",
+        "right temporal lobe",
+        "temporal lobe",
+        "temporoparietal junction"
+      ],
+      "diseases": [
+        "glioblastoma"
+      ],
+      "cell_count": 1135677,
+      "assay": [
+        "10x 3' v2",
+        "10x 3' v3",
+        "10x 5' v1",
+        "BD Rhapsody Whole Transcriptome Analysis",
+        "CEL-seq2",
+        "Drop-seq",
+        "STRT-seq",
+        "Smart-seq2",
+        "microwell-seq"
+      ]
+    }
+  ],
+  "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer": [
+    {
+      "title": "Immune cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 73047,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Myeloid cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 14072,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "NSCLC epithelial cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 9778,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Mesenchymal cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 8030,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Epithelial cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 64091,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "Combined samples",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 147137,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    },
+    {
+      "title": "T cells",
+      "tissues": [
+        "adrenal gland",
+        "axilla",
+        "bone spine",
+        "brain",
+        "liver",
+        "lung",
+        "lymph node",
+        "pleural effusion"
+      ],
+      "diseases": [
+        "lung adenocarcinoma",
+        "normal",
+        "small cell lung carcinoma"
+      ],
+      "cell_count": 46140,
+      "assay": [
+        "10x 3' transcription profiling",
+        "10x 3' v2",
+        "10x 3' v3"
+      ]
+    }
+  ],
+  "Human developing neocortex by area": [
+    {
+      "title": "Second Trimester Human Developing Brain Regions and Cortical Areas",
+      "tissues": [
+        "parietal cortex",
+        "prefrontal cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "primary visual cortex",
+        "temporal cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 457965,
+      "assay": [
+        "10x 3' v2"
+      ]
+    }
+  ],
+  "Human cortical expansion involves diversification and specialization of supragranular intratelencephalic-projecting neurons": [
+    {
+      "title": "Human cortical expansion involves diversification and specialization of supragranular intratelencephalic-projecting neurons",
+      "tissues": [
+        "frontal cortex",
+        "occipital cortex",
+        "parietal cortex",
+        "temporal cortex"
+      ],
+      "diseases": [
+        "brain neoplasm",
+        "encephalomyelitis",
+        "epilepsy",
+        "hydrocephalus"
+      ],
+      "cell_count": 385,
+      "assay": [
+        "Patch-seq"
+      ]
+    }
+  ],
+  "DNA Methylation Atlas of the Mouse Brain at Single-Cell Resolution": [
+    {
+      "title": "DNA Methylation (CHN) Atlas of the Mouse Brain at Single-Cell Resolution",
+      "tissues": [
+        "anterior olfactory nucleus",
+        "caudate-putamen",
+        "cerebral cortex",
+        "dentate gyrus of hippocampal formation",
+        "hippocampal field",
+        "lateral septal complex",
+        "neocortex",
+        "nucleus accumbens",
+        "olfactory cortex",
+        "orbitofrontal cortex",
+        "pallidum",
+        "piriform cortex",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "secondary somatosensory cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 103982,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    },
+    {
+      "title": "DNA Methylation (CGN) Atlas of the Mouse Brain at Single-Cell Resolution",
+      "tissues": [
+        "anterior olfactory nucleus",
+        "caudate-putamen",
+        "cerebral cortex",
+        "dentate gyrus of hippocampal formation",
+        "hippocampal field",
+        "lateral septal complex",
+        "neocortex",
+        "nucleus accumbens",
+        "olfactory cortex",
+        "orbitofrontal cortex",
+        "pallidum",
+        "piriform cortex",
+        "prefrontal cortex",
+        "primary auditory cortex",
+        "primary motor cortex",
+        "primary somatosensory cortex",
+        "secondary somatosensory cortex"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 103982,
+      "assay": [
+        "snmC-Seq2"
+      ]
+    }
+  ],
+  "Construction of a human cell landscape at single-cell level": [
+    {
+      "title": "Construction of a human cell landscape at single-cell level",
+      "tissues": [
+        "adipose tissue",
+        "adrenal gland",
+        "artery",
+        "ascending colon",
+        "bladder organ",
+        "blood",
+        "bone marrow",
+        "brain",
+        "cerebellum",
+        "chorionic villus",
+        "duodenum",
+        "embryonic stem cell",
+        "esophagus",
+        "eye",
+        "fallopian tube",
+        "gallbladder",
+        "heart",
+        "ileum",
+        "intestine",
+        "jejunum",
+        "kidney",
+        "liver",
+        "lung",
+        "muscle organ",
+        "omentum",
+        "ovary",
+        "pancreas",
+        "placenta",
+        "pleura",
+        "prostate gland",
+        "rectum",
+        "rib",
+        "sigmoid colon",
+        "skin of body",
+        "spinal cord",
+        "spleen",
+        "stomach",
+        "temporal lobe",
+        "testis",
+        "thymus",
+        "thyroid gland",
+        "trachea",
+        "transverse colon",
+        "umbilical cord blood",
+        "ureter",
+        "uterine cervix",
+        "uterus",
+        "vault of skull",
+        "vermiform appendix"
+      ],
+      "diseases": [
+        "normal"
+      ],
+      "cell_count": 599926,
+      "assay": [
+        "microwell-seq"
+      ]
+    }
+  ]
+}

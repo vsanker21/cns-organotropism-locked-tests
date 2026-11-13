@@ -1,0 +1,13 @@
+Ambient-RNA control for the mo-Mac discovery contrast. Fixed before the corrected counts are tested.
+
+The uncorrected 280-gene list is not used to choose genes, samples, or the cutoff.
+
+Within each of the 17 GSE131907 samples, contamination is estimated from the other cells in that sample by the DecontX multinomial EM (Yang et al., Genome Biology 2020; decontX 1.8). The installed package does not load on R 4.5.2 because rstan.dll fails. Stan is not part of this EM. Each cell has a native fraction. Each cluster has a native gene distribution. Its contamination distribution is the native expression of the other clusters. The native fraction is initialized from Beta(10, 10) with seed 12345, and that Beta prior is then updated by maximum likelihood. The algorithm stops when the largest change in native fraction is below 0.001, or at 100 iterations. The corrected count is the expected native count.
+
+Cluster labels are Cell_subtype, or Cell_type when the subtype is missing. A label with fewer than 10 cells in that sample is pooled into Rare, except mo-Mac, which stays its own cluster. Expected native mo-Mac counts are summed within the sample and rounded to integers.
+
+The test is unchanged: DESeq2, design ~ origin, brain versus lymph node, Benjamini-Hochberg, and the same sample-level permutation on variance-stabilized counts with seed 20261112. A sample stays in if it had at least 20 mo-Mac cells.
+
+The residual set is kept only when the permutation p-value is below 0.05 or at least one gene has FDR below 0.05. If both fail, the site difference is treated as ambient tissue RNA and the dataset stops. Genes that pass are frozen for a later cohort. That cohort cannot be GSE131907, and it is not opened in this step.
+
+DecontX can remove real macrophage signal that resembles other cell types. That bias is toward a null result, which is the direction this control is meant to have.

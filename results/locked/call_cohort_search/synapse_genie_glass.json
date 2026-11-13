@@ -1,0 +1,378 @@
+{
+  "genie": [
+    {
+      "id": "syn7222066",
+      "name": "AACR Project GENIE Public",
+      "description": "  ##What is AACR Project GENIE  ${image?fileName=Large GENIE logo%2Ejpg&align=Left&scale=65&responsive=true&altText=} AACR Project GENIE is a publicly accessible international cancer registry of real-world data assembled through data sharin"
+    },
+    {
+      "id": "syn53013218",
+      "name": "GENIE Portal",
+      "description": "  This project contains Synapse Wikis and Tables to support the GENIE Data Portal.  AACR Project GENIE Public - https://www.synapse.org/#!Synapse:syn7222066/wiki/405659 GENIE Biopharma Collaborative Public - https://www.synapse.org/#!Synaps"
+    },
+    {
+      "id": "syn27056172",
+      "name": "GENIE Biopharma Collaborative Public",
+      "description": "  ## What is AACR Project GENIE  ${image?fileName=Large GENIE logo%2Ejpeg&align=None&scale=100&responsive=true&altText=} AACR Project GENIE is a publicly accessible international cancer registry of real-world data assembled through data sha"
+    },
+    {
+      "id": "syn34548529",
+      "name": "2022 Hack for NF",
+      "description": "  ${image?fileName=new hack%2Epng&align=Center&scale=100&responsive=true&altText=}${buttonlink?text=Join the Hack4NF Slack Workspace&url=https://join%2Eslack%2Ecom/t/hack4nf/shared%5Finvite/zt%2D1esq5ezd2%2DEl5YpWKZguQYST50td76ow&highlight="
+    },
+    {
+      "id": "syn10240587",
+      "name": "GENIE Test Upload",
+      "description": "  <font size=6>  Preparing data files for AACR Project GENIE </font>  &nbsp; ${toc}  ## **Introduction** Full GENIE participants upload files to Synapse that include clinical and genetic data, as well as assay and workflow information. This"
+    },
+    {
+      "id": "syn49223332",
+      "name": "Next GeNLP",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Next GeNLP   ### Finding structure in tumor genetic features by embedding, clustering, and mapping.  ##Team Members  <p> Gabriel Altay, Hari (Hariprasad) Donthi, Karthika Kavarmar, William X"
+    },
+    {
+      "id": "syn22249859",
+      "name": "testing act data access functionality",
+      "description": "   <img src=\"https://raw.githubusercontent.com/jay-hodgson/static-assets/main/GENIE-logo-small-for-AR.jpeg\" alt=\"GENIE logo\" width=\"500\" height=\"168\">  ${image?fileName=GENIE%2Dlogo%2Dsmall%2Dfor%2DAR%2Ejpeg&align=None&scale=100&responsive="
+    },
+    {
+      "id": "syn21498902",
+      "name": "Cancer Complexity Knowledge Portal - Database",
+      "description": "  This Synapse project houses production database tables and entities for the [Cancer Complexity Knowledge Portal](https://cancercomplexity.synapse.org/) (CCKP).  The portal is built to disseminate resources to accelerate discovery and coll"
+    },
+    {
+      "id": "syn26543612",
+      "name": "Clinical Imaging Repository Demo",
+      "description": "  ${image?synapseId=syn26602568&align=None&scale=100&responsive=true&altText=}  # Overview This project provides a demo of using Synapse and the OMOP Common Data Model to store, organize, and harmonize image files with data in a standard cl"
+    },
+    {
+      "id": "syn49223296",
+      "name": "Creating A GENIE Dataset For One NF1 GCP AI",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Creating A GENIE Dataset For One NF1 GCP AI   ##Team Members: <p>Spyros Schismenos, Anshuman Mishra\t    ### Java 11 Methods For Redirecting One Similar GENIE NF1 Dataset AI File Types In GCP"
+    },
+    {
+      "id": "syn78462800",
+      "name": "GENIE bpc",
+      "description": " "
+    },
+    {
+      "id": "syn49223273",
+      "name": "Artificial Intelligence for neurofibromatosis",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Artificial Intelligence for neurofibromatosis   ## Team Members <p> Muhammad Alaa  Alwattar, Jeffy Joseph Vinohar, Lucas Pastur Romay, Harshal Chorya,   ### Machine Learning and Natural Lang"
+    },
+    {
+      "id": "syn22300771",
+      "name": "Gaglia G, Kabraji S et al, 2022, Nature Cell Biology",
+      "description": "  # **Temporal and spatial topography of cell proliferation in cancer.**  Giorgio Gaglia^*1,2,3^, Sheheryar Kabraji^*1,2,4,5,7^, Danae Rammos^1,2,3^, Yang Dai^1,2,3^, Ana Verma^1,2,3^, Shu Wang^1,6^, Caitlin E. Mills^1^, Mirra Chung^1^, Joh"
+    },
+    {
+      "id": "syn25551331",
+      "name": "2021 Hack for Rare",
+      "description": "  ${image?fileName=Hackathon%2D2021%2DBanner%2D%282160x540%29 FINAL%2Ejpg&align=None&scale=100&responsive=true&altText=} &nbsp;   <!--${buttonlink?text=Register for the 2021 Hack4RARE&url=https://www%2Esynapse%2Eorg/#!Synapse:syn25551331/wi"
+    },
+    {
+      "id": "syn4984604",
+      "name": "Cutaneous Neurofibroma Data Resource",
+      "description": "  ${image?fileName=CTF Synodos Data Site Headers2%2Ejpg&align=Center&scale=100&responsive=true} #The CTF Biobank In 2013, CTF began a neurofibromatosis biobank to collect NF samples to better study the disease. With all samples being collec"
+    }
+  ],
+  "glass": [
+    {
+      "id": "syn10889779",
+      "name": "GLASS-NL",
+      "description": "  ${image?fileName=GLASS logo%2Epng&align=None&scale=100&responsive=true&altText=} ##Glioma Longitudinal AnalySiS in the Netherlands (GLASS-NL): Molecular and imaging markers for malignant evolution of IDH-mutant astrocytomas. #####Supporte"
+    },
+    {
+      "id": "syn17038081",
+      "name": "The Glioma Longitudinal Analysis Consortium",
+      "description": "  ${image?fileName=logo%5F20190913%2Dlowres%2Epng&align=Center&scale=100&responsive=true&altText=}  ## The GLASS Consortium ### Table of Contents ${toc}  ### Overview The Glioma Longitudinal AnalySiS (GLASS) consortium consists of clinical,"
+    },
+    {
+      "id": "syn63663299",
+      "name": "Glioma MDC 2025",
+      "description": "  **Glioma-MDC 2025 (Glioma Mitosis Detection and Classification Challenge)**  The Glioma-MDC 2025 challenge aims to advance the field of digital pathology by developing robust algorithms for the detection and classification of mitotic figu"
+    },
+    {
+      "id": "syn18410809",
+      "name": "MDA Glioma T200",
+      "description": "  ###**MD Anderson T200 Glioma project**  #####About the T200 project MD Anderson initiated the panel sequencing project several years ago. The goal of the project, spearheaded by Sheikh Khalifa Bin Zayed Al Nahyan Institute for Personalize"
+    },
+    {
+      "id": "syn61807589",
+      "name": "Huashan glioma cohort1",
+      "description": "  The Human Investigation Ethical Committee of Huashan Hospital affiliated with Fudan University deemed the use of human glioma tissues exempt from ethical review. Tumor samples were consecutively collected from the Department of Neurosurge"
+    },
+    {
+      "id": "syn34152292",
+      "name": "Adult-type diffuse glioma MRI data",
+      "description": "  This collection comprises multi-parametric magnetic resonance imaging (MRI)  data  for adult-type diffuse glioma patients from Harbin Medical University Cancer, coupled with patient demographics and molecular features (IDH and 1p19q). Acc"
+    },
+    {
+      "id": "syn60087246",
+      "name": "CDK4i Glioma Project",
+      "description": "  # Single-nucleus transcriptomics, pharmacokinetics, and pharmacodynamics of CDK4/6 and mTOR inhibition in a Phase 0/1 trial of recurrent high-grade glioma ______________________________________________________________  ## OVERVIEW This pa"
+    },
+    {
+      "id": "syn52658621",
+      "name": "MSK IDH-mutant Glioma",
+      "description": "  This dataset comprises MSK-IMPACT targeted sequencing results from 73 IDH-mutant low-grade glioma. The data comprises only somatic events.  **Description of files:** data_mutations.txt <- Mutations File data_cna.txt <- Copy number File da"
+    },
+    {
+      "id": "syn6633069",
+      "name": "Columbia University NF1 Glioma Project",
+      "description": "  ${image?fileName=CTF Synodos Data Site Headers%2Ejpg&align=Center&scale=100&responsive=true} ###**Welcome to the Columbia University NF1 Glioma Project**  This site is the central place for all data from the NF1 Glioma grant awarded by CT"
+    },
+    {
+      "id": "syn5698493",
+      "name": "Synodos NF1 Low Grade Glioma",
+      "description": "  ${image?fileName=CTF Synodos Data Site Headers3%2Ejpg&align=Center&scale=100&responsive=true} ###**Welcome to the Synodos for NF1- Low Grade Glioma Site**  This site is the central place for all data related to the CTF-funded Synodos for "
+    },
+    {
+      "id": "syn25999950",
+      "name": "Single cell sequencing of glioma in NF1 patients",
+      "description": " Single cell sequencing of glioma in NF1 patients # Single cell sequencing of glioma in NF1 patients ## Children's Tumor Foundation  ### Principal Investigator: Dr. Antonio Iaverone ### Project Lead / Data Coordinator: Dr. Fulvio D'Angelo #"
+    },
+    {
+      "id": "syn71998448",
+      "name": "Development of tumor spheroids for NF1 glioma",
+      "description": " Development of tumor spheroids for NF1 glioma # Development of tumor spheroids for NF1 glioma ## GFF - Brain Tumor Initiative ### Principal Investigator: Thomas De Raedt ### Project Lead / Data Coordinator: Thomas De Raedt ### Institution:"
+    },
+    {
+      "id": "syn36501381",
+      "name": "hiPSC modeling of NF1 high-grade glioma",
+      "description": " hiPSC modeling of NF1 high-grade glioma # hiPSC modeling of NF1 high-grade glioma ## GFF - Brain Tumor Initiative ### Principal Investigator: David Gutmann ### Project Lead / Data Coordinator: David Gutmann ### Institution: Washington Univ"
+    },
+    {
+      "id": "syn50315996",
+      "name": "Exploiting ERK-dependence with Combination Targeted Therapy in NF1-associated glioma",
+      "description": " Exploiting ERK-dependence with Combination Targeted Therapy in NF1-associated glioma # Exploiting ERK-dependence with Combination Targeted Therapy in NF1-associated glioma ## NTAP - Developmental and HyperActive Ras Tumor Specialized Progr"
+    },
+    {
+      "id": "syn60057901",
+      "name": "Restoring oligodendrocyte precursor function and myelination in NF1 optic glioma",
+      "description": " Restoring oligodendrocyte precursor function and myelination in NF1 optic glioma # Restoring oligodendrocyte precursor function and myelination in NF1 optic glioma ## GFF - Vision Restoration Initiative ### Principal Investigator: Yuan Pan"
+    }
+  ],
+  "bpc": [
+    {
+      "id": "syn53013218",
+      "name": "GENIE Portal",
+      "description": "  This project contains Synapse Wikis and Tables to support the GENIE Data Portal.  AACR Project GENIE Public - https://www.synapse.org/#!Synapse:syn7222066/wiki/405659 GENIE Biopharma Collaborative Public - https://www.synapse.org/#!Synaps"
+    },
+    {
+      "id": "syn27056172",
+      "name": "GENIE Biopharma Collaborative Public",
+      "description": "  ## What is AACR Project GENIE  ${image?fileName=Large GENIE logo%2Ejpeg&align=None&scale=100&responsive=true&altText=} AACR Project GENIE is a publicly accessible international cancer registry of real-world data assembled through data sha"
+    },
+    {
+      "id": "syn78462800",
+      "name": "GENIE bpc",
+      "description": " "
+    },
+    {
+      "id": "syn10240587",
+      "name": "GENIE Test Upload",
+      "description": "  <font size=6>  Preparing data files for AACR Project GENIE </font>  &nbsp; ${toc}  ## **Introduction** Full GENIE participants upload files to Synapse that include clinical and genetic data, as well as assay and workflow information. This"
+    },
+    {
+      "id": "syn7222066",
+      "name": "AACR Project GENIE Public",
+      "description": "  ##What is AACR Project GENIE  ${image?fileName=Large GENIE logo%2Ejpg&align=Left&scale=65&responsive=true&altText=} AACR Project GENIE is a publicly accessible international cancer registry of real-world data assembled through data sharin"
+    },
+    {
+      "id": "syn22249859",
+      "name": "testing act data access functionality",
+      "description": "   <img src=\"https://raw.githubusercontent.com/jay-hodgson/static-assets/main/GENIE-logo-small-for-AR.jpeg\" alt=\"GENIE logo\" width=\"500\" height=\"168\">  ${image?fileName=GENIE%2Dlogo%2Dsmall%2Dfor%2DAR%2Ejpeg&align=None&scale=100&responsive="
+    },
+    {
+      "id": "syn49223332",
+      "name": "Next GeNLP",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Next GeNLP   ### Finding structure in tumor genetic features by embedding, clustering, and mapping.  ##Team Members  <p> Gabriel Altay, Hari (Hariprasad) Donthi, Karthika Kavarmar, William X"
+    },
+    {
+      "id": "syn34548529",
+      "name": "2022 Hack for NF",
+      "description": "  ${image?fileName=new hack%2Epng&align=Center&scale=100&responsive=true&altText=}${buttonlink?text=Join the Hack4NF Slack Workspace&url=https://join%2Eslack%2Ecom/t/hack4nf/shared%5Finvite/zt%2D1esq5ezd2%2DEl5YpWKZguQYST50td76ow&highlight="
+    },
+    {
+      "id": "syn49223296",
+      "name": "Creating A GENIE Dataset For One NF1 GCP AI",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Creating A GENIE Dataset For One NF1 GCP AI   ##Team Members: <p>Spyros Schismenos, Anshuman Mishra\t    ### Java 11 Methods For Redirecting One Similar GENIE NF1 Dataset AI File Types In GCP"
+    },
+    {
+      "id": "syn21498902",
+      "name": "Cancer Complexity Knowledge Portal - Database",
+      "description": "  This Synapse project houses production database tables and entities for the [Cancer Complexity Knowledge Portal](https://cancercomplexity.synapse.org/) (CCKP).  The portal is built to disseminate resources to accelerate discovery and coll"
+    },
+    {
+      "id": "syn49223273",
+      "name": "Artificial Intelligence for neurofibromatosis",
+      "description": " Project Summary # 2022 Hack4NF - Challenge 1   # Artificial Intelligence for neurofibromatosis   ## Team Members <p> Muhammad Alaa  Alwattar, Jeffy Joseph Vinohar, Lucas Pastur Romay, Harshal Chorya,   ### Machine Learning and Natural Lang"
+    },
+    {
+      "id": "syn26543612",
+      "name": "Clinical Imaging Repository Demo",
+      "description": "  ${image?synapseId=syn26602568&align=None&scale=100&responsive=true&altText=}  # Overview This project provides a demo of using Synapse and the OMOP Common Data Model to store, organize, and harmonize image files with data in a standard cl"
+    },
+    {
+      "id": "syn25551331",
+      "name": "2021 Hack for Rare",
+      "description": "  ${image?fileName=Hackathon%2D2021%2DBanner%2D%282160x540%29 FINAL%2Ejpg&align=None&scale=100&responsive=true&altText=} &nbsp;   <!--${buttonlink?text=Register for the 2021 Hack4RARE&url=https://www%2Esynapse%2Eorg/#!Synapse:syn25551331/wi"
+    }
+  ],
+  "opened": {
+    "syn7222066": {
+      "name": "AACR Project GENIE Public",
+      "children": [
+        {
+          "id": "syn50898929",
+          "name": "AACR_Project_GENIE_Terms of_Use.pdf",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        },
+        {
+          "id": "syn7844529",
+          "name": "Data Releases",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62666592",
+          "name": "Training Materials",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn21683345",
+          "name": "current_data_guide.pdf",
+          "type": "org.sagebionetworks.repo.model.FileEntity"
+        }
+      ]
+    },
+    "syn53013218": {
+      "name": "GENIE Portal",
+      "children": [
+        {
+          "id": "syn54185332",
+          "name": "(ARCHIVED) File descriptions",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn54202628",
+          "name": "BPC Release Schedule",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn54352754",
+          "name": "Homepage - Our Data (Goals) Module",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn54355188",
+          "name": "Homepage - What Else is in the Portal (Goals) Module",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn53975138",
+          "name": "Portal - Contributors",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn53974927",
+          "name": "Portal - Publications",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn53975155",
+          "name": "Portal - Tools",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn54337888",
+          "name": "portalMetadata",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        }
+      ]
+    },
+    "syn27056172": {
+      "name": "GENIE Biopharma Collaborative Public",
+      "children": [
+        {
+          "id": "syn27056700",
+          "name": "Data Releases",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn62666191",
+          "name": "Training Materials",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        }
+      ]
+    },
+    "syn10240587": {
+      "name": "GENIE Test Upload",
+      "children": [
+        {
+          "id": "syn50117143",
+          "name": "Center Mapping",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn50117413",
+          "name": "Database to Synapse Id Mapping",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn48423267",
+          "name": "NAACCR_ETHNICITY_MAPPING",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn48423227",
+          "name": "NAACCR_RACE_MAPPING",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn48423154",
+          "name": "NAACCR_SEX_MAPPING",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn50118256",
+          "name": "Resources",
+          "type": "org.sagebionetworks.repo.model.Folder"
+        },
+        {
+          "id": "syn48423305",
+          "name": "SAMPLE_TYPE_MAPPING",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn50124861",
+          "name": "TEST Merge Variant Checking (Mutations in Cis)",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        },
+        {
+          "id": "syn50118175",
+          "name": "TEST Sample Clinical Database",
+          "type": "org.sagebionetworks.repo.model.table.TableEntity"
+        }
+      ]
+    },
+    "syn49223296": {
+      "name": "Creating A GENIE Dataset For One NF1 GCP AI",
+      "children": []
+    },
+    "syn78462800": {
+      "name": "GENIE bpc",
+      "children": [
+        {
+          "id": "syn78462844",
+          "name": "G",
+          "type": "org.sagebionetworks.repo.model.table.Dataset"
+        }
+      ]
+    },
+    "syn10889779": {
+      "name": "GLASS-NL",
+      "children": []
+    }
+  }
+}

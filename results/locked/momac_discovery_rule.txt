@@ -1,0 +1,15 @@
+Monocyte-derived macrophage discovery test. Fixed before any macrophage expression was read.
+
+Cells: GSE131907 Cell_subtype exactly mo-Mac, Sample_Origin mBrain or mLN. Microglia/Mac, Alveolar Mac, and Pleural Mac are excluded. Malignant-cell gene lists are not used.
+
+Patients: the feature summary gives brain samples the P3 identifiers and lymph-node samples the P1 identifiers. No patient contributes both a brain and a lymph-node sample, so the test is unpaired.
+
+Unit: sum of raw UMIs across mo-Mac cells in a sample. A sample is eligible at or above 20 mo-Mac cells. The primary model is DESeq2, design ~ origin, contrast brain versus lymph node, Benjamini-Hochberg on genes with a finite adjusted p-value.
+
+The populations separate if the sample-level permutation test on variance-stabilized pseudobulk has p < 0.05, or if at least one gene has FDR < 0.05. Otherwise this dataset stops.
+
+Two sensitivities, also fixed now. Samples with at least 50 mo-Mac cells. And the same eligible samples with design ~ sex + origin, because the clinical table shows 7 of 10 brain samples are female and 4 of 7 lymph-node samples are male. Sex adjustment is not the primary test.
+
+Gate check: TMEM119, P2RY12, CX3CR1, and SALL1. If any is higher in brain at FDR < 0.05 and log2 fold change > 1, the mo-Mac gate has leaked microglia and the gene list is not interpretable.
+
+No second cohort is locked. Genes that pass FDR are discovery candidates, not a confirmed result. Biopsy procedure is the same variable as site, neurosurgery versus nodal sampling, and cannot be adjusted separately.

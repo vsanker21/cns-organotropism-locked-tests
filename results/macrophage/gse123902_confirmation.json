@@ -1,0 +1,109 @@
+{
+  "qc": [
+    {
+      "n_cells": 3886,
+      "n_macrophage": 600,
+      "umi": 1452831.0,
+      "sample": "LX255B",
+      "site": "Brain"
+    },
+    {
+      "n_cells": 1630,
+      "n_macrophage": 125,
+      "umi": 885438.0,
+      "sample": "LX681",
+      "site": "Brain"
+    },
+    {
+      "n_cells": 788,
+      "n_macrophage": 86,
+      "umi": 177709.0,
+      "sample": "LX701",
+      "site": "Brain"
+    },
+    {
+      "n_cells": 1316,
+      "n_macrophage": 203,
+      "umi": 1833453.0,
+      "sample": "LX666",
+      "site": "Bone"
+    },
+    {
+      "n_cells": 2671,
+      "n_macrophage": 237,
+      "umi": 1780399.0,
+      "sample": "LX699",
+      "site": "Adrenal"
+    }
+  ],
+  "eligible_brain": 3,
+  "eligible_other": 2,
+  "confirmed": false,
+  "reason": "samples_overlap_or_direction_does_not_match",
+  "comparisons": {
+    "primary": {
+      "brain_high": {
+        "n_brain": 3,
+        "n_other": 2,
+        "mean_brain": -0.037707736230671585,
+        "mean_other": 0.056561604346007766,
+        "min_brain": -0.39170292397043843,
+        "max_brain": 0.4868386085850806,
+        "min_other": -0.38323004794094057,
+        "max_other": 0.4963532566329561,
+        "mannwhitney_p": 0.8,
+        "mannwhitney_u": 2.0,
+        "n_locked": 120,
+        "n_used": 104,
+        "completely_separated_in_predicted_direction": false
+      },
+      "lymph_node_high": {
+        "n_brain": 3,
+        "n_other": 2,
+        "mean_brain": -0.0250544602857385,
+        "mean_other": 0.037581690428607484,
+        "min_brain": -0.3328855644629012,
+        "max_brain": 0.19884699585903123,
+        "min_other": -0.5493065037964006,
+        "max_other": 0.6244698846536155,
+        "mannwhitney_p": 1.0,
+        "mannwhitney_u": 3.0,
+        "n_locked": 96,
+        "n_used": 88,
+        "completely_separated_in_predicted_direction": false
+      }
+    },
+    "without_glial_markers": {
+      "brain_high": {
+        "n_brain": 3,
+        "n_other": 2,
+        "mean_brain": -0.042247364196633906,
+        "mean_other": 0.06337104629495102,
+        "min_brain": -0.3835567013273288,
+        "max_brain": 0.4881678287419409,
+        "min_other": -0.36725609995410585,
+        "max_other": 0.4939981925440079,
+        "mannwhitney_p": 0.8,
+        "mannwhitney_u": 2.0,
+        "n_locked": 118,
+        "n_used": 102,
+        "completely_separated_in_predicted_direction": false
+      },
+      "lymph_node_high": {
+        "n_brain": 3,
+        "n_other": 2,
+        "mean_brain": -0.0250544602857385,
+        "mean_other": 0.037581690428607484,
+        "min_brain": -0.3328855644629012,
+        "max_brain": 0.19884699585903123,
+        "min_other": -0.5493065037964006,
+        "max_other": 0.6244698846536155,
+        "mannwhitney_p": 1.0,
+        "mannwhitney_u": 3.0,
+        "n_locked": 96,
+        "n_used": 88,
+        "completely_separated_in_predicted_direction": false
+      }
+    }
+  }
+}

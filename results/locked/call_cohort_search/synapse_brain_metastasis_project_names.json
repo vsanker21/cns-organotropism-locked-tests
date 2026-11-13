@@ -1,0 +1,24 @@
+{
+  "zips": {
+    "syn57078248": {
+      "http": 200,
+      "name": "Breast.zip",
+      "description": "",
+      "dataFileHandleId": "138192664",
+      "annotations": null
+    },
+    "syn57078331": {
+      "http": 200,
+      "name": "Lung.zip",
+      "description": "",
+      "dataFileHandleId": "138192776",
+      "annotations": null
+    }
+  },
+  "name_matches": [
+    {
+      "id": "syn57077557",
+      "name": "Spatial Distribution Map of Brain Metastasis"
+    }
+  ]
+}

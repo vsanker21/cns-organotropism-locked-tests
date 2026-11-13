@@ -1,0 +1,14 @@
+Result of the eligibility rule in call_cohort_eligibility_rule.txt. Metadata and clinical tables only. No expression matrix from a new series was opened.
+
+Primary-tumor brain-relapse counts
+- TCGA-BRCA open clinical biotab follow-up, versions 1.5, 2.1, and 4.0, plus the new-tumor-event tables. Eight patients have the brain named: TCGA-A2-A3XY, TCGA-A7-A13E, TCGA-B6-A0IK, TCGA-B6-A0IN, TCGA-B6-A0X1, TCGA-E2-A10A, TCGA-GM-A2DA, TCGA-LL-A73Z. The patient-level metastatic-site field at diagnosis has no brain entry. Eight events do not qualify.
+- METABRIC clinical attributes on cBioPortal contain relapse-free status and do not contain an organ-of-relapse field.
+- GSE345865 series-matrix header: 42 breast-cancer tissue samples, 23 brain-metastasis positive, 19 negative. The event count is not greater than 23. Expression was not downloaded.
+- GSE2034 remains 10 events among 286, from the earlier clinical table.
+
+Single-cell or bulk series that do not meet the two-site rule
+- GSE248830 header: 11 primary breast, 11 matched breast brain metastases, 11 primary lung, 11 matched lung brain metastases. A primary tumor is not a second metastatic site. Bulk brain RNA is not a procedure-matched macrophage test. Expression was not downloaded.
+- GSE281580 header: 5 brain metastases and 3 primary tumors. Expression was not downloaded.
+- GSE322943 header: 100 breast-cancer brain-metastasis samples and no second metastatic site. Expression was not downloaded.
+
+No series qualified. The locked gene lists were not scored again.

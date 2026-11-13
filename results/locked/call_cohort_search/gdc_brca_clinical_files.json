@@ -1,0 +1,229 @@
+{
+  "pagination": {
+    "count": 20,
+    "total": 2288,
+    "size": 20,
+    "from": 0,
+    "sort": "",
+    "page": 1,
+    "pages": 115
+  },
+  "facets": {
+    "data_type": [
+      [
+        "Clinical Supplement",
+        1183
+      ],
+      [
+        "Pathology Report",
+        1105
+      ]
+    ],
+    "data_format": [
+      [
+        "pdf",
+        1105
+      ],
+      [
+        "bcr xml",
+        1097
+      ],
+      [
+        "bcr omf xml",
+        77
+      ],
+      [
+        "bcr biotab",
+        9
+      ]
+    ],
+    "access": [
+      [
+        "open",
+        2288
+      ]
+    ]
+  },
+  "example_hits": [
+    {
+      "id": "b6e8df85-fcd5-47e3-b2aa-13894cbc4326",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-A8-A09E.xml",
+      "file_id": "b6e8df85-fcd5-47e3-b2aa-13894cbc4326",
+      "data_type": "Clinical Supplement",
+      "file_size": 11047
+    },
+    {
+      "id": "9ac45736-4643-47cf-b8d3-30d81c1267ba",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-A8-A09E.C55B6F4B-1248-4FBF-83C2-B0A1B33DEA03.PDF",
+      "file_id": "9ac45736-4643-47cf-b8d3-30d81c1267ba",
+      "data_type": "Pathology Report",
+      "file_size": 59461
+    },
+    {
+      "id": "9ddbf5f1-19dc-49eb-a15f-7c3999e65029",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-A7-A0DC.43D912CD-BD3C-4E69-B28B-AB2E173C0BC2.PDF",
+      "file_id": "9ddbf5f1-19dc-49eb-a15f-7c3999e65029",
+      "data_type": "Pathology Report",
+      "file_size": 296374
+    },
+    {
+      "id": "13f99438-a228-44f5-aedf-398557abc162",
+      "data_format": "BCR XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_clinical.TCGA-A7-A0DC.xml",
+      "file_id": "13f99438-a228-44f5-aedf-398557abc162",
+      "data_type": "Clinical Supplement",
+      "file_size": 112171
+    },
+    {
+      "id": "051ca785-e7be-4ac3-8757-1c9ace8acf7e",
+      "data_format": "BCR XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_clinical.TCGA-A8-A08F.xml",
+      "file_id": "051ca785-e7be-4ac3-8757-1c9ace8acf7e",
+      "data_type": "Clinical Supplement",
+      "file_size": 84541
+    },
+    {
+      "id": "d6f6fb37-6eb9-4d2a-90fb-754da8001cc8",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-A7-A0CD.DEB67EB8-155C-4ACF-B3D4-595E4CBE2E5C.PDF",
+      "file_id": "d6f6fb37-6eb9-4d2a-90fb-754da8001cc8",
+      "data_type": "Pathology Report",
+      "file_size": 142227
+    },
+    {
+      "id": "cc5e6699-f891-4acb-84a9-75f218af4374",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-LL-A6FP.D318A0F0-38B2-4DFA-8326-E362603AAC5E.PDF",
+      "file_id": "cc5e6699-f891-4acb-84a9-75f218af4374",
+      "data_type": "Pathology Report",
+      "file_size": 202273
+    },
+    {
+      "id": "890c2a98-131e-426c-8435-e18626643cdb",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-A8-A07E.xml",
+      "file_id": "890c2a98-131e-426c-8435-e18626643cdb",
+      "data_type": "Clinical Supplement",
+      "file_size": 11044
+    },
+    {
+      "id": "cd7890a5-76f8-479d-9298-fda762a15701",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-A8-A06T.xml",
+      "file_id": "cd7890a5-76f8-479d-9298-fda762a15701",
+      "data_type": "Clinical Supplement",
+      "file_size": 11044
+    },
+    {
+      "id": "0b886d14-3ca9-42b8-afb5-e989fc73ec5c",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-5L-AAT1.B5CA42BB-9514-42C6-9FB0-C8889C1DC51A.PDF",
+      "file_id": "0b886d14-3ca9-42b8-afb5-e989fc73ec5c",
+      "data_type": "Pathology Report",
+      "file_size": 80182
+    },
+    {
+      "id": "65d1a7ee-dcd9-4626-a3a0-db3cfbf61f04",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-5L-AAT1.xml",
+      "file_id": "65d1a7ee-dcd9-4626-a3a0-db3cfbf61f04",
+      "data_type": "Clinical Supplement",
+      "file_size": 11592
+    },
+    {
+      "id": "dfc14560-ce1a-4d7f-9b03-6777d9ee725a",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-A8-A091.xml",
+      "file_id": "dfc14560-ce1a-4d7f-9b03-6777d9ee725a",
+      "data_type": "Clinical Supplement",
+      "file_size": 10990
+    },
+    {
+      "id": "a33da3c6-d7d3-456b-b8b3-a9a001830c09",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-A8-A06U.A314FB55-F20A-4485-965D-D7894D070A16.PDF",
+      "file_id": "a33da3c6-d7d3-456b-b8b3-a9a001830c09",
+      "data_type": "Pathology Report",
+      "file_size": 59725
+    },
+    {
+      "id": "482fbcdb-bc33-4117-88e6-6aa371094135",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-AO-A0J5.5EFC16F4-7FC7-479E-93F7-AEDC2D350A22.PDF",
+      "file_id": "482fbcdb-bc33-4117-88e6-6aa371094135",
+      "data_type": "Pathology Report",
+      "file_size": 555333
+    },
+    {
+      "id": "07488c2c-c50f-402e-8f22-9278db6110f9",
+      "data_format": "BCR XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_clinical.TCGA-AO-A0JI.xml",
+      "file_id": "07488c2c-c50f-402e-8f22-9278db6110f9",
+      "data_type": "Clinical Supplement",
+      "file_size": 95172
+    },
+    {
+      "id": "a62a9a57-cdfc-4598-ac33-ae929b8c6af7",
+      "data_format": "BCR XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_clinical.TCGA-PL-A8LV.xml",
+      "file_id": "a62a9a57-cdfc-4598-ac33-ae929b8c6af7",
+      "data_type": "Clinical Supplement",
+      "file_size": 59923
+    },
+    {
+      "id": "25a44635-be50-4edd-bb52-d633c807532e",
+      "data_format": "BCR OMF XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_omf.TCGA-GM-A2DO.xml",
+      "file_id": "25a44635-be50-4edd-bb52-d633c807532e",
+      "data_type": "Clinical Supplement",
+      "file_size": 11259
+    },
+    {
+      "id": "3153b5c0-eaad-4821-abbe-9baa4aa88fe1",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-A2-A0D4.990F5885-8EDD-42A2-AEFE-9DEE3E95A0B1.PDF",
+      "file_id": "3153b5c0-eaad-4821-abbe-9baa4aa88fe1",
+      "data_type": "Pathology Report",
+      "file_size": 181464
+    },
+    {
+      "id": "9a5ad19b-a418-4c29-b10b-e8d9b479a85e",
+      "data_format": "BCR XML",
+      "access": "open",
+      "file_name": "nationwidechildrens.org_clinical.TCGA-E9-A247.xml",
+      "file_id": "9a5ad19b-a418-4c29-b10b-e8d9b479a85e",
+      "data_type": "Clinical Supplement",
+      "file_size": 90054
+    },
+    {
+      "id": "a2ab247f-228a-429f-b70b-27fc74f70273",
+      "data_format": "PDF",
+      "access": "open",
+      "file_name": "TCGA-D8-A146.79749F5D-329A-400D-8511-C4CF479C1FCC.PDF",
+      "file_id": "a2ab247f-228a-429f-b70b-27fc74f70273",
+      "data_type": "Pathology Report",
+      "file_size": 63873
+    }
+  ]
+}

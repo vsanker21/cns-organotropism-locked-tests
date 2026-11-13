@@ -1,0 +1,344 @@
+[
+  {
+    "title": "The single-cell Colorectal Cancer Atlas -- core atlas",
+    "collection_name": "Single-cell integration and multi-modal profiling reveals phenotypes and spatial organization of neutrophils in colorectal cancer",
+    "cell_count": 3790266,
+    "dataset_id": "05a8c945-bc12-414f-960d-a31943bbcdd1"
+  },
+  {
+    "title": "CRLM-NMP-ATLAS",
+    "collection_name": "Ex vivo modelling of human colorectal cancer liver metastasis by normothermic machine perfusion",
+    "cell_count": 75104,
+    "dataset_id": "e3ed2ba4-edf5-40ac-8750-8a417ad1eefe"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_kg183_tumor",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 1203,
+    "dataset_id": "ef0d813e-b9b4-4d30-8e54-b3939942c447"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_epithelial",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 47107,
+    "dataset_id": "829a3cd1-a466-49f1-b2e9-d3f6b7f392e2"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_kg182_tumor",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 935,
+    "dataset_id": "743473de-0563-4809-b69c-872c8d0685e6"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_non-tumor_epithelial",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 21026,
+    "dataset_id": "5ee552f5-834c-4766-92c8-5a09dfd45767"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_untreated_epithelial",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 13843,
+    "dataset_id": "4b5afdf9-9299-4655-9218-c9f67b3776e7"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_kg150_tumor",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 2574,
+    "dataset_id": "387acac5-48cd-4f25-880e-523114ccb006"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_kg146_tumor",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 3351,
+    "dataset_id": "2e95d453-930b-4425-9475-ccaf8cf2ac40"
+  },
+  {
+    "title": "progressive_plasticity_during_crc_metastasis_tumor",
+    "collection_name": "Progressive plasticity during colorectal cancer metastasis",
+    "cell_count": 26086,
+    "dataset_id": "2554a654-237c-485e-b0d2-a58b46cf2d9a"
+  },
+  {
+    "title": "Integrated cancer cell-specific single-cell RNA-seq datasets of immune checkpoint blockade-treated patients",
+    "collection_name": "Integrated cancer cell-specific single-cell RNA-seq datasets of immune checkpoint blockade-treated patients",
+    "cell_count": 355941,
+    "dataset_id": "7b20c613-9add-43d1-87e9-defd3d9b9f8c"
+  },
+  {
+    "title": "HTAPP-213-SMP-6752 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 9799,
+    "dataset_id": "ff4cfa86-9c0c-4b7c-abd6-90547657d04f"
+  },
+  {
+    "title": "HTAPP-812-SMP-8239 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 10957,
+    "dataset_id": "f12ab0e6-383c-4362-b1c6-922de09ccbc9"
+  },
+  {
+    "title": "HTAPP-313-SMP-932 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 12494,
+    "dataset_id": "ec423499-4564-4ab4-a7c2-316c72788ead"
+  },
+  {
+    "title": "HTAPP-364-SMP-1321 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 2958,
+    "dataset_id": "e2824739-ea79-4efd-9434-3bec079b55d3"
+  },
+  {
+    "title": "HTAPP-944-SMP-7479 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 9422,
+    "dataset_id": "e06e9bf3-81ef-434d-bc86-08ec1266b155"
+  },
+  {
+    "title": "HTAPP-330-SMP-1082 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 565,
+    "dataset_id": "d7476ae2-e320-4703-8304-da5c42627e71"
+  },
+  {
+    "title": "HTAPP-944-SMP-7479 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 10016,
+    "dataset_id": "cd6398a9-c0af-4467-9091-c536866535bd"
+  },
+  {
+    "title": "HTAPP-880-SMP-7179 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 10918,
+    "dataset_id": "c7d0def0-2dcd-4111-902b-67e6baeac119"
+  },
+  {
+    "title": "HTAPP-895-SMP-7359 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 6210,
+    "dataset_id": "aa6f371d-dacd-47e7-a774-e2f4495604a2"
+  },
+  {
+    "title": "HTAPP-982-SMP-7629 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 7505,
+    "dataset_id": "a6c0143c-11f7-4a54-8710-6b427b78873a"
+  },
+  {
+    "title": "HTAPP-313-SMP-932 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 11484,
+    "dataset_id": "a6347c54-9e69-45e4-b1db-f5d84aa8321a"
+  },
+  {
+    "title": "HTAPP-330-SMP-1082 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 11851,
+    "dataset_id": "9c5f68fc-860f-414b-99c2-cc6be691aff3"
+  },
+  {
+    "title": "HTAPP-997-SMP-7789 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 10892,
+    "dataset_id": "9237e573-980a-4be6-b028-0f01cc064956"
+  },
+  {
+    "title": "HTAPP-917-SMP-4531 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 8715,
+    "dataset_id": "7432b873-1e96-4a8a-b97b-8921937f4afe"
+  },
+  {
+    "title": "HTAPP-853-SMP-4381 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 11430,
+    "dataset_id": "71e44b30-83b6-455c-a161-bc04c9898f00"
+  },
+  {
+    "title": "HTAPP-997-SMP-7789 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 12258,
+    "dataset_id": "71513028-e4a0-4c62-a435-16598791690a"
+  },
+  {
+    "title": "Fresh samples (single cell)",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 157531,
+    "dataset_id": "6c87755e-a671-41a8-9c7e-4e43b850a57b"
+  },
+  {
+    "title": "HTAPP-880-SMP-7179 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 22188,
+    "dataset_id": "6384d8b8-8511-4ffb-b543-26dc8dd5967a"
+  },
+  {
+    "title": "HTAPP-783-SMP-4081 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 5833,
+    "dataset_id": "59d14a35-0c86-4eee-90b7-fe59595f522c"
+  },
+  {
+    "title": "HTAPP-917-SMP-4531 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 11074,
+    "dataset_id": "54d56674-e4e1-4e3c-9110-ea5cc2ac0eb5"
+  },
+  {
+    "title": "HTAPP-895-SMP-7359 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 9958,
+    "dataset_id": "494faa16-c42d-4b66-8667-f66a3bcacb01"
+  },
+  {
+    "title": "HTAPP-213-SMP-6752 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 9362,
+    "dataset_id": "48b55b2b-c6a3-4288-a09e-e01e5078c678"
+  },
+  {
+    "title": "HTAPP-783-SMP-4081 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 2276,
+    "dataset_id": "44941fdb-8a6f-42d5-9b34-da48c2a3f774"
+  },
+  {
+    "title": "HTAPP-514-SMP-6760 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 20916,
+    "dataset_id": "39f6fec9-2539-4b99-982b-f12888ef649a"
+  },
+  {
+    "title": "Frozen samples (single nucleus)",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 394534,
+    "dataset_id": "34f5307e-7b4d-4a48-b68f-2ba844c6414b"
+  },
+  {
+    "title": "HTAPP-364-SMP-1321 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 13167,
+    "dataset_id": "2dd73feb-0527-47d5-8c7b-35b6de16aecb"
+  },
+  {
+    "title": "HTAPP-812-SMP-8239 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 5463,
+    "dataset_id": "1884e651-5f7f-4e6c-a71a-843ba272aaf4"
+  },
+  {
+    "title": "HTAPP-982-SMP-7629 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 8086,
+    "dataset_id": "1637e817-d091-4793-a3af-796ef57e2668"
+  },
+  {
+    "title": "HTAPP-878-SMP-7149 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 10623,
+    "dataset_id": "12c868c6-94df-48b5-acf2-b82f6aa14074"
+  },
+  {
+    "title": "HTAPP-514-SMP-6760 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 33272,
+    "dataset_id": "0f9d1892-919a-4f51-8b95-0b50750da1e6"
+  },
+  {
+    "title": "HTAPP-853-SMP-4381 scRNA-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 4742,
+    "dataset_id": "05a49baa-d326-42ae-86d2-94de3a659901"
+  },
+  {
+    "title": "HTAPP-878-SMP-7149 Slide-seq",
+    "collection_name": "HTAN/HTAPP Broad - Spatio-molecular dissection of the breast cancer metastatic microenvironment",
+    "cell_count": 22033,
+    "dataset_id": "02aa7750-ed05-4eca-8061-766c68a81a22"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_07",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 40982,
+    "dataset_id": "dcb7c544-bf18-4f9a-97a4-aa816910d862"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_14",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 36785,
+    "dataset_id": "d4dc4cfe-7da5-4e56-bf96-83f01082f5df"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_10",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 15366,
+    "dataset_id": "cc43509e-8729-4cbc-ace9-f0f7d654ee53"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_12",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 37193,
+    "dataset_id": "b3052902-613c-4b04-a0f5-bafd397bb125"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_09",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 37275,
+    "dataset_id": "ae4552dc-e2ea-4d67-b375-03ec7480f780"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_09",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 14990,
+    "dataset_id": "9b1437bb-42fe-47d8-8962-835d95581763"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_13",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 27757,
+    "dataset_id": "89972213-8510-49c3-a55a-01cd248ef88a"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220408_08",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 19034,
+    "dataset_id": "76bb43ff-e2f5-4513-a0f0-1059c860c3b7"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_200727_08",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 18851,
+    "dataset_id": "6d243918-f3f6-4a9e-b72e-39d96de73095"
+  },
+  {
+    "title": "Cutaneous melanoma, lymph node metastasis Puck_220215_11",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 21003,
+    "dataset_id": "50c4a6d6-940b-4c6a-a376-aea2ae2d3168"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_14",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 37568,
+    "dataset_id": "4aefec71-da4e-48ec-a910-c542b5807c7d"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_13",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 40217,
+    "dataset_id": "32ffc3a7-c88d-49e1-894f-8e09d0184ee9"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_20",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 37563,
+    "dataset_id": "18fd0190-229d-4d2b-8f28-1e40c49c750d"
+  },
+  {
+    "title": "Renal cell carcinoma, post aPD1, lung metastasis Puck_220408_15",
+    "collection_name": "Spatially mapping T cell receptors and transcriptomes",
+    "cell_count": 35839,
+    "dataset_id": "07efa1c3-7649-43d8-b798-e26a0145ee65"
+  }
+]

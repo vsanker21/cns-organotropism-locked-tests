@@ -1,0 +1,12 @@
+suppressPackageStartupMessages(library(msigdbr))
+c4 <- msigdbr(species = "Homo sapiens", collection = "C4", subcollection = "3CA")
+cat("COLS", paste(colnames(c4), collapse = " | "), "\n")
+cat("NROW", nrow(c4), "\n")
+sub <- c4[c4$gs_name == "GAVISH_3CA_MALIGNANT_METAPROGRAM_29_NPC_OPC", , drop = FALSE]
+cat("SUB_NROW", nrow(sub), "\n")
+print(utils::head(sub, 3))
+genes <- unique(sub[["gene_symbol"]])
+cat("N_GENES", length(genes), "\n")
+cat(paste(head(genes, 20), collapse = ","), "\n")
+writeLines(genes, "g:/Cancer Metastasis/results/locked/neural_genes.txt")
+writeLines("GAVISH_3CA_MALIGNANT_METAPROGRAM_29_NPC_OPC", "g:/Cancer Metastasis/results/locked/neural_set_name.txt")

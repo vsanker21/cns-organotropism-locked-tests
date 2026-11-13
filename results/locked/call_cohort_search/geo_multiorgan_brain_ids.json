@@ -1,0 +1,123 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "22",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "200303152",
+      "200280739",
+      "200275929",
+      "200159284",
+      "200188391",
+      "200223351",
+      "200216069",
+      "200216055",
+      "200185386",
+      "200161853",
+      "200161852",
+      "200158803",
+      "200131007",
+      "200119428",
+      "200110626",
+      "304915994",
+      "304915990",
+      "304915984",
+      "303374607",
+      "303374610"
+    ],
+    "translationset": [
+      {
+        "from": "liver[All Fields]",
+        "to": "\"liver\"[MeSH Terms] OR liver[All Fields]"
+      },
+      {
+        "from": "adrenal[All Fields]",
+        "to": "\"adrenal glands\"[MeSH Terms] OR adrenal[All Fields]"
+      },
+      {
+        "from": "bone[All Fields]",
+        "to": "\"bone and bones\"[MeSH Terms] OR bone[All Fields]"
+      }
+    ],
+    "translationstack": [
+      {
+        "term": "single cell[All Fields]",
+        "field": "All Fields",
+        "count": "429444",
+        "explode": "N"
+      },
+      {
+        "term": "\"brain metastasis\"[All Fields]",
+        "field": "All Fields",
+        "count": "2679",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "\"liver\"[MeSH Terms]",
+        "field": "MeSH Terms",
+        "count": "891830",
+        "explode": "Y"
+      },
+      {
+        "term": "liver[All Fields]",
+        "field": "All Fields",
+        "count": "895216",
+        "explode": "N"
+      },
+      "OR",
+      "GROUP",
+      {
+        "term": "\"adrenal glands\"[MeSH Terms]",
+        "field": "MeSH Terms",
+        "count": "10158",
+        "explode": "Y"
+      },
+      {
+        "term": "adrenal[All Fields]",
+        "field": "All Fields",
+        "count": "11198",
+        "explode": "N"
+      },
+      "OR",
+      "GROUP",
+      "OR",
+      {
+        "term": "\"bone and bones\"[MeSH Terms]",
+        "field": "MeSH Terms",
+        "count": "364063",
+        "explode": "Y"
+      },
+      {
+        "term": "bone[All Fields]",
+        "field": "All Fields",
+        "count": "310056",
+        "explode": "N"
+      },
+      "OR",
+      "GROUP",
+      "OR",
+      {
+        "term": "\"lymph node\"[All Fields]",
+        "field": "All Fields",
+        "count": "66653",
+        "explode": "N"
+      },
+      "OR",
+      "GROUP",
+      "AND",
+      {
+        "term": "\"Homo sapiens\"[Organism]",
+        "field": "Organism",
+        "count": "4782181",
+        "explode": "Y"
+      },
+      "AND"
+    ],
+    "querytranslation": "single cell[All Fields] AND \"brain metastasis\"[All Fields] AND ((\"liver\"[MeSH Terms] OR liver[All Fields]) OR (\"adrenal glands\"[MeSH Terms] OR adrenal[All Fields]) OR (\"bone and bones\"[MeSH Terms] OR bone[All Fields]) OR \"lymph node\"[All Fields]) AND \"Homo sapiens\"[Organism]"
+  }
+}

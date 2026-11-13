@@ -1,0 +1,274 @@
+{
+  "eligible_samples": [
+    "CSF_CSFLUAD1",
+    "CSF_CSFLUAD2",
+    "CSF_CSFLUAD3",
+    "CSF_CWB",
+    "CSF_WLC",
+    "CSF_ZRQ",
+    "BrM_NS_02",
+    "BrM_NS_03",
+    "BrM_NS_04",
+    "BrM_NS_06",
+    "BrM_NS_07",
+    "BrM_NS_12",
+    "BrM_NS_13",
+    "BrM_NS_16",
+    "BrM_NS_17",
+    "BrM_NS_19"
+  ],
+  "qc": [
+    {
+      "sample": "CSF_CSFLUAD1",
+      "compartment": "CSF",
+      "n_cells": 9329,
+      "n_malignant": 476,
+      "malignant_umi": 6990612.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "CSF_CSFLUAD2",
+      "compartment": "CSF",
+      "n_cells": 9780,
+      "n_malignant": 263,
+      "malignant_umi": 3127170.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "CSF_CSFLUAD3",
+      "compartment": "CSF",
+      "n_cells": 8997,
+      "n_malignant": 726,
+      "malignant_umi": 8666570.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "CSF_CWB",
+      "compartment": "CSF",
+      "n_cells": 14933,
+      "n_malignant": 5128,
+      "malignant_umi": 77495823.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "CSF_WLC",
+      "compartment": "CSF",
+      "n_cells": 16213,
+      "n_malignant": 253,
+      "malignant_umi": 2777569.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "CSF_ZRQ",
+      "compartment": "CSF",
+      "n_cells": 13947,
+      "n_malignant": 214,
+      "malignant_umi": 3101080.0,
+      "n_malignant_also_author_epithelial": NaN
+    },
+    {
+      "sample": "BrM_NS_02",
+      "compartment": "Parenchyma",
+      "n_cells": 2313,
+      "n_malignant": 34,
+      "malignant_umi": 239288.0,
+      "n_malignant_also_author_epithelial": 31.0
+    },
+    {
+      "sample": "BrM_NS_03",
+      "compartment": "Parenchyma",
+      "n_cells": 2990,
+      "n_malignant": 1886,
+      "malignant_umi": 26423443.0,
+      "n_malignant_also_author_epithelial": 1867.0
+    },
+    {
+      "sample": "BrM_NS_04",
+      "compartment": "Parenchyma",
+      "n_cells": 1904,
+      "n_malignant": 583,
+      "malignant_umi": 9624084.0,
+      "n_malignant_also_author_epithelial": 547.0
+    },
+    {
+      "sample": "BrM_NS_06",
+      "compartment": "Parenchyma",
+      "n_cells": 1070,
+      "n_malignant": 38,
+      "malignant_umi": 138881.0,
+      "n_malignant_also_author_epithelial": 30.0
+    },
+    {
+      "sample": "BrM_NS_07",
+      "compartment": "Parenchyma",
+      "n_cells": 5730,
+      "n_malignant": 4621,
+      "malignant_umi": 41048152.0,
+      "n_malignant_also_author_epithelial": 4585.0
+    },
+    {
+      "sample": "BrM_NS_12",
+      "compartment": "Parenchyma",
+      "n_cells": 3182,
+      "n_malignant": 2125,
+      "malignant_umi": 26488564.0,
+      "n_malignant_also_author_epithelial": 2072.0
+    },
+    {
+      "sample": "BrM_NS_13",
+      "compartment": "Parenchyma",
+      "n_cells": 4845,
+      "n_malignant": 1184,
+      "malignant_umi": 6422338.0,
+      "n_malignant_also_author_epithelial": 863.0
+    },
+    {
+      "sample": "BrM_NS_16",
+      "compartment": "Parenchyma",
+      "n_cells": 1317,
+      "n_malignant": 43,
+      "malignant_umi": 399949.0,
+      "n_malignant_also_author_epithelial": 32.0
+    },
+    {
+      "sample": "BrM_NS_17",
+      "compartment": "Parenchyma",
+      "n_cells": 2409,
+      "n_malignant": 657,
+      "malignant_umi": 5646811.0,
+      "n_malignant_also_author_epithelial": 521.0
+    },
+    {
+      "sample": "BrM_NS_19",
+      "compartment": "Parenchyma",
+      "n_cells": 3300,
+      "n_malignant": 235,
+      "malignant_umi": 988393.0,
+      "n_malignant_also_author_epithelial": 225.0
+    }
+  ],
+  "leptomeningeal": {
+    "n_locked": 711,
+    "n_used": 687,
+    "coverage": 0.9662447257383966,
+    "n_csf": 6,
+    "n_parenchyma": 10,
+    "mean_csf": -0.13814883453872936,
+    "mean_parenchyma": 0.08288930072323762,
+    "median_csf": -0.03273897319466105,
+    "median_parenchyma": 0.11148199257832048,
+    "mannwhitney_u": 16.0,
+    "mannwhitney_p": 0.14710289710289712,
+    "mean_difference_csf_minus_parenchyma": -0.22103813526196697,
+    "permutation_p": 0.15558444155584442,
+    "auc_for_predicted_higher_group": 0.26666666666666666,
+    "predicted_higher_group": "CSF",
+    "direction_matches_prediction": false,
+    "gene_level": {
+      "n_genes": 687,
+      "fraction_higher_in_csf": 0.3609898107714702,
+      "median_log2cpm_difference_csf_minus_parenchyma": -0.23751139539262622
+    },
+    "sensitivity_at_least_50_malignant_cells": {
+      "n_csf": 6,
+      "n_parenchyma": 7,
+      "mean_csf": -0.13814883453872936,
+      "mean_parenchyma": 0.2139460588048892,
+      "median_csf": -0.03273897319466105,
+      "median_parenchyma": 0.19689630317263798,
+      "mannwhitney_u": 4.0,
+      "mannwhitney_p": 0.013986013986013986,
+      "mean_difference_csf_minus_parenchyma": -0.35209489334361854,
+      "permutation_p": 0.009299070092990702,
+      "auc_for_predicted_higher_group": 0.09523809523809523,
+      "predicted_higher_group": "CSF",
+      "direction_matches_prediction": false,
+      "minimum_malignant_cells": 50,
+      "n_excluded": 3
+    },
+    "status": "tested"
+  },
+  "parenchyma": {
+    "n_locked": 406,
+    "n_used": 400,
+    "coverage": 0.9852216748768473,
+    "n_csf": 6,
+    "n_parenchyma": 10,
+    "mean_csf": 0.572693892273722,
+    "mean_parenchyma": -0.3436163353642332,
+    "median_csf": 0.6010196180680907,
+    "median_parenchyma": -0.23430623868698122,
+    "mannwhitney_u": 60.0,
+    "mannwhitney_p": 0.00024975024975024975,
+    "mean_difference_csf_minus_parenchyma": 0.9163102276379552,
+    "permutation_p": 0.00029997000299970003,
+    "auc_for_predicted_higher_group": 0.0,
+    "predicted_higher_group": "Parenchyma",
+    "direction_matches_prediction": false,
+    "gene_level": {
+      "n_genes": 400,
+      "fraction_higher_in_csf": 0.855,
+      "median_log2cpm_difference_csf_minus_parenchyma": 1.0670252601025894
+    },
+    "sensitivity_at_least_50_malignant_cells": {
+      "n_csf": 6,
+      "n_parenchyma": 7,
+      "mean_csf": 0.572693892273722,
+      "mean_parenchyma": -0.16355588788038092,
+      "median_csf": 0.6010196180680907,
+      "median_parenchyma": -0.17912633350244003,
+      "mannwhitney_u": 42.0,
+      "mannwhitney_p": 0.0011655011655011655,
+      "mean_difference_csf_minus_parenchyma": 0.7362497801541029,
+      "permutation_p": 0.0006999300069993001,
+      "auc_for_predicted_higher_group": 0.0,
+      "predicted_higher_group": "Parenchyma",
+      "direction_matches_prediction": false,
+      "minimum_malignant_cells": 50,
+      "n_excluded": 3
+    },
+    "status": "tested"
+  },
+  "proliferation_control": {
+    "n_locked": 200,
+    "n_used": 189,
+    "coverage": 0.945,
+    "note": "No compartment prediction. AUC treats CSF as the positive class only so the number is comparable.",
+    "n_csf": 6,
+    "n_parenchyma": 10,
+    "mean_csf": 0.4662675354674901,
+    "mean_parenchyma": -0.27976052128049417,
+    "median_csf": 0.42944030977277337,
+    "median_parenchyma": -0.16457088048243013,
+    "mannwhitney_u": 54.0,
+    "mannwhitney_p": 0.007492507492507492,
+    "mean_difference_csf_minus_parenchyma": 0.7460280567479842,
+    "permutation_p": 0.007699230076992301,
+    "auc_for_predicted_higher_group": 0.9,
+    "predicted_higher_group": "CSF",
+    "direction_matches_prediction": true,
+    "gene_level": {
+      "n_genes": 189,
+      "fraction_higher_in_csf": 0.8306878306878307,
+      "median_log2cpm_difference_csf_minus_parenchyma": 0.8239107444589537
+    },
+    "sensitivity_at_least_50_malignant_cells": {
+      "n_csf": 6,
+      "n_parenchyma": 7,
+      "mean_csf": 0.4662675354674901,
+      "mean_parenchyma": 0.0004118763845079349,
+      "median_csf": 0.42944030977277337,
+      "median_parenchyma": -0.020972729288593613,
+      "mannwhitney_u": 36.0,
+      "mannwhitney_p": 0.03496503496503496,
+      "mean_difference_csf_minus_parenchyma": 0.46585565908298215,
+      "permutation_p": 0.0370962903709629,
+      "auc_for_predicted_higher_group": 0.8571428571428571,
+      "predicted_higher_group": "CSF",
+      "direction_matches_prediction": true,
+      "minimum_malignant_cells": 50,
+      "n_excluded": 3
+    },
+    "status": "tested"
+  }
+}

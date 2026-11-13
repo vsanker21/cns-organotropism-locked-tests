@@ -1,0 +1,2285 @@
+{
+  "groups": {
+    "AURORA": [
+      {
+        "id": "syn12035066",
+        "name": "A gene expression signature predicts bladder cancer cell line sensitive to EGFR inhibition",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn4970200",
+        "name": "Bladder Cancer Cell Line Exome Seq",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn31472301",
+        "name": "Human Trisome Project",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn52254335",
+        "name": "High-dimensional immunophenotyping reveals immune cell aberrations in patients with undiagnosed inflammatory and autoimmune diseases",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn50613972",
+        "name": "FINRISK - Heart Failure and Microbiome DenverFINRISKHacky",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn8404040",
+        "name": "Multi-targeting drug DREAM challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn25551331",
+        "name": "2021 Hack for Rare",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "HTAN": [
+      {
+        "id": "syn76993185",
+        "name": "closeread HTAN grounded publication extraction outputs",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn78433714",
+        "name": "il1 htan",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn19046237",
+        "name": "HTAN demo",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn78411169",
+        "name": "HTAN Colorectal Spatial Neighborhoods",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn47164089",
+        "name": "Galaxy-ME",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn62274230",
+        "name": "Human liver senescence",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn25326126",
+        "name": "Minerva",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn21498902",
+        "name": "Cancer Complexity Knowledge Portal - Database",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn52433644",
+        "name": "MC2 Digital Pathology QC Supplement",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "leptomeningeal": [
+      {
+        "id": "syn34512705",
+        "name": "Dissecting the Human Leptomeninges at single-cell resolution",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn66496696",
+        "name": "SEA-AD DREAM Challenge - Predicting Alzheimers Pathology from snRNA-seq Data",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn74274097",
+        "name": "BraTS 2026 Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn53708249",
+        "name": "BraTS 2024 Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn64153130",
+        "name": "BraTS-Lighthouse 2025 Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "organotropism": [
+      {
+        "id": "syn51068458",
+        "name": "Liver_Lung_PDAC",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn7433743",
+        "name": "Interdisciplinary Approaches to Cancer Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "PEACE": [
+      {
+        "id": "syn53213247",
+        "name": "Optimizing outcomes for children and adults with neurofibromatosis-associated tumors",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn36385200",
+        "name": "Preterm Birth Prediction- Vaginal Microbiome Laber_Mon",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn7080714",
+        "name": "Multi-Consortia Coordinating (MC2) Center",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "PCAWG": [
+      {
+        "id": "syn2875157",
+        "name": "ICGC-TCGA-PCAWG SMC Pilot-63 Validation",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn10827955",
+        "name": "GA4GH-DREAM Infrastructure Challenges",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn8507133",
+        "name": "GA4GH-DREAM Workflow Execution Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "OsloVal": [
+      {
+        "id": "syn1688370",
+        "name": "OsloVal Data for Use in Independent Research",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn1461050",
+        "name": "Breast Cancer Challenge Final Round",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn1738265",
+        "name": "Sage Bionetworks and DREAM - clearScience supplement",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn1710250",
+        "name": "The Sage Bionetworks-DREAM Breast Cancer Prognosis Challenge (BCC) Gateway",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn1721874",
+        "name": "Attractor Metagenes - clearScience supplement",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn2313744",
+        "name": "gstest10 test 1",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn1688369",
+        "name": "METABRIC Data for Use in Independent Research",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "autopsy_metastasis": [
+      {
+        "id": "syn52781876",
+        "name": "Mechanisms of MPNST Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn75957536",
+        "name": "Tumorigenesis and Metastasis Analysis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": "Driven by a commitment to advancing oncology research, Alfa Cytology's comprehensive tumorigenesis and metastasis analysis services leverage cutting-edge organoid 3D cultivation technology to provide a highly physiologically relevant platform for studying cancer progression."
+      },
+      {
+        "id": "syn7433743",
+        "name": "Interdisciplinary Approaches to Cancer Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn74309473",
+        "name": "HuR-ELAVL1 drives malignant peripheral nerve sheath tumor growth and metastasis.",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn57077557",
+        "name": "Spatial Distribution Map of Brain Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn75957506",
+        "name": "Angiogenesis and Lymphangiogenesis Analysis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": "Leveraging state-of-the-art imaging, molecular profiling, and functional assays, this platform delivers critical insights into the tumor microenvironment and metastatic processes. Customized service plans are tailored to specific research objectives, covering model selection, ass"
+      },
+      {
+        "id": "syn73580025",
+        "name": "iS2C2_Bone_Mets_scRNAseq_ST",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12181323",
+        "name": "Brain Transcriptome for Neurodegenerative Disease",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn51272688",
+        "name": "PU.1 Enriched snRNAseq Human Brain Data from Alzheimer's and Aged Cases",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn2347420",
+        "name": "Synodos NF2 (Internal)",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn21788402",
+        "name": "ADselectiveVulnerability_snRNAseq",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20933797",
+        "name": "Consensus Brain Protein Coexpression Study",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12666371",
+        "name": "AD Knowledge Portal - backend Sage Internal",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20366914",
+        "name": "Single Cell Signaling in Breast Cancer Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "rapid_autopsy": [
+      {
+        "id": "syn68638197",
+        "name": "Next-Generation Preclinical Models of NF1 Brain Tumours",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12181323",
+        "name": "Brain Transcriptome for Neurodegenerative Disease",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn50619115",
+        "name": "scRNA-seq and scATAC-seq Data Analysis DREAM Challenge Metformin-121",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn51272688",
+        "name": "PU.1 Enriched snRNAseq Human Brain Data from Alzheimer's and Aged Cases",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20933797",
+        "name": "Consensus Brain Protein Coexpression Study",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn2347420",
+        "name": "Synodos NF2 (Internal)",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20821165",
+        "name": "Integrated Proteomics Reveals Brain-Based Cerebrospinal Fluid Biomarkers in Asymptomatic and Symptomatic Alzheimer Disease",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn21788402",
+        "name": "ADselectiveVulnerability_snRNAseq",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12666371",
+        "name": "AD Knowledge Portal - backend Sage Internal",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn53910452",
+        "name": "Harvard Aging Brain Study Public Dataset",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "warm_autopsy": [
+      {
+        "id": "syn12181323",
+        "name": "Brain Transcriptome for Neurodegenerative Disease",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn51272688",
+        "name": "PU.1 Enriched snRNAseq Human Brain Data from Alzheimer's and Aged Cases",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn2347420",
+        "name": "Synodos NF2 (Internal)",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn21788402",
+        "name": "ADselectiveVulnerability_snRNAseq",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20933797",
+        "name": "Consensus Brain Protein Coexpression Study",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12666371",
+        "name": "AD Knowledge Portal - backend Sage Internal",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ],
+    "CNS_metastasis": [
+      {
+        "id": "syn52781876",
+        "name": "Mechanisms of MPNST Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn75957536",
+        "name": "Tumorigenesis and Metastasis Analysis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": "Driven by a commitment to advancing oncology research, Alfa Cytology's comprehensive tumorigenesis and metastasis analysis services leverage cutting-edge organoid 3D cultivation technology to provide a highly physiologically relevant platform for studying cancer progression."
+      },
+      {
+        "id": "syn7433743",
+        "name": "Interdisciplinary Approaches to Cancer Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn74309473",
+        "name": "HuR-ELAVL1 drives malignant peripheral nerve sheath tumor growth and metastasis.",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn57077557",
+        "name": "Spatial Distribution Map of Brain Metastasis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn75957506",
+        "name": "Angiogenesis and Lymphangiogenesis Analysis",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": "Leveraging state-of-the-art imaging, molecular profiling, and functional assays, this platform delivers critical insights into the tumor microenvironment and metastatic processes. Customized service plans are tailored to specific research objectives, covering model selection, ass"
+      },
+      {
+        "id": "syn73580025",
+        "name": "iS2C2_Bone_Mets_scRNAseq_ST",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn12666371",
+        "name": "AD Knowledge Portal - backend Sage Internal",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      },
+      {
+        "id": "syn20366914",
+        "name": "Single Cell Signaling in Breast Cancer Challenge",
+        "parentId": "syn4489",
+        "concreteType": "Project",
+        "description": ""
+      }
+    ]
+  },
+  "tables": [
+    {
+      "id": "syn21521166",
+      "name": "cNF Clinical Data",
+      "parentId": "syn4939478",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Submitter synapse Project",
+        "Submitter email address",
+        "Institution",
+        "Patient Identifier",
+        "Sample Identifier (if multiple samples from patient, e.g. 1,2,3,4)",
+        "Sex",
+        "Body Location",
+        "Please specify Other",
+        "Number of Pregnancies",
+        "Growth status",
+        "Decade of birth (i.e. 1970)",
+        "Processed for Organoids"
+      ]
+    },
+    {
+      "id": "syn26958220",
+      "name": "Clinical Data Table",
+      "parentId": "syn5698493",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "individualID",
+        "specimenID",
+        "sex",
+        "race_ethnicity",
+        "nf1_inheritance",
+        "nf1_diagnosis",
+        "binnedTumorLocation",
+        "binnedHisRead",
+        "binnedBiopsySite",
+        "age_biopsy_year",
+        "age_biopsy_month",
+        "treatment_prior_biopsy",
+        "treatment_prior_agent",
+        "treatment_another_prior_biospy",
+        "treatment_another_agent",
+        "treatment_post_biopsy",
+        "treatment_post_agent",
+        "binnedReasonBiopsy",
+        "Binned_Treatment_Chemo",
+        "other_glioma",
+        "visual_acuity",
+        "clinical_status",
+        "age_death_year",
+        "age_death_month",
+        "age_last_follow_up_year",
+        "age_last_follow_up_month",
+        "he_slide",
+        "Germline_NF1",
+        "NF1_genotype",
+        "Somatic_NF1",
+        "Second_hit_1st",
+        "Second_hit_2nd",
+        "Second_hit_3rd",
+        "Second_hit_4th",
+        "Methylation_Class",
+        "has_molecular_data",
+        "Germline_Seq",
+        "Tumor_Seq",
+        "RNAseq",
+        "Methylation",
+        "in_acta",
+        "Comment"
+      ]
+    },
+    {
+      "id": "syn50118175",
+      "name": "TEST Sample Clinical Database",
+      "parentId": "syn10240587",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "SAMPLE_ID",
+        "ONCOTREE_CODE",
+        "SAMPLE_TYPE",
+        "SEQ_ASSAY_ID",
+        "AGE_AT_SEQ_REPORT",
+        "PATIENT_ID",
+        "CENTER",
+        "SEQ_DATE",
+        "SAMPLE_TYPE_DETAILED",
+        "SEQ_YEAR",
+        "SAMPLE_CLASS"
+      ]
+    },
+    {
+      "id": "syn26196182",
+      "name": "Casado 2008 Clinical Data",
+      "parentId": "syn22128879",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "sample",
+        "compound",
+        "sensOverControl",
+        "PAT ID",
+        "Gender",
+        "Response to therapy",
+        "age"
+      ]
+    },
+    {
+      "id": "syn18634454",
+      "name": "JHU Biobank Clinical Data",
+      "parentId": "syn4939902",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Patient_ID",
+        "Dermal_Neurofibromas",
+        "Dermal_Quantification",
+        "Subcutaneous_Nodular_Neurofibromas",
+        "Spinal_Neurofirbomas",
+        "Plexiform_Neurofibromas",
+        "Optic_Glioma",
+        "MPNST",
+        "NF1_Diagnosis",
+        "Skin_Neurofibromas",
+        "Family_Hx_of_NF1",
+        "Family_Hx_Relationship",
+        "Mosaicism",
+        "Germline_Mutation",
+        "Germline_Mutation_Determination",
+        "Genetic_Test_Confirmation",
+        "Cafe_Au_Lait",
+        "Cafe_Au_Lait_Estimate",
+        "Skin_Fold_Freckling",
+        "Axillary_Freckling",
+        "Groin_Freckling",
+        "Lisch_Nodules",
+        "Puberty_Onset",
+        "Stature",
+        "Heart_Defect",
+        "Heart_Defect_Present",
+        "Vascular_Disease",
+        "Vascular_Disease_Present",
+        "Peripheral_Neuropathy",
+        "Aquaductal_Stenosis",
+        "Long_Bone_Dysplasia",
+        "Sphenoid_Dysplasia",
+        "Scoliosis",
+        "Intellectual_Disability",
+        "Learning_Disability",
+        "Attention_Deficit_Disorder",
+        "Pheochromocytoma",
+        "Glomus_Tumor",
+        "Glioma_not_optic",
+        "GIST",
+        "Other_Tumors",
+        "PCT_Age_at_Dx",
+        "OPG_Age_at_Dx",
+        "MPNST_Age_at_Dx",
+        "Glomus_Tumor_Age_at_Dx"
+      ]
+    },
+    {
+      "id": "syn53122479",
+      "name": "cBioPortal + Supplemental Publication Clinical Data",
+      "parentId": "syn4939918",
+      "concreteType": "TableEntity",
+      "description": "Publication table: https://www.cell.com/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=S2213-6711%2819%2930002-5",
+      "columns": [
+        "specimenID",
+        "individualID",
+        "nf1Genotype",
+        "nf1GermlineMutation",
+        "age",
+        "sex",
+        "cellType",
+        "cbpSpecimenID",
+        "export"
+      ]
+    },
+    {
+      "id": "syn17016699",
+      "name": "NF Clinical Trial Drug Categories",
+      "parentId": "syn12051335",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "std_intervention_name",
+        "intervention_class"
+      ]
+    },
+    {
+      "id": "syn68391590",
+      "name": "NF Glioma Clinical Codebook Ontology Comparison",
+      "parentId": "syn68391586",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Variable__Field_Name",
+        "Field_Label",
+        "Choices",
+        "Disease_Ontology",
+        "MONDO",
+        "NCIT",
+        "MESH"
+      ]
+    },
+    {
+      "id": "syn3346698",
+      "name": "CMC MSSM-Penn-Pitt Clinical Data",
+      "parentId": "syn3275213",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Individual_ID",
+        "Institution",
+        "Dx",
+        "SCZ_Pair",
+        "BD_Pair",
+        "Gender",
+        "Ethnicity",
+        "Brain_Weight_g",
+        "PMI_hrs",
+        "pH",
+        "Year_of_Autopsy",
+        "Age_of_Death",
+        "Cause_of_Death",
+        "Height_in",
+        "Weight_lbs",
+        "Notes"
+      ]
+    },
+    {
+      "id": "syn22170540",
+      "name": "BeatAML Pilot Drug and Clinical Data",
+      "parentId": "syn22128879",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "AML sample",
+        "gender",
+        "ageAtDiagnosis",
+        "priorMalignancyType",
+        "vitalStatus",
+        "overallSurvival",
+        "causeOfDeath",
+        "Condition",
+        "Metric",
+        "Value"
+      ]
+    },
+    {
+      "id": "syn17024112",
+      "name": "Deprecated Portal- Data (Clinical Metadata Table - Public)",
+      "parentId": "syn2580853",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "id",
+        "name",
+        "parentId",
+        "study",
+        "dataType",
+        "dataSubtype",
+        "assay",
+        "assayTarget",
+        "species",
+        "isModelSystem",
+        "consortium",
+        "organ",
+        "tissue",
+        "cellType",
+        "grant",
+        "isConsortiumAnalysis",
+        "analysisType",
+        "isMultiSpecimen",
+        "fileFormat",
+        "group",
+        "specimenIdSource",
+        "specimenID",
+        "benefactorId",
+        "projectId",
+        "diagnosis",
+        "sex",
+        "metadata_synID",
+        "anonymized_individualID"
+      ]
+    },
+    {
+      "id": "syn11343442",
+      "name": "BRCA Clinical Phenotypes and Sample Name Mapping",
+      "parentId": "syn10623580",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Alignment_Reads_Sample_fileName",
+        "Expression_Sample_fileName",
+        "Center",
+        "Observation_date",
+        "Provider_ID",
+        "Patient_ID",
+        "DOB",
+        "Age_At_Sample_Collection",
+        "Gender",
+        "Tissue"
+      ]
+    },
+    {
+      "id": "syn31534430",
+      "name": "Human_scRNA-seq_clinical_data_final.csv",
+      "parentId": "syn25253489",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "CellID",
+        "SampleID",
+        "ParticipantID",
+        "CellType",
+        "CellSubtype",
+        "Genotype",
+        "Age",
+        "Parity",
+        "Menopause",
+        "BreastCancerHistory",
+        "Chemotherapy",
+        "Ethnicity",
+        "Sex"
+      ]
+    },
+    {
+      "id": "syn5555327",
+      "name": "ST2b - Protein kinase cancer drivers targeted by kinase inhibitors or antibodies in clinical trials (Dec 2015)",
+      "parentId": "syn4961550",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Gene_Symbol",
+        "Protein_name",
+        "NCT_Number",
+        "Title",
+        "Conditions",
+        "Interventions",
+        "Enrollment",
+        "Phases",
+        "Start_Date",
+        "URL"
+      ]
+    },
+    {
+      "id": "syn24181696",
+      "name": "Brain Histology",
+      "parentId": "syn23564888",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "Patient_ID",
+        "Biopsy_Description",
+        "Citation"
+      ]
+    },
+    {
+      "id": "syn32313156",
+      "name": "biospecimen-metadata",
+      "parentId": "syn27240503",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "individualID",
+        "specimenID",
+        "assay"
+      ]
+    },
+    {
+      "id": "syn74376684",
+      "name": "syn4939902 Biospecimen Summary",
+      "parentId": "syn8720432",
+      "concreteType": "TableEntity",
+      "description": "",
+      "columns": [
+        "individualID",
+        "specimenID",
+        "assay",
+        "diagnosis",
+        "tumorType",
+        "tissue",
+        "sex",
+        "nf1Genotype",
+        "nf2Genotype",
+        "platform",
+        "nucleicAcidSource",
+        "runType",
+        "specimenType",
+        "organ",
+        "age",
+        "isCellLine",
+        "fileCount"
+      ]
+    }
+  ],
+  "opened": [
+    {
+      "id": "syn11435924",
+      "n": 2,
+      "children": [
+        {
+          "id": "syn11520562",
+          "name": "Data and Tools",
+          "type": "Folder"
+        },
+        {
+          "id": "syn11521944",
+          "name": "Documents",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn7433743",
+      "n": 3,
+      "children": [
+        {
+          "id": "syn11435893",
+          "name": "IACM Project Resources",
+          "type": "Folder"
+        },
+        {
+          "id": "syn11469639",
+          "name": "IACM-funded project resources",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn11990119",
+          "name": "Project files and metadata",
+          "type": "EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn21497922",
+      "n": 12,
+      "children": [
+        {
+          "id": "syn22151260",
+          "name": "BREAST_CANCER_ITH",
+          "type": "Folder"
+        },
+        {
+          "id": "syn25540700",
+          "name": "EPICC",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22150271",
+          "name": "EVOESCAPE_ALLDATA",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22149238",
+          "name": "EVOESCAPE_TCGA_Hartwig_Riaz_SOPRANO",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22151245",
+          "name": "EVOSTEERING",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22151225",
+          "name": "GMB_RESIDUAL_DISEASE",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22296999",
+          "name": "IMMUNOPANEL",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22151185",
+          "name": "LEGACY",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22219393",
+          "name": "MOBSTER",
+          "type": "Folder"
+        },
+        {
+          "id": "syn22151240",
+          "name": "PROSPECT-C",
+          "type": "Folder"
+        },
+        {
+          "id": "syn21822279",
+          "name": "d1_CNA_table",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn21822293",
+          "name": "d2_SNV_table",
+          "type": "TableEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn66496696",
+      "n": 2,
+      "children": [
+        {
+          "id": "syn68883786",
+          "name": "SEA-AD Dream-2025-0811 copy.mp4",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn68635057",
+          "name": "Submission Logs",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn74274097",
+      "n": 3,
+      "children": [
+        {
+          "id": "syn78497940",
+          "name": "BraTS-slides-workshop2026",
+          "type": "Folder"
+        },
+        {
+          "id": "syn77337467",
+          "name": "MICCAI BraTS Challenge 2026 - Schedule v2",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn76341968",
+          "name": "project_synid.png",
+          "type": "FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn53708249",
+      "n": 1,
+      "children": [
+        {
+          "id": "syn64952546",
+          "name": "Data",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn64153130",
+      "n": 1,
+      "children": [
+        {
+          "id": "syn69761570",
+          "name": "MICCAI BraTS Lighthouse Challenge 2025 - Schedule.pdf",
+          "type": "FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn76993185",
+      "n": 6,
+      "children": [
+        {
+          "id": "syn76993190",
+          "name": "figures",
+          "type": "Folder"
+        },
+        {
+          "id": "syn76993188",
+          "name": "gold",
+          "type": "Folder"
+        },
+        {
+          "id": "syn76993186",
+          "name": "metadata",
+          "type": "Folder"
+        },
+        {
+          "id": "syn76993189",
+          "name": "report",
+          "type": "Folder"
+        },
+        {
+          "id": "syn76993191",
+          "name": "runs",
+          "type": "Folder"
+        },
+        {
+          "id": "syn76993187",
+          "name": "silver",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn78433714",
+      "n": 0,
+      "children": []
+    },
+    {
+      "id": "syn19046237",
+      "n": 31,
+      "children": [
+        {
+          "id": "syn19076337",
+          "name": "MantonCB1_HiSeq_1_S1_L001_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076389",
+          "name": "MantonCB1_HiSeq_1_S1_L001_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076401",
+          "name": "MantonCB1_HiSeq_1_S1_L001_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076443",
+          "name": "MantonCB1_HiSeq_1_S1_L002_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076449",
+          "name": "MantonCB1_HiSeq_1_S1_L002_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076460",
+          "name": "MantonCB1_HiSeq_1_S1_L002_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078697",
+          "name": "MantonCB1_HiSeq_1_S2_L001_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078704",
+          "name": "MantonCB1_HiSeq_1_S2_L001_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078715",
+          "name": "MantonCB1_HiSeq_1_S2_L001_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078742",
+          "name": "MantonCB1_HiSeq_1_S2_L002_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078759",
+          "name": "MantonCB1_HiSeq_1_S2_L002_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078769",
+          "name": "MantonCB1_HiSeq_1_S2_L002_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078842",
+          "name": "MantonCB1_HiSeq_3_S3_L001_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078852",
+          "name": "MantonCB1_HiSeq_3_S3_L001_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078856",
+          "name": "MantonCB1_HiSeq_3_S3_L001_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078863",
+          "name": "MantonCB1_HiSeq_3_S3_L002_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078866",
+          "name": "MantonCB1_HiSeq_3_S3_L002_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078873",
+          "name": "MantonCB1_HiSeq_3_S3_L002_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078923",
+          "name": "MantonCB1_HiSeq_4_S4_L001_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078929",
+          "name": "MantonCB1_HiSeq_4_S4_L001_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078935",
+          "name": "MantonCB1_HiSeq_4_S4_L001_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078945",
+          "name": "MantonCB1_HiSeq_4_S4_L002_I1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078951",
+          "name": "MantonCB1_HiSeq_4_S4_L002_R1_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19078963",
+          "name": "MantonCB1_HiSeq_4_S4_L002_R2_001.fastq.gz",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076543",
+          "name": "biomaterial.json",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076556",
+          "name": "file.json",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19564240",
+          "name": "htan-demo-data",
+          "type": "Folder"
+        },
+        {
+          "id": "syn19076685",
+          "name": "links.json",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076677",
+          "name": "process.json",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn19076563",
+          "name": "project.json",
+          "type": "FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn78411169",
+      "n": 0,
+      "children": []
+    },
+    {
+      "id": "syn47164089",
+      "n": 3,
+      "children": [
+        {
+          "id": "syn47213093",
+          "name": "Galaxy Workflow Inputs",
+          "type": "Folder"
+        },
+        {
+          "id": "syn47215187",
+          "name": "Galaxy-ME Datasets",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn47164090",
+          "name": "HTAN TNP SARDANA datasets",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn62274230",
+      "n": 3,
+      "children": [
+        {
+          "id": "syn78391354",
+          "name": "Normal_liver_477genes_Labels_confident_manually_adjusted_v4.tsv",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn78391409",
+          "name": "Normal_liver_5Kgenes_Labels_confident_manually_adjusted_v4.tsv",
+          "type": "FileEntity"
+        },
+        {
+          "id": "syn78391422",
+          "name": "mCRC_Labels_confident_manually_adjusted_v4.tsv",
+          "type": "FileEntity"
+        }
+      ]
+    },
+    {
+      "id": "syn25326126",
+      "n": 1,
+      "children": [
+        {
+          "id": "syn25326130",
+          "name": "Example files",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn21498902",
+      "n": 150,
+      "children": [
+        {
+          "id": "syn29895803",
+          "name": "44ARAC",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895804",
+          "name": "A Network of Conserved Synthetic Lethal Interactions for Exploration of Precision Cancer Therapy",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895806",
+          "name": "A census of pathway maps in cancer systems biology (LCpathways)",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895813",
+          "name": "A census of pathway maps in cancer systems biology (SBmaps)",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895815",
+          "name": "A global transcriptional network connecting noncoding mutations to changes in tumor gene expression",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn27210848",
+          "name": "All Data Files v2",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn68561794",
+          "name": "CCKP Toolkit Results",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn21645221",
+          "name": "CSBC and PSON Non-Grant Projects",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn64626421",
+          "name": "Cancer Complexity Toolkit",
+          "type": "Folder"
+        },
+        {
+          "id": "syn29895816",
+          "name": "Classifying tumors by supervised network propagation",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895817",
+          "name": "Colorectal Carcinoma Data",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895818",
+          "name": "Combinatorial CRISPR-Cas9 screens for de novo mapping of genetic interactions",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895820",
+          "name": "E-MTAB-8809",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895821",
+          "name": "E-MTAB-8841",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895822",
+          "name": "EGAD00001005507",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895823",
+          "name": "EGAD00001005782",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895824",
+          "name": "EGAD00010002198",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895826",
+          "name": "EGAD00010002199",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895827",
+          "name": "EGAD00010002200",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895828",
+          "name": "EGAD00010002201",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn33691763",
+          "name": "GH_issue_dataset_issue",
+          "type": "Folder"
+        },
+        {
+          "id": "syn29895829",
+          "name": "GSE102746",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895830",
+          "name": "GSE103224",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895832",
+          "name": "GSE103476",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895833",
+          "name": "GSE103672",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895835",
+          "name": "GSE106119",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895837",
+          "name": "GSE108787",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895838",
+          "name": "GSE109750",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895839",
+          "name": "GSE110061",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn29895840",
+          "name": "GSE111539",
+          "type": "Dataset"
+        }
+      ]
+    },
+    {
+      "id": "syn52433644",
+      "n": 30,
+      "children": [
+        {
+          "id": "syn60529387",
+          "name": "Configs",
+          "type": "Folder"
+        },
+        {
+          "id": "syn55291505",
+          "name": "GTEX v2.1 pen fileview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn55269730",
+          "name": "GTEx",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53075574",
+          "name": "GTEx source metadata",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn58598711",
+          "name": "GTex v2.1 fileview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn58598704",
+          "name": "GTex v2.1 folderview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn55295633",
+          "name": "GTex v2.1 pen folderview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn58598682",
+          "name": "HistoQC results - GTex v2.1",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn55351575",
+          "name": "HistoQC results - GTex v2.1 pen",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn58598689",
+          "name": "HistoQC results - TCGA v2.1",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn57381679",
+          "name": "HistoQC results - TCGA v2.1 pen",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn55288900",
+          "name": "TCGA",
+          "type": "Folder"
+        },
+        {
+          "id": "syn52743369",
+          "name": "TCGA BRCA Tissue Slides HistoQC Results Tidy",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn53075522",
+          "name": "TCGA source metadata",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn58598722",
+          "name": "TCGA v2.1 fileview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn58598728",
+          "name": "TCGA v2.1 folderview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn55294069",
+          "name": "TCGA v2.1 pen fileview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn57341129",
+          "name": "TCGA v2.1 pen folderview",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn52673927",
+          "name": "X TCGA BRCA Tissue Slides HistoQC Results",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn53903603",
+          "name": "results_files_internal",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53823294",
+          "name": "tcga v2.1 pen grouped",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn53971302",
+          "name": "tcga v2.1 pen grouped files",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn52816587",
+          "name": "tcga-brca-diagnostic-config-first",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn52816664",
+          "name": "tcga-brca-tissue-config-first",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn53645102",
+          "name": "tcga_all_v2.1_pen",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53786146",
+          "name": "tcga_all_v2.1_pen_grouped",
+          "type": "Folder"
+        },
+        {
+          "id": "syn58580594",
+          "name": "test",
+          "type": "Folder"
+        },
+        {
+          "id": "syn52731434",
+          "name": "test dataset",
+          "type": "Dataset"
+        },
+        {
+          "id": "syn52677806",
+          "name": "testing_tcga_brca",
+          "type": "Folder"
+        },
+        {
+          "id": "syn55240106",
+          "name": "upload_tests",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn53213247",
+      "n": 8,
+      "children": [
+        {
+          "id": "syn53213248",
+          "name": "Analysis",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53213267",
+          "name": "Data Sharing Plan",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53213249",
+          "name": "Milestone Reports",
+          "type": "Folder"
+        },
+        {
+          "id": "syn72377446",
+          "name": "Project Files and Metadata",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn53213250",
+          "name": "Raw Data",
+          "type": "Folder"
+        },
+        {
+          "id": "syn73907552",
+          "name": "View for CHOP Cohort (syn66498803)",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn73907553",
+          "name": "View for NFCTC PN and CHOP PN Cohort (syn66498804)",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn73907551",
+          "name": "View for NFCTC registry cohort -PN (syn53213251)",
+          "type": "EntityView"
+        }
+      ]
+    },
+    {
+      "id": "syn36385200",
+      "n": 0,
+      "children": []
+    },
+    {
+      "id": "syn7080714",
+      "n": 23,
+      "children": [
+        {
+          "id": "syn23685526",
+          "name": "2020 PS-ON Annual Meeting Recordings",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn26721143",
+          "name": "Annual Investigator Meetings",
+          "type": "Folder"
+        },
+        {
+          "id": "syn18474062",
+          "name": "CSBC PSON Cancer Metabolism WG",
+          "type": "Folder"
+        },
+        {
+          "id": "syn24611277",
+          "name": "Cell Tissue and Mechanics SIG",
+          "type": "Folder"
+        },
+        {
+          "id": "syn17012916",
+          "name": "Education and Outreach SOPs",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn51511617",
+          "name": "Image Analysis Special Interest Group",
+          "type": "Folder"
+        },
+        {
+          "id": "syn7081082",
+          "name": "Logos",
+          "type": "Folder"
+        },
+        {
+          "id": "syn52382189",
+          "name": "MC2 Center Webinars",
+          "type": "Folder"
+        },
+        {
+          "id": "syn26721145",
+          "name": "NCI Summer Undergraduate Research Program",
+          "type": "Folder"
+        },
+        {
+          "id": "syn28249109",
+          "name": "Navigating Cancer with Science and Art WG",
+          "type": "Folder"
+        },
+        {
+          "id": "syn49683546",
+          "name": "Newsletters",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn10908340",
+          "name": "PSON Technique Catalogs",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn7511924",
+          "name": "Patient Advocacy Files",
+          "type": "Folder"
+        },
+        {
+          "id": "syn61872349",
+          "name": "Steering Committee Tables",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn26721144",
+          "name": "Steering Committees",
+          "type": "Folder"
+        },
+        {
+          "id": "syn26721170",
+          "name": "Tools and Resources",
+          "type": "Folder"
+        },
+        {
+          "id": "syn51511240",
+          "name": "Working Group Meeting Material View",
+          "type": "EntityView"
+        },
+        {
+          "id": "syn46958087",
+          "name": "Working Groups",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn64587065",
+          "name": "grants",
+          "type": "Folder"
+        },
+        {
+          "id": "syn32698149",
+          "name": "projects",
+          "type": "Folder"
+        },
+        {
+          "id": "syn21967008",
+          "name": "xARCHIVE_gses.tsv",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn21967012",
+          "name": "xARCHIVE_gses5.tsv",
+          "type": "TableEntity"
+        },
+        {
+          "id": "syn26721165",
+          "name": "zz_Archive",
+          "type": "Folder"
+        }
+      ]
+    },
+    {
+      "id": "syn51068458",
+      "n": 6,
+      "children": [
+        {
+          "id": "syn53608746",
+          "name": "Adaptive_TCR_Seq",
+          "type": "Folder"
+        },
+        {
+          "id": "syn53977850",
+          "name": "RNA",
+          "type": "Folder"
+        },
+        {
+          "id": "syn51068472",
+          "name": "RegisteredImages",
+          "type": "Folder"
+        },
+        {
+          "id": "syn51074146",
+          "name": "SegmentationMasks",
+          "type": "Folder"
+        },
+        {
+          "id": "syn51068471",
+          "name": "data",
+          "type": "Folder"
+        },
+        {
+          "id": "syn51078766",
+          "name": "mIHC_Data",
+          "type": "Folder"
+        }
+      ]
+    }
+  ],
+  "sql": {
+    "attempts": [
+      {
+        "url": "entity/syn21521166/table/query/async/start",
+        "http": 201,
+        "keys": [
+          "token"
+        ],
+        "token": true,
+        "detail": ""
+      },
+      {
+        "get": 202,
+        "keys": [
+          "jobState",
+          "jobCanceling",
+          "requestBody",
+          "etag",
+          "jobId",
+          "startedByUserId",
+          "startedOn",
+          "changedOn",
+          "progressMessage",
+          "progressCurrent",
+          "progressTotal",
+          "runtimeMS"
+        ]
+      }
+    ],
+    "result_keys": [
+      "jobState",
+      "jobCanceling",
+      "requestBody",
+      "etag",
+      "jobId",
+      "startedByUserId",
+      "startedOn",
+      "changedOn",
+      "progressMessage",
+      "progressCurrent",
+      "progressTotal",
+      "runtimeMS"
+    ]
+  },
+  "datasets_kept": [
+    {
+      "id": "syn64679963",
+      "name": "Brain multiomic profiling identifies tau-related transcriptomic dysregulation in AD",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072187",
+      "name": "Benchmarking cell-type deconvolution methods on human brain transcriptome",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn50880811",
+      "name": "Map of full-length isoforms in the human brain",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn75280064",
+      "name": "Plasma Proteomic Networks Reveal Shared Biology with Brain Linked to Alzheimer's Disease Pathology",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn76487139",
+      "name": "The Dissection of Bipolar Disorder Pathophysiology Through Integration of Human Brain Multi-Omics (BD2_MSSM) Study",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn74546188",
+      "name": "Humanized Klotho haplotypes cause widespread transcriptomic changes in mouse brain",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn69692429",
+      "name": "Characterizing Post-Mortem Brain Molecular Taxonomy of Cognitive Resilience and Translating it to Living Humans",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn32136022",
+      "name": "Genetic regulation of human brain proteome reveals proteins implicated in psychiatric disorders",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn35564295",
+      "name": "Genome wide association study of brain biochemical phenotypes reveals distinct genetic architecture of Alzheimers Disease related proteins",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072166",
+      "name": "Genetic regulation of cell type specific chromatin accessibility shapes etiology of brain diseases",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072170",
+      "name": "Systems Biology Dissection of PTSD and MDD across brain regions, cell-types and blood",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn50619084",
+      "name": "Integrative analysis of gene regulation and cross-individual variation in the adult human brain at single-cell resolution",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn50897018",
+      "name": "Cross-population, cell-type informed atlas of gene, isoform, and splicing regulation in the developing human brain",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51032039",
+      "name": "Genetic and methylome-based interrogation of the cellular vulnerability to ASD, schizophrenia, and Alzheimers disease in the human brain",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51622714",
+      "name": "Charney et al 2023 - Living Brain Project",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn74320535",
+      "name": "Spatial transcriptomics - Nf1+- mouse brain raw FASTQ reads (ENA PRJNA1096676)",
+      "parentId": "syn74319981",
+      "concreteType": "Dataset",
+      "description": "Raw FASTQ files (8 runs across 4 samples) from spatial transcriptomics (10x Genomics Visium) of Nf1+/- mouse brain frontal motor cortex sections. Deposited in SRA/ENA under BioProject PRJNA1096676. Part of: Nf1 mutation disrupts activity-dependent oligodendroglial plasticity and "
+    },
+    {
+      "id": "syn74320534",
+      "name": "Spatial transcriptomics - Nf1+- mouse brain frontal motor cortex (GEO GSE263303)",
+      "parentId": "syn74319981",
+      "concreteType": "Dataset",
+      "description": "Spatial transcriptomics (10x Genomics Visium) data from 4 Nf1+/- mouse brain frontal motor cortex sections (24 weeks old). Processed count matrices and spatial coordinates deposited in GEO under accession GSE263303. Part of: Nf1 mutation disrupts activity-dependent oligodendrogli"
+    },
+    {
+      "id": "syn64679864",
+      "name": "Integrative Epigenomic Landscape of Alzheimers Disease Brains Reveals Oligodendrocyte Molecular Perturbations Associated with Tau",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn31527577",
+      "name": "Single Nuclei Transcriptome Reveals Perturbed Brain Vascular Molecules in Alzheimer's Disease",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51942384",
+      "name": "Extensive profiling of transcription factors in postmortem brains defines genomic occupancy in disease-relevant cell types and links TF activities to neuropsychiatric disorders",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn52524060",
+      "name": "The neuronal chromatin landscape in adult schizophrenia brains is linked to early fetal development",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072181",
+      "name": "The burden of transcriptome dysfunction in brains differs between males and females in schizophrenia, autism spectrum disorder, and bipolar disorder",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn67719824",
+      "name": "Neurovascular dysfunction in GRN-associated frontotemporal dementia identified by single-nucleus RNA-sequencing of human cerebral cortex",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling brain tissue samples from frontal cortex, occipital cortex, and temporal lobe cortex collected from Control and FTD cases."
+    },
+    {
+      "id": "syn55253817",
+      "name": "Network dependent variability in functional connectivity alterations after mild traumatic brain injury and repetitive head impacts a systematic review Full Search Files",
+      "parentId": "syn55253775",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn67733559",
+      "name": "Truncated stathmin-2 is a marker of TDP-43 pathology in frontotemporal dementia",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling post-mortem spinal cord tissue and brain tissue samples from lumbar spine, cervical spine, cerebellum, lateral motor cortex, frontal cortex, motor cortex, medial motor cortex, sensory cortex, occipital cortex, thoracic spine, temp"
+    },
+    {
+      "id": "syn63100169",
+      "name": "CA263001-pcmr-2024-h_e_mouse_graft_brain",
+      "parentId": "syn43447081",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn67719824",
+      "name": "Neurovascular dysfunction in GRN-associated frontotemporal dementia identified by single-nucleus RNA-sequencing of human cerebral cortex",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling brain tissue samples from frontal cortex, occipital cortex, and temporal lobe cortex collected from Control and FTD cases."
+    },
+    {
+      "id": "syn67733559",
+      "name": "Truncated stathmin-2 is a marker of TDP-43 pathology in frontotemporal dementia",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling post-mortem spinal cord tissue and brain tissue samples from lumbar spine, cervical spine, cerebellum, lateral motor cortex, frontal cortex, motor cortex, medial motor cortex, sensory cortex, occipital cortex, thoracic spine, temp"
+    },
+    {
+      "id": "syn74546188",
+      "name": "Humanized Klotho haplotypes cause widespread transcriptomic changes in mouse brain",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn52524060",
+      "name": "The neuronal chromatin landscape in adult schizophrenia brains is linked to early fetal development",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn67729513",
+      "name": "Unexpected similarities between C9ORF72 and sporadic forms of ALS-FTD suggest a common disease mechanism",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling brain tissue samples from cerebellum collected from ALS, FTD, Control, Pre-fALS, Parkinson's Disease (PD), and Alzheimer's Disease (AD) cases."
+    },
+    {
+      "id": "syn67737779",
+      "name": "Postmortem Cortex Samples Identify Distinct Molecular Subtypes of ALS - Retrotransposon Activation, Oxidative Stress, and Activated Glia",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling brain tissue samples from frontal cortex, medial motor cortex, lateral motor cortex, and motor cortex collected from ALS, FTD, Control, Pre-fALS, Alzheimer's Disease, Other Neurological Disorders, and Other Motor Neuron Disease ca"
+    },
+    {
+      "id": "syn69692429",
+      "name": "Characterizing Post-Mortem Brain Molecular Taxonomy of Cognitive Resilience and Translating it to Living Humans",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn50619084",
+      "name": "Integrative analysis of gene regulation and cross-individual variation in the adult human brain at single-cell resolution",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn67719824",
+      "name": "Neurovascular dysfunction in GRN-associated frontotemporal dementia identified by single-nucleus RNA-sequencing of human cerebral cortex",
+      "parentId": "syn64892175",
+      "concreteType": "Dataset",
+      "description": "Gene Expression Omnibus RNA-seq dataset profiling brain tissue samples from frontal cortex, occipital cortex, and temporal lobe cortex collected from Control and FTD cases."
+    },
+    {
+      "id": "syn51072187",
+      "name": "Benchmarking cell-type deconvolution methods on human brain transcriptome",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072166",
+      "name": "Genetic regulation of cell type specific chromatin accessibility shapes etiology of brain diseases",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn51072170",
+      "name": "Systems Biology Dissection of PTSD and MDD across brain regions, cell-types and blood",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn63100169",
+      "name": "CA263001-pcmr-2024-h_e_mouse_graft_brain",
+      "parentId": "syn43447081",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn50897018",
+      "name": "Cross-population, cell-type informed atlas of gene, isoform, and splicing regulation in the developing human brain",
+      "parentId": "syn4921369",
+      "concreteType": "Dataset",
+      "description": ""
+    },
+    {
+      "id": "syn31527577",
+      "name": "Single Nuclei Transcriptome Reveals Perturbed Brain Vascular Molecules in Alzheimer's Disease",
+      "parentId": "syn2580853",
+      "concreteType": "Dataset",
+      "description": ""
+    }
+  ],
+  "hartwig_files": [
+    {
+      "file": "RNA-seq_of_5_patients.xls",
+      "parent": "RNA-Seq unaligned bams",
+      "parentId": "syn12851064"
+    },
+    {
+      "file": "RNA-merged_allow_ctmat.mtx",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-Seq_Chr8q_median.csv",
+      "parent": "RNA-Seq",
+      "parentId": "syn72399191"
+    },
+    {
+      "file": "RNA-merged_allow_celltags.txt",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-merged_met_ctmat.mtx",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-merged_union_clones.txt",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-SeQC_metrics.csv",
+      "parent": "RNA - Seq data",
+      "parentId": "syn9908105"
+    },
+    {
+      "file": "RNA-Seq_Data_LD_MEM.xlsx",
+      "parent": "Transcriptomic Profiling Reveals Lasting Effects of Late Gestation Maternal Energy Restriction on Lipid and Mitochondrial Oxidative Metabolism in Longissimus dorsi of Bovine Heifers",
+      "parentId": "syn74753659"
+    },
+    {
+      "file": "RNA-merged_all_celltag_reads.csv",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-merged_allow_cells.txt",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-merged_union_mat.mtx",
+      "parent": "RNA-merged",
+      "parentId": "syn62523638"
+    },
+    {
+      "file": "RNA-seq_exome_method.pdf",
+      "parent": "Research Papers",
+      "parentId": "syn8463087"
+    }
+  ]
+}

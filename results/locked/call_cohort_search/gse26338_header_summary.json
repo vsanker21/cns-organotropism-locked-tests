@@ -1,0 +1,927 @@
+{
+  "GPL1197": {
+    "n_samples": 3,
+    "characteristic_counts": [],
+    "n_characteristic_values_containing_brain": 0
+  },
+  "GPL1390": {
+    "n_samples": 242,
+    "characteristic_counts": [
+      [
+        "",
+        613
+      ],
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        197
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        131
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        120
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        119
+      ],
+      [
+        "grade: 3",
+        90
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 0",
+        88
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        81
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        77
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        76
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 0",
+        69
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumA",
+        68
+      ],
+      [
+        "er  (1=positive; 0=negative): 0",
+        60
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 1",
+        57
+      ],
+      [
+        "grade: 2",
+        56
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 1",
+        39
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 1",
+        39
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 1",
+        38
+      ],
+      [
+        "pgr  (1=positive; 0=negative): --",
+        37
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): --",
+        36
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): --",
+        36
+      ],
+      [
+        "overall suvival months: --",
+        36
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumB",
+        36
+      ],
+      [
+        "rfs months: --",
+        35
+      ],
+      [
+        "grade: --",
+        34
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): --",
+        33
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): --",
+        32
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Basal",
+        31
+      ],
+      [
+        "age: --",
+        28
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): --",
+        28
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        28
+      ],
+      [
+        "er  (1=positive; 0=negative): --",
+        26
+      ],
+      [
+        "er (1=positive; 0=negative): 1",
+        26
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 1",
+        26
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Her2",
+        22
+      ],
+      [
+        "pgr (1=positive; 0=negative): 1",
+        20
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Claudin",
+        19
+      ],
+      [
+        "Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        18
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Normal",
+        17
+      ],
+      [
+        "grade: 1",
+        14
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 2
+  },
+  "GPL1708": {
+    "n_samples": 7,
+    "characteristic_counts": [
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        7
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        6
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        6
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        6
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        5
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 1",
+        4
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 0",
+        4
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        4
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 0",
+        3
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        3
+      ],
+      [
+        "age: 54",
+        2
+      ],
+      [
+        "er  (1=positive; 0=negative): 0",
+        2
+      ],
+      [
+        "grade: 1",
+        2
+      ],
+      [
+        "grade: --",
+        2
+      ],
+      [
+        "grade: 3",
+        2
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        2
+      ],
+      [
+        "rfs months: 21",
+        2
+      ],
+      [
+        "overall suvival months: 21",
+        2
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumA",
+        2
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumB",
+        2
+      ],
+      [
+        "age: 69",
+        1
+      ],
+      [
+        "age: 44",
+        1
+      ],
+      [
+        "age: 58",
+        1
+      ],
+      [
+        "age: 82",
+        1
+      ],
+      [
+        "age: 53",
+        1
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 1",
+        1
+      ],
+      [
+        "grade: 2",
+        1
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 1",
+        1
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 1",
+        1
+      ],
+      [
+        "rfs months: 14",
+        1
+      ],
+      [
+        "rfs months: 25",
+        1
+      ],
+      [
+        "rfs months: 30",
+        1
+      ],
+      [
+        "rfs months: 31",
+        1
+      ],
+      [
+        "rfs months: 32",
+        1
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 1",
+        1
+      ],
+      [
+        "overall suvival months: 14",
+        1
+      ],
+      [
+        "overall suvival months: 25",
+        1
+      ],
+      [
+        "overall suvival months: 30",
+        1
+      ],
+      [
+        "overall suvival months: 31",
+        1
+      ],
+      [
+        "overall suvival months: 32",
+        1
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 0
+  },
+  "GPL5325": {
+    "n_samples": 40,
+    "characteristic_counts": [
+      [
+        "",
+        286
+      ],
+      [
+        "reference: Human Reference B",
+        22
+      ],
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        18
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        15
+      ],
+      [
+        "er  (1=positive; 0=negative): 0",
+        12
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 0",
+        12
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 0",
+        12
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        10
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        10
+      ],
+      [
+        "tumor: brain metastasis",
+        9
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        9
+      ],
+      [
+        "grade: 3",
+        8
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 1",
+        7
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Claudin",
+        7
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 1",
+        6
+      ],
+      [
+        "tumor: liver metastasis",
+        5
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        4
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 1",
+        4
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Basal",
+        4
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        3
+      ],
+      [
+        "grade: --",
+        3
+      ],
+      [
+        "grade: 2",
+        3
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 4",
+        3
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumB",
+        3
+      ],
+      [
+        "tumor: lung metastasis",
+        2
+      ],
+      [
+        "grade: 1",
+        2
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        2
+      ],
+      [
+        "rfs months: 9",
+        2
+      ],
+      [
+        "overall suvival months: 9",
+        2
+      ],
+      [
+        "age: 72",
+        1
+      ],
+      [
+        "age: 28",
+        1
+      ],
+      [
+        "age: 54",
+        1
+      ],
+      [
+        "age: 31",
+        1
+      ],
+      [
+        "age: 40",
+        1
+      ],
+      [
+        "age: 42",
+        1
+      ],
+      [
+        "age: 61",
+        1
+      ],
+      [
+        "age: 53",
+        1
+      ],
+      [
+        "age: 50",
+        1
+      ],
+      [
+        "age: 44",
+        1
+      ],
+      [
+        "age: 49",
+        1
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 9
+  },
+  "GPL6607": {
+    "n_samples": 2,
+    "characteristic_counts": [
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        2
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        2
+      ],
+      [
+        "pgr  (1=positive; 0=negative): --",
+        2
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        2
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        2
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        2
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumA",
+        2
+      ],
+      [
+        "age: 43",
+        1
+      ],
+      [
+        "age: 47",
+        1
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        1
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): --",
+        1
+      ],
+      [
+        "grade: --",
+        1
+      ],
+      [
+        "grade: 2",
+        1
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        1
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        1
+      ],
+      [
+        "rfs months: 92",
+        1
+      ],
+      [
+        "rfs months: 97",
+        1
+      ],
+      [
+        "overall suvival months: 92",
+        1
+      ],
+      [
+        "overall suvival months: 97",
+        1
+      ],
+      [
+        "dscores unc337: 0.161353541",
+        1
+      ],
+      [
+        "dscores unc337: 0.067498888",
+        1
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 0
+  },
+  "GPL885": {
+    "n_samples": 20,
+    "characteristic_counts": [
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        19
+      ],
+      [
+        "",
+        14
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        13
+      ],
+      [
+        "er  (1=positive; 0=negative): 0",
+        10
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 0",
+        10
+      ],
+      [
+        "pgr  (1=positive; 0=negative): --",
+        9
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 1",
+        9
+      ],
+      [
+        "grade: 3",
+        8
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 1",
+        8
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): --",
+        7
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Basal",
+        7
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        6
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 0",
+        6
+      ],
+      [
+        "grade: --",
+        6
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): --",
+        6
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): --",
+        6
+      ],
+      [
+        "rfs months: --",
+        6
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): --",
+        6
+      ],
+      [
+        "overall suvival months: --",
+        6
+      ],
+      [
+        "age: --",
+        5
+      ],
+      [
+        "er  (1=positive; 0=negative): --",
+        5
+      ],
+      [
+        "grade: 2",
+        5
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        5
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        5
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        4
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 1",
+        4
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        4
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 1",
+        3
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 4",
+        3
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Her2",
+        3
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumB",
+        3
+      ],
+      [
+        "age: 51",
+        2
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): --",
+        2
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        2
+      ],
+      [
+        "rfs months: 8",
+        2
+      ],
+      [
+        "rfs months: 1",
+        2
+      ],
+      [
+        "overall suvival months: 12",
+        2
+      ],
+      [
+        "overall suvival months: 51",
+        2
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumA",
+        2
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Normal",
+        2
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 0
+  },
+  "GPL887": {
+    "n_samples": 100,
+    "characteristic_counts": [
+      [
+        "",
+        236
+      ],
+      [
+        "reference: Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs",
+        82
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 0",
+        46
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 1",
+        38
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 0",
+        36
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): --",
+        33
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 0",
+        33
+      ],
+      [
+        "rfs months: --",
+        33
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): --",
+        33
+      ],
+      [
+        "overall suvival months: --",
+        33
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 0",
+        32
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 2",
+        32
+      ],
+      [
+        "grade: 3",
+        31
+      ],
+      [
+        "grade: --",
+        30
+      ],
+      [
+        "er  (1=positive; 0=negative): 1",
+        29
+      ],
+      [
+        "pgr  (1=positive; 0=negative): --",
+        29
+      ],
+      [
+        "er  (1=positive; 0=negative): --",
+        28
+      ],
+      [
+        "er  (1=positive; 0=negative): 0",
+        25
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): --",
+        24
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Basal",
+        24
+      ],
+      [
+        "age: --",
+        23
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): 0",
+        23
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): --",
+        22
+      ],
+      [
+        "pgr  (1=positive; 0=negative): 1",
+        21
+      ],
+      [
+        "node status (1=positive=1 or more nodes+; 0=negative): --",
+        21
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumA",
+        21
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 1",
+        16
+      ],
+      [
+        "rfs event (0=no relapse, 1=relapsed at any site or died of disease): 1",
+        16
+      ],
+      [
+        "grade: 2",
+        15
+      ],
+      [
+        "overall survival event (0=alive, 1=dod or doc): 1",
+        13
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): LumB",
+        13
+      ],
+      [
+        "her2 clinical status ihc/fish (1=positive; 0=negative): 1",
+        12
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Her2",
+        12
+      ],
+      [
+        "reference: Human Reference B",
+        8
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 3",
+        7
+      ],
+      [
+        "grade: 1",
+        6
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Normal",
+        6
+      ],
+      [
+        "pam50 predictions plus claudin-low classification (cell line predictor): Claudin",
+        6
+      ],
+      [
+        "size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin): 4",
+        5
+      ],
+      [
+        "rfs months: 9",
+        5
+      ]
+    ],
+    "n_characteristic_values_containing_brain": 0
+  }
+}

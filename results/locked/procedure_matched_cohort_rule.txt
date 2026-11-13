@@ -1,0 +1,25 @@
+Procedure-matched macrophage site test. Written from sample metadata and published collection methods. No count matrix was opened. The 216 ambient-corrected genes remain retired and were not scored.
+
+Rule. A cohort qualifies only if metadata show two metastatic sites, both collected by the same procedure, with at least two samples on each side, in a public single-cell dataset other than GSE131907 and GSE123902. One side is brain, or lymph node if the question is the node. Primary tumors do not count as a side. A brain-only series does not qualify. Microglia have to be separable from macrophages. An external macrophage gene set, or a named discovery cohort and a named confirmation cohort, would be frozen in this file before any expression was read.
+
+Result. No series meets the rule. No gene set is frozen. No confirmation cohort is named. The macrophage site claim stops.
+
+Metadata search, 12 November 2026. GEO DataSets queries for brain metastasis with single-cell or extracranial metastasis, plus the series pages and sample records for every human series that contained two candidate sites. Collection procedure was taken from the sample record or from the paper's methods when the sample record did not state it. Expression files were not downloaded.
+
+Excluded by the rule before this search
+- GSE131907. Brain samples are neurosurgical resections and lymph-node samples are bronchoscopic. Site and procedure are the same variable.
+- GSE123902. Five surgical solid metastases, three brain, one bone, one adrenal. This series was the confirmation cohort for the retired genes and is closed.
+
+Examined and rejected
+- GSE200218, inside super-series GSE185386. Twenty-two melanoma brain metastases and ten extracranial metastases. GEO source names: brain metastasis for the brain samples; subcutaneous metastasis for nine extracranial samples; axillary lymph node for one extracranial sample. The Cell methods state that brain metastases were collected during surgery and extracranial metastases were collected as biopsies. The single axillary lymph node is one sample. Five brain samples are single-cell and the extracranial samples are single-nucleus. Fails the same-procedure rule.
+- GSE174401. GEO sites: cerebrospinal fluid, brain metastasis, and cutaneous. The Clinical Cancer Research methods state eight punch biopsies of skin metastases, fourteen surgical resections of brain metastases, and serial cerebrospinal fluid. Punch biopsy, craniotomy, and lumbar puncture are different procedures.
+- GSE223499, inside GSE223503. Twelve primary non-small-cell lung cancers and thirty-one brain metastases. A primary tumor is not a metastatic site.
+- GSE186344. Fifteen human parenchymal brain metastases. No second metastatic site.
+- GSE234832. Five surgically resected brain metastases, breast and lung. No second metastatic site.
+- GSE202371. Glioma and lung-to-brain metastases. No extracranial metastasis.
+- GSE325196. Twenty-three single-nucleus brain-metastasis specimens. No second metastatic site.
+- GSE276139. Cerebrospinal fluid only.
+- GSE287352. Primary neuroblastoma. The word extracranial names the tumor class, not a metastatic site.
+- Xing and colleagues, Cancer Cell 2025, HRA006468 and OMIX007088. Controlled access, and a brain-metastasis atlas rather than two procedures matched across sites.
+
+No expression was read from any of these series for this decision.

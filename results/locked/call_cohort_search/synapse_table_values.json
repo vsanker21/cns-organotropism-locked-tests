@@ -1,0 +1,407 @@
+{
+  "queries": [
+    {
+      "sql": "SELECT Tissue FROM syn11343442 LIMIT 300",
+      "jobState": null,
+      "http": 403,
+      "headers": [],
+      "n": 0,
+      "rows": [],
+      "keys": [
+        "detail"
+      ],
+      "detail": ""
+    },
+    {
+      "sql": "SELECT organ, tissue, tumorType, assay, diagnosis FROM syn74376684 LIMIT 80",
+      "jobState": null,
+      "http": 403,
+      "headers": [],
+      "n": 0,
+      "rows": [],
+      "keys": [
+        "detail"
+      ],
+      "detail": ""
+    },
+    {
+      "sql": "SELECT name, organ, tissue, assay, dataType FROM syn17024112 LIMIT 25",
+      "jobState": null,
+      "http": 201,
+      "headers": [
+        "name",
+        "organ",
+        "tissue",
+        "assay",
+        "dataType"
+      ],
+      "n": 25,
+      "rows": [
+        [
+          "chr1.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr2.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr4.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr8.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr9.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr6.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr5.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr3.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr7.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr14.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr10.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr15.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr12.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr16.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr13.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr21.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr17.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr11.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr22.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr18.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr19.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "chr20.chop.dosage.gz",
+          "",
+          "",
+          "snpArray",
+          "analysis"
+        ],
+        [
+          "ROSMAP_arrayMethylation_imputed.tsv.gz",
+          "brain",
+          "dorsolateral prefrontal cortex",
+          "methylationArray",
+          "analysis"
+        ],
+        [
+          "ROSMAP_arrayMethylation_metaData.tsv",
+          "brain",
+          "dorsolateral prefrontal cortex",
+          "methylationArray",
+          "chromatinActivity"
+        ],
+        [
+          "AMP-AD_HBTRC_MSSM_Agilent44Karray_PFC_AgeCorrected_all",
+          "brain",
+          "dorsolateral prefrontal cortex",
+          "rnaArray",
+          "geneExpression"
+        ]
+      ],
+      "keys": [
+        "concreteType",
+        "queryResult"
+      ],
+      "detail": ""
+    },
+    {
+      "sql": "SELECT binnedBiopsySite, binnedTumorLocation FROM syn26958220 LIMIT 80",
+      "jobState": null,
+      "http": 403,
+      "headers": [],
+      "n": 0,
+      "rows": [],
+      "keys": [
+        "detail"
+      ],
+      "detail": ""
+    },
+    {
+      "sql": "SELECT * FROM syn11469639 LIMIT 8",
+      "jobState": null,
+      "http": 201,
+      "headers": [
+        "id",
+        "name",
+        "createdOn",
+        "createdBy",
+        "type",
+        "currentVersion",
+        "parentId",
+        "benefactorId",
+        "projectId",
+        "modifiedOn",
+        "modifiedBy",
+        "dataFileHandleId"
+      ],
+      "n": 6,
+      "rows": [
+        [
+          "syn11521945",
+          "2017-11-29 11.04 Sage meeting.mp4",
+          "1511995382358",
+          "1418096",
+          "file",
+          "1",
+          "syn11521944",
+          "syn11521944",
+          "syn7433743",
+          "1511995382358",
+          "1418096",
+          "19784277"
+        ],
+        [
+          "syn11527571",
+          "IACM Progress report v6.docx",
+          "1512051039579",
+          "3353730",
+          "file",
+          "1",
+          "syn11527550",
+          "syn11520690",
+          "syn7433743",
+          "1512051039579",
+          "3353730",
+          "19796777"
+        ],
+        [
+          "syn11527589",
+          "IACM progress report v4.pptx",
+          "1512051158085",
+          "3353730",
+          "file",
+          "1",
+          "syn11527550",
+          "syn11520690",
+          "syn7433743",
+          "1512051158085",
+          "3353730",
+          "19796796"
+        ],
+        [
+          "syn12061646",
+          "2018-04-02 14.07 IACM check-in.mp4",
+          "1522708525592",
+          "1418096",
+          "file",
+          "1",
+          "syn11527792",
+          "syn11527792",
+          "syn7433743",
+          "1522708525592",
+          "1418096",
+          "26133312"
+        ],
+        [
+          "syn12085759",
+          "2018-04-03 14.58 IACM check-in.mp4",
+          "1522965595675",
+          "1418096",
+          "file",
+          "1",
+          "syn12085732",
+          "syn11435918",
+          "syn7433743",
+          "1522965595675",
+          "1418096",
+          "26216633"
+        ],
+        [
+          "syn12129819",
+          "2018-04-13 12.07 Justin.Guinney_ IACM Check-in.mp4",
+          "1523649929917",
+          "1418096",
+          "file",
+          "1",
+          "syn11521944",
+          "syn11521944",
+          "syn7433743",
+          "1523649929917",
+          "1418096",
+          "26402913"
+        ]
+      ],
+      "keys": [
+        "concreteType",
+        "queryResult"
+      ],
+      "detail": ""
+    }
+  ],
+  "folders": {
+    "syn11520562": [],
+    "syn22149238": [
+      "syn26474884 Per_individual",
+      "syn22149592 TCGA_ACC.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149594 TCGA_ACC.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149595 TCGA_ACC.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149596 TCGA_ACC.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149597 TCGA_BLCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149598 TCGA_BLCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149599 TCGA_BLCA.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149600 TCGA_BLCA.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149601 TCGA_BRCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149602 TCGA_BRCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149604 TCGA_BRCA.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149605 TCGA_CESC.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149606 TCGA_CESC.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149607 TCGA_CESC.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149608 TCGA_CESC.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149609 TCGA_CHOL.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149610 TCGA_CHOL.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149611 TCGA_CHOL.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149612 TCGA_CHOL.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149613 TCGA_COAD.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149614 TCGA_COAD.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149615 TCGA_COAD.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149616 TCGA_COAD.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149617 TCGA_DLBC.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149618 TCGA_DLBC.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149619 TCGA_DLBC.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149620 TCGA_DLBC.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149621 TCGA_ESCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149622 TCGA_ESCA.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149623 TCGA_ESCA.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149624 TCGA_ESCA.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149625 TCGA_GBM.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149626 TCGA_GBM.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149627 TCGA_GBM.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149628 TCGA_GBM.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149629 TCGA_HNSC.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149630 TCGA_HNSC.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149631 TCGA_HNSC.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149632 TCGA_HNSC.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149633 TCGA_KICH.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149635 TCGA_KICH.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149636 TCGA_KICH.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149637 TCGA_KICH.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149638 TCGA_KIRC.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149639 TCGA_KIRC.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt",
+      "syn22149640 TCGA_KIRC.mutect.input.bed.h19.bed.vep.annotated.ssb7.A0201.SSB_dNdS.txt",
+      "syn22149641 TCGA_KIRC.mutect.input.bed.h19.bed.vep.annotated.ssb7.protoHLA.SSB_dNdS.txt",
+      "syn22149642 TCGA_KIRP.mutect.input.bed.h19.bed.vep.annotated.ssb192.A0201.SSB_dNdS.txt",
+      "syn22149643 TCGA_KIRP.mutect.input.bed.h19.bed.vep.annotated.ssb192.protoHLA.SSB_dNdS.txt"
+    ],
+    "syn22150271": [
+      "syn26164848 Data.zip",
+      "syn35789214 Updated_Data_04Sept2022_ManuscriptNG.zip",
+      "syn30548686 Updated_Data_16May2022_ManuscriptNG.zip",
+      "syn26477170 Updated_Data_ManuscriptNG.zip"
+    ]
+  }
+}

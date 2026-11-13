@@ -1,0 +1,499 @@
+{
+  "syn34512705": {
+    "entity": {
+      "id": "syn34512705",
+      "name": "Dissecting the Human Leptomeninges at single-cell resolution",
+      "description": "",
+      "keys": [
+        "concreteType",
+        "createdBy",
+        "createdOn",
+        "etag",
+        "id",
+        "modifiedBy",
+        "modifiedOn",
+        "name",
+        "parentId"
+      ]
+    },
+    "children": [
+      {
+        "id": "syn35532221",
+        "name": "Ex vivo bulk seq",
+        "type": "org.sagebionetworks.repo.model.table.Dataset"
+      },
+      {
+        "id": "syn35343209",
+        "name": "In vitro fibroblast-like cell lines",
+        "type": "org.sagebionetworks.repo.model.table.Dataset"
+      },
+      {
+        "id": "syn49171320",
+        "name": "Single nuclei RNAseq",
+        "type": "org.sagebionetworks.repo.model.table.Dataset"
+      }
+    ]
+  },
+  "syn22364283": {
+    "entity": {
+      "id": "syn22364283",
+      "name": "Metastatic Breast Cancer Targeted NGS",
+      "description": "",
+      "keys": [
+        "concreteType",
+        "createdBy",
+        "createdOn",
+        "etag",
+        "id",
+        "modifiedBy",
+        "modifiedOn",
+        "name",
+        "parentId"
+      ]
+    },
+    "children": [
+      {
+        "id": "syn22364365",
+        "name": "K1-2_S2.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364367",
+        "name": "K1-3_S3.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364376",
+        "name": "K18-2_S10.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364377",
+        "name": "K18-3_S11.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364369",
+        "name": "K2-3_S6.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364378",
+        "name": "K20-2_S2.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364380",
+        "name": "K20-3_S3.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364381",
+        "name": "K21-2_S5.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364383",
+        "name": "K21-3_S6.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364384",
+        "name": "K21-4_S7.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364386",
+        "name": "K22-2_S9.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364389",
+        "name": "K22-3re_S4.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364390",
+        "name": "K23-2_S2.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364391",
+        "name": "K23-3_S3.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364393",
+        "name": "K25-2_S5.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364394",
+        "name": "K25-3_S6.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364395",
+        "name": "K27-2_S8.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364396",
+        "name": "K27-3_S9.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364344",
+        "name": "K28-2_S11.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364346",
+        "name": "K28-3_S12.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364348",
+        "name": "K30-2_S2.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364350",
+        "name": "K30-3_S3.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364352",
+        "name": "K30-4_S4.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364354",
+        "name": "K31-2_S6.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364356",
+        "name": "K31-3_S7.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364359",
+        "name": "K31-4_S8.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364363",
+        "name": "K32-2_S10.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364364",
+        "name": "K32-3_S11.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364371",
+        "name": "K4-2_S8.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364373",
+        "name": "K4-3_S9.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn22364375",
+        "name": "K8-2_S11.smCounter.anno.vcf",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      }
+    ]
+  },
+  "syn73580025": {
+    "entity": {
+      "id": "syn73580025",
+      "name": "iS2C2_Bone_Mets_scRNAseq_ST",
+      "description": "",
+      "keys": [
+        "concreteType",
+        "createdBy",
+        "createdOn",
+        "etag",
+        "id",
+        "modifiedBy",
+        "modifiedOn",
+        "name",
+        "parentId"
+      ]
+    },
+    "children": [
+      {
+        "id": "syn73580285",
+        "name": "Bone_Mets_Spatial_Transcriptomics.rds",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn73580361",
+        "name": "Bone_Mets_scRNAseq.rds",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      }
+    ]
+  },
+  "syn55388137": {
+    "entity": {
+      "id": "syn55388137",
+      "name": "McGinnis_CancerCell_2024",
+      "description": "",
+      "keys": [
+        "concreteType",
+        "createdBy",
+        "createdOn",
+        "etag",
+        "id",
+        "modifiedBy",
+        "modifiedOn",
+        "name",
+        "parentId"
+      ]
+    },
+    "children": [
+      {
+        "id": "syn55725234",
+        "name": "SI_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451532",
+        "name": "density_plot.Robj",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55465851",
+        "name": "fig1_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55457157",
+        "name": "fig2_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55457226",
+        "name": "fig3_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55457633",
+        "name": "fig4_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55464275",
+        "name": "fig5_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55464413",
+        "name": "fig6_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55388294",
+        "name": "fig7_objects.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451831",
+        "name": "figure1.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451834",
+        "name": "figure2.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451838",
+        "name": "figure3.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451842",
+        "name": "figure4.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451847",
+        "name": "figure5.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451851",
+        "name": "figure6.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451854",
+        "name": "figure7.R",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451536",
+        "name": "jsd_comp.Robj",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn55451538",
+        "name": "stderror.Robj",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      }
+    ]
+  },
+  "zips": [
+    {
+      "id": "syn57078248",
+      "bytes": 11557554,
+      "n_entries": 76,
+      "names": [
+        "Breast/",
+        "Breast/Breast.sh",
+        "Breast/Breast_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_distribution_Breast.nii",
+        "Breast/Breast_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_ER_Negative_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_ER_Negative_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_ER_Negative_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_ER_Negative_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_ER_Negative_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_ER_Positive_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_ER_Positive_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_ER_Positive_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_ER_Positive_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_ER_Positive_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_HER2_Negative_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_HER2_Negative_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_HER2_Negative_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_HER2_Negative_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_HER2_Negative_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_HER2_Positive_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_HER2_Positive_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_HER2_Positive_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_HER2_Positive_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_HER2_Positive_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_High_Ki67_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_High_Ki67_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_High_Ki67_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_High_Ki67_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_High_Ki67_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Long_TPDBM_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Long_TPDBM_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Long_TPDBM_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Long_TPDBM_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Long_TPDBM_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Low_Ki67_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Low_Ki67_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Low_Ki67_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Low_Ki67_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Low_Ki67_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Multiple_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Multiple_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Multiple_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Multiple_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Multiple_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Old_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Old_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Old_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Old_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Oligo_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Oligo_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Oligo_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Oligo_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Oligo_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_PR_Negative_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_PR_Negative_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_PR_Negative_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_PR_Negative_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_PR_Negative_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_PR_Positive_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_PR_Positive_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_PR_Positive_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_PR_Positive_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_PR_Positive_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Short_TPDBM_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Short_TPDBM_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Short_TPDBM_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Short_TPDBM_distribution_Breast_percent+tlrc.HEAD",
+        "Breast/Breast_Short_TPDBM_distribution_Breast_percent+tlrc.nii",
+        "Breast/Breast_Young_distribution_Breast+tlrc.BRIK",
+        "Breast/Breast_Young_distribution_Breast+tlrc.HEAD",
+        "Breast/Breast_Young_distribution_Breast_percent+tlrc.BRIK",
+        "Breast/Breast_Young_distribution_Breast_percent+tlrc.HEAD"
+      ]
+    },
+    {
+      "id": "syn57078331",
+      "bytes": 12622435,
+      "n_entries": 55,
+      "names": [
+        "Lung/",
+        "Lung/Lung.sh",
+        "Lung/Lung_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_EGFR_mutation_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_EGFR_mutation_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_EGFR_mutation_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_EGFR_mutation_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_EGFR_nonmutation_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_EGFR_nonmutation_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_EGFR_nonmutation_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_EGFR_nonmutation_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Long_TPDBM_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Long_TPDBM_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Long_TPDBM_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Long_TPDBM_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Long_TPDBM_distribution_Lung_percent+tlrc.nii",
+        "Lung/Lung_LUAD_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_LUAD_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_LUAD_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_LUAD_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_LUSC_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_LUSC_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_LUSC_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_LUSC_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Multiple_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Multiple_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Multiple_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Multiple_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_NSCLC_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_NSCLC_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_NSCLC_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_NSCLC_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Old_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Old_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Old_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Old_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Oligo_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Oligo_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Oligo_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Oligo_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_SCLC_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_SCLC_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_SCLC_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_SCLC_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Short_TPDBM_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Short_TPDBM_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Short_TPDBM_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Short_TPDBM_distribution_Lung_percent+tlrc.HEAD",
+        "Lung/Lung_Young_distribution_Lung+tlrc.BRIK",
+        "Lung/Lung_Young_distribution_Lung+tlrc.HEAD",
+        "Lung/Lung_Young_distribution_Lung_percent+tlrc.BRIK",
+        "Lung/Lung_Young_distribution_Lung_percent+tlrc.HEAD"
+      ]
+    }
+  ]
+}

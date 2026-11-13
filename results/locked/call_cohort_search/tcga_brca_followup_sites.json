@@ -1,0 +1,15 @@
+{
+  "n_cases_returned": 1098,
+  "pagination": {
+    "count": 1098,
+    "total": 1098,
+    "size": 2000,
+    "from": 0,
+    "sort": "",
+    "page": 1,
+    "pages": 1
+  },
+  "n_cases_mentioning_brain": 0,
+  "brain_case_ids": [],
+  "site_counts": []
+}

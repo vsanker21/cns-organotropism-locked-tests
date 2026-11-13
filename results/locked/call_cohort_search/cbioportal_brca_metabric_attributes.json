@@ -1,0 +1,218 @@
+[
+  {
+    "clinicalAttributeId": "AGE_AT_DIAGNOSIS",
+    "displayName": "Age at Diagnosis",
+    "description": "Age at Diagnosis",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "BREAST_SURGERY",
+    "displayName": "Type of Breast Surgery",
+    "description": "Type of Breast Surgery",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "CANCER_TYPE",
+    "displayName": "Cancer Type",
+    "description": "Cancer Type",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "CANCER_TYPE_DETAILED",
+    "displayName": "Cancer Type Detailed",
+    "description": "Cancer Type Detailed",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "CELLULARITY",
+    "displayName": "Cellularity",
+    "description": "Tumor Content",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "displayName": "Chemotherapy",
+    "description": "Chemotherapy.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "CLAUDIN_SUBTYPE",
+    "displayName": "Pam50 + Claudin-low subtype",
+    "description": "Pam50 + Claudin-low subtype",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "COHORT",
+    "displayName": "Cohort",
+    "description": "Cohort.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "ER_IHC",
+    "displayName": "ER status measured by IHC",
+    "description": "ER status measured by IHC",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "ER_STATUS",
+    "displayName": "ER Status",
+    "description": "ER Status",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "GRADE",
+    "displayName": "Neoplasm Histologic Grade",
+    "description": "Numeric value to express the degree of abnormality of cancer cells, a measure of differentiation and aggressiveness.",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "HER2_SNP6",
+    "displayName": "HER2 status measured by SNP6",
+    "description": "HER2 status measured by SNP6",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "HER2_STATUS",
+    "displayName": "HER2 Status",
+    "description": "HER2 Status",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "HISTOLOGICAL_SUBTYPE",
+    "displayName": "Tumor Other Histologic Subtype",
+    "description": "Text to describe a tumor's histologic subtype or mixed diagnosis that is different from previously specified options.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "HORMONE_THERAPY",
+    "displayName": "Hormone Therapy",
+    "description": "Hormone Therapy",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "INFERRED_MENOPAUSAL_STATE",
+    "displayName": "Inferred Menopausal State",
+    "description": "Inferred Menopausal State",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "INTCLUST",
+    "displayName": "Integrative Cluster",
+    "description": "Integrative Cluster",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "LATERALITY",
+    "displayName": "Primary Tumor Laterality",
+    "description": "For tumors in paired organs, designates the side on which the cancer originates.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "LYMPH_NODES_EXAMINED_POSITIVE",
+    "displayName": "Lymph nodes examined positive",
+    "description": "Number of lymphnodes positive",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "MUTATION_COUNT",
+    "displayName": "Mutation Count",
+    "description": "Mutation Count",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "NPI",
+    "displayName": "Nottingham prognostic index",
+    "description": "Nottingham prognostic index",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "ONCOTREE_CODE",
+    "displayName": "Oncotree Code",
+    "description": "Oncotree Code",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "OS_MONTHS",
+    "displayName": "Overall Survival (Months)",
+    "description": "Overall survival in months since initial diagonosis.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "OS_STATUS",
+    "displayName": "Overall Survival Status",
+    "description": "Overall patient survival status.",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "PR_STATUS",
+    "displayName": "PR Status",
+    "description": "PR Status",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "RADIO_THERAPY",
+    "displayName": "Radio Therapy",
+    "description": "Radio Therapy",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "RFS_MONTHS",
+    "displayName": "Relapse Free Status (Months)",
+    "description": "Time until last follow-up or relapse (in months)",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "RFS_STATUS",
+    "displayName": "Relapse Free Status",
+    "description": "Relapse Free Status (Recurred = cases where there was loco-regional relapse, distant relapse or death-specific death)",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "displayName": "Number of Samples Per Patient",
+    "description": "Number of Samples Per Patient",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "SAMPLE_TYPE",
+    "displayName": "Sample Type",
+    "description": "The type of sample (i.e., normal, primary, met, recurrence).",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "SEX",
+    "displayName": "Sex",
+    "description": "Sex",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "THREEGENE",
+    "displayName": "3-Gene classifier subtype",
+    "description": "3-Gene classifier subtype",
+    "patientAttribute": true
+  },
+  {
+    "clinicalAttributeId": "TMB_NONSYNONYMOUS",
+    "displayName": "TMB (nonsynonymous)",
+    "description": "TMB (nonsynonymous)",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "TUMOR_SIZE",
+    "displayName": "Tumor Size",
+    "description": "Tumor size.",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "TUMOR_STAGE",
+    "displayName": "Tumor Stage",
+    "description": "Tumor stage.",
+    "patientAttribute": false
+  },
+  {
+    "clinicalAttributeId": "VITAL_STATUS",
+    "displayName": "Patient's Vital Status",
+    "description": "The survival state of the person.",
+    "patientAttribute": true
+  }
+]

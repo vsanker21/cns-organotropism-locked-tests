@@ -1,0 +1,16 @@
+Eligibility for any new download. Written before expression from a new series is read. 12 November 2026.
+
+The locked claim stays in force. No gene is chosen from GSE138122, GSE221358, GSE131907, GSE123902, GSE76714, or GSE12276. Step A and the neural program stay the locked lists. PTGS2, HBEGF, and ST6GALNAC5 stay the locked three-gene set.
+
+A primary-tumor series qualifies only when all of the following are known from clinical metadata, before any expression matrix is opened:
+- The tumors are primary tumors.
+- A brain-relapse or brain-metastasis label is recorded per tumor.
+- The number of brain-relapse events is greater than 23.
+- The patients are independent of GSE12276 and GSE76714.
+- The series was not used to choose Step A or the neural genes.
+
+If those conditions hold, the only scores allowed are the locked Step A genes and the locked neural genes, using the same within-cohort z-score mean, the same logistic odds ratio per standard deviation, and the same two-sided tests. That score can tighten an interval. It does not create an organotropism mechanism.
+
+A single-cell series qualifies only when sample metadata show two metastatic sites, both collected by the same procedure, with at least two samples on each side, microglia separable from macrophages, in a public matrix other than GSE131907 and GSE123902. One side is brain or lymph node. A primary tumor is not a metastatic site. A brain-only series does not qualify. Count matrices from a series that fails this metadata rule are not downloaded.
+
+If no series meets either rule, no expression is downloaded and the locked claim is unchanged.

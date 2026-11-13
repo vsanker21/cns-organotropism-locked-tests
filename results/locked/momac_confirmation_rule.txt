@@ -1,0 +1,13 @@
+Confirmation of the frozen ambient-corrected mo-Mac genes. Written before GSE123902 expression was read.
+
+Genes: results/locked/momac_ambient_genes.csv. No gene is added or removed from this file for the primary scores. GSE131907 is not reopened.
+
+Cohort: GSE123902. The only samples in the test are lung-adenocarcinoma metastases to brain, bone, and adrenal. Primary tumors and normal lung are not controls.
+
+Cells: macrophages, not microglia. Author labels are used when they name macrophages and a separate microglia population. If the author label does not separate those populations, a cell is a macrophage when the sum of CD68, CSF1R, AIF1, and C1QA is at least 2 and greater than the sum of PTPRC-excluded immune and tissue markers CD3D, CD3E, MS4A1, CD79A, EPCAM, KRT8, KRT18, and NKX2-1, and the sum of TMEM119, P2RY12, CX3CR1, and SALL1 is 0. A sample is eligible only with at least 20 such cells.
+
+Scores: mean of gene-wise z-scores of log2(CPM+1) across the eligible samples. Two programs, brain-high and lymph-node-high. Both comparisons are two-sided Mann-Whitney tests at the sample level, brain versus bone plus adrenal.
+
+Confirmation requires every eligible brain sample to sit on the predicted side of every eligible bone or adrenal sample, for both programs: brain-high higher in brain, lymph-node-high higher in bone and adrenal. Overlap, or fewer than two eligible samples on either side, means the discovery is not confirmed and the gene list stops.
+
+Sensitivity, fixed now: repeat both scores after removing GLDN, SLC1A3, GFAP, PLP1, CLDN11, APOD, MBP, MOG, OLIG1, OLIG2, AQP4, and S100B. If the full scores separate and the reduced scores do not, the result is not a macrophage confirmation.

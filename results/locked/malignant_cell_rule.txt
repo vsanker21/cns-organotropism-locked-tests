@@ -1,0 +1,17 @@
+Malignant-cell rule, fixed before compartment scores were calculated.
+
+A cell is malignant when all of the following hold on raw UMI counts:
+1. The sum of KRT8, KRT18, KRT19, EPCAM, NAPSA and NKX2-1 is at least 2.
+2. That epithelial sum is strictly greater than the sum of PTPRC, CD3D, CD3E, CD68, AIF1 and C1QA.
+3. The sum of CD3D and CD3E is 0.
+4. The sum of CD68, AIF1 and C1QA is 0.
+
+PTPRC alone may be greater than zero, because one ambient transcript is expected, but only when the epithelial sum still exceeds the full immune sum.
+
+The same rule is applied to every CSF cell and every parenchymal brain-metastasis cell. Author cell-type labels are not used to admit a cell. They are used only in a secondary count of how many marker-called cells were also labeled epithelial.
+
+A sample is eligible only when it contributes at least 20 malignant cells.
+
+The sample score is the mean of gene-wise z-scores of log2(CPM+1). CPM uses the total UMI count of the malignant cells in that sample. Z-scores are taken across the eligible CSF and parenchymal samples together. A program is scored when at least 70 percent of its locked human genes are present in both matrices.
+
+The primary comparison is a two-sided Mann-Whitney U test of sample scores, CSF versus parenchyma. The leptomeningeal program is expected to be higher in CSF. The parenchyma program is expected to be higher in parenchyma. No gene is added or dropped after the scores are seen.

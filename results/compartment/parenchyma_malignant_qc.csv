@@ -1,0 +1,11 @@
+"sample","compartment","n_cells","n_malignant","n_malignant_also_author_epithelial","malignant_umi"
+"BrM_NS_02","Parenchyma",2313,34,31,239288
+"BrM_NS_03","Parenchyma",2990,1886,1867,26423443
+"BrM_NS_04","Parenchyma",1904,583,547,9624084
+"BrM_NS_06","Parenchyma",1070,38,30,138881
+"BrM_NS_07","Parenchyma",5730,4621,4585,41048152
+"BrM_NS_12","Parenchyma",3182,2125,2072,26488564
+"BrM_NS_13","Parenchyma",4845,1184,863,6422338
+"BrM_NS_16","Parenchyma",1317,43,32,399949
+"BrM_NS_17","Parenchyma",2409,657,521,5646811
+"BrM_NS_19","Parenchyma",3300,235,225,988393

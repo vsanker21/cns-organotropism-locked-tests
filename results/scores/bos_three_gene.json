@@ -1,0 +1,63 @@
+{
+  "genes": [
+    "PTGS2",
+    "HBEGF",
+    "ST6GALNAC5"
+  ],
+  "rule": "mean of gene-wise z-scores when every locked gene is present",
+  "inferential_cohort": "GSE76714",
+  "circular_cohort": "GSE12276",
+  "GSE76714": {
+    "label": "GSE76714:bos",
+    "n": 71,
+    "n_positive": 23,
+    "mean_score_positive": -0.1571918439094436,
+    "mean_score_negative": 0.07532109187327364,
+    "mannwhitney_p": 0.19068772169384796,
+    "auc": 0.4030797101449275,
+    "auc_ci95": [
+      0.2699159851776131,
+      0.5547515976087404
+    ],
+    "log_or_per_sd": -0.36104982822288373,
+    "or_per_sd": 0.6969442701072253,
+    "or_ci95": [
+      0.4214426696441227,
+      1.152544226348645
+    ],
+    "logit_p": 0.1594903964207678,
+    "coverage": {
+      "n_present": 3,
+      "n_genes": 3,
+      "missing": [],
+      "valid": true
+    }
+  },
+  "GSE12276": {
+    "label": "GSE12276:bos",
+    "n": 185,
+    "n_positive": 16,
+    "mean_score_positive": 0.33808417947014924,
+    "mean_score_negative": -0.02784373497501378,
+    "mannwhitney_p": 0.07825438075600993,
+    "auc": 0.6335059171597633,
+    "auc_ci95": [
+      0.4607758620689655,
+      0.7857733995336696
+    ],
+    "log_or_per_sd": 0.520634160434232,
+    "or_per_sd": 1.6830946633767792,
+    "or_ci95": [
+      1.0121841067930395,
+      2.7987078900722313
+    ],
+    "logit_p": 0.04478795834761176,
+    "coverage": {
+      "n_present": 3,
+      "n_genes": 3,
+      "missing": [],
+      "valid": true
+    },
+    "role": "pipeline check only; these genes are tied to this series"
+  }
+}

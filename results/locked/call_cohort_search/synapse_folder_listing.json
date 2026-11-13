@@ -1,0 +1,571 @@
+{
+  "syn57077557": {
+    "name": "Spatial Distribution Map of Brain Metastasis",
+    "children": [
+      {
+        "id": "syn57078248",
+        "name": "Breast.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn57078331",
+        "name": "Lung.zip",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      }
+    ]
+  },
+  "syn51068458": {
+    "name": "Liver_Lung_PDAC",
+    "children": [
+      {
+        "id": "syn53608746",
+        "name": "Adaptive_TCR_Seq",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn53977850",
+        "name": "RNA",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn51068472",
+        "name": "RegisteredImages",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn51074146",
+        "name": "SegmentationMasks",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn51068471",
+        "name": "data",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn51078766",
+        "name": "mIHC_Data",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      }
+    ]
+  },
+  "mtx_file": {
+    "id": "syn77221541",
+    "name": "GSM5645892_Breast_2_matrix.mtx.gz",
+    "parent": "syn77025757",
+    "annotations": {}
+  },
+  "mtx_folder": {
+    "id": "syn77025757",
+    "name": "GSE186344_links",
+    "parent": "syn77025217",
+    "children": [
+      {
+        "id": "syn77221507",
+        "name": "GSM5645888_Melan_1_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221508",
+        "name": "GSM5645888_Melan_1_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221509",
+        "name": "GSM5645888_Melan_1_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221510",
+        "name": "GSM5645888_Melan_1_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221511",
+        "name": "GSM5645888_Melan_1_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221512",
+        "name": "GSM5645888_Melan_1_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221513",
+        "name": "GSM5645889_Melan_2_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221517",
+        "name": "GSM5645889_Melan_2_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221519",
+        "name": "GSM5645889_Melan_2_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221520",
+        "name": "GSM5645889_Melan_2_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221521",
+        "name": "GSM5645889_Melan_2_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221522",
+        "name": "GSM5645889_Melan_2_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221523",
+        "name": "GSM5645890_Melan_3_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221524",
+        "name": "GSM5645890_Melan_3_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221525",
+        "name": "GSM5645890_Melan_3_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221527",
+        "name": "GSM5645890_Melan_3_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221529",
+        "name": "GSM5645890_Melan_3_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221530",
+        "name": "GSM5645890_Melan_3_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221531",
+        "name": "GSM5645891_Breast_1_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221532",
+        "name": "GSM5645891_Breast_1_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221533",
+        "name": "GSM5645891_Breast_1_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221534",
+        "name": "GSM5645891_Breast_1_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221535",
+        "name": "GSM5645891_Breast_1_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221536",
+        "name": "GSM5645891_Breast_1_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221537",
+        "name": "GSM5645892_Breast_2_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221538",
+        "name": "GSM5645892_Breast_2_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221539",
+        "name": "GSM5645892_Breast_2_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221540",
+        "name": "GSM5645892_Breast_2_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221541",
+        "name": "GSM5645892_Breast_2_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221542",
+        "name": "GSM5645892_Breast_2_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221543",
+        "name": "GSM5645893_Breast_3_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221544",
+        "name": "GSM5645893_Breast_3_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221545",
+        "name": "GSM5645893_Breast_3_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221546",
+        "name": "GSM5645893_Breast_3_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221547",
+        "name": "GSM5645893_Breast_3_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221548",
+        "name": "GSM5645893_Breast_3_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221549",
+        "name": "GSM5645894_Lung_1_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221552",
+        "name": "GSM5645894_Lung_1_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221553",
+        "name": "GSM5645894_Lung_1_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221556",
+        "name": "GSM5645894_Lung_1_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221557",
+        "name": "GSM5645894_Lung_1_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221558",
+        "name": "GSM5645894_Lung_1_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221559",
+        "name": "GSM5645895_Lung_2_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221560",
+        "name": "GSM5645895_Lung_2_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221561",
+        "name": "GSM5645895_Lung_2_barcodes.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221562",
+        "name": "GSM5645895_Lung_2_features.tsv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221563",
+        "name": "GSM5645895_Lung_2_matrix.mtx.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221564",
+        "name": "GSM5645895_Lung_2_metrics_summary.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221565",
+        "name": "GSM5645896_Lung_3_Cell_Types_Annotations.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      },
+      {
+        "id": "syn77221566",
+        "name": "GSM5645896_Lung_3_LogNormalized_Data.csv.gz",
+        "type": "org.sagebionetworks.repo.model.FileEntity"
+      }
+    ]
+  },
+  "mtx_project": {
+    "id": "syn77025217",
+    "name": "datasets",
+    "children": [
+      {
+        "id": "syn77106988",
+        "name": "GSE100274_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110820",
+        "name": "GSE101209_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77106996",
+        "name": "GSE101988_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77041015",
+        "name": "GSE102542_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77041007",
+        "name": "GSE102552_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77040973",
+        "name": "GSE102553_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77114598",
+        "name": "GSE102698_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77111793",
+        "name": "GSE102740_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77105621",
+        "name": "GSE102746_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77101906",
+        "name": "GSE103203_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77068010",
+        "name": "GSE103224_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77114578",
+        "name": "GSE103242_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77105589",
+        "name": "GSE103476_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77068423",
+        "name": "GSE103672_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110758",
+        "name": "GSE103990_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77098176",
+        "name": "GSE104981_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77097998",
+        "name": "GSE104983_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77097856",
+        "name": "GSE104984_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77097869",
+        "name": "GSE104985_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77098205",
+        "name": "GSE104986_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77098218",
+        "name": "GSE104987_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110860",
+        "name": "GSE106119_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77114549",
+        "name": "GSE106519_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77114505",
+        "name": "GSE107470_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110675",
+        "name": "GSE107558_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110668",
+        "name": "GSE107559_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77096006",
+        "name": "GSE107997_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77096325",
+        "name": "GSE108787_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110685",
+        "name": "GSE109089_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110731",
+        "name": "GSE109092_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77105433",
+        "name": "GSE109309_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77101955",
+        "name": "GSE109457_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77101948",
+        "name": "GSE109458_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77090694",
+        "name": "GSE109750_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77074453",
+        "name": "GSE110061_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77105490",
+        "name": "GSE110644_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77098230",
+        "name": "GSE110704_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77098226",
+        "name": "GSE111075_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77074389",
+        "name": "GSE111539_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77091668",
+        "name": "GSE111653_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77090594",
+        "name": "GSE111734_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77079901",
+        "name": "GSE111907_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77096311",
+        "name": "GSE112434_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77076324",
+        "name": "GSE112555_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77106152",
+        "name": "GSE112786_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77106172",
+        "name": "GSE112829_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77109555",
+        "name": "GSE113099_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110157",
+        "name": "GSE113127_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77110657",
+        "name": "GSE113196_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      },
+      {
+        "id": "syn77107149",
+        "name": "GSE113197_links",
+        "type": "org.sagebionetworks.repo.model.Folder"
+      }
+    ]
+  }
+}

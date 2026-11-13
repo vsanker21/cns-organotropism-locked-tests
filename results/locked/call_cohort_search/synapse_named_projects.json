@@ -1,0 +1,20 @@
+{
+  "syn57077557": {
+    "name": "Spatial Distribution Map of Brain Metastasis",
+    "parentId": "syn4489",
+    "concreteType": "org.sagebionetworks.repo.model.Project",
+    "children": []
+  },
+  "syn51068458": {
+    "name": "Liver_Lung_PDAC",
+    "parentId": "syn4489",
+    "concreteType": "org.sagebionetworks.repo.model.Project",
+    "children": []
+  },
+  "syn77221541": {
+    "name": "GSM5645892_Breast_2_matrix.mtx.gz",
+    "parentId": "syn77025757",
+    "concreteType": "org.sagebionetworks.repo.model.FileEntity",
+    "children": []
+  }
+}

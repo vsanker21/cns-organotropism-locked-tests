@@ -1,0 +1,322 @@
+{
+  "eligible_by_origin": {
+    "PE": 2,
+    "mBrain": 10,
+    "mLN": 7
+  },
+  "qc": [
+    {
+      "sample": "EFFUSION_06",
+      "origin": "PE",
+      "n_cells": 4884,
+      "n_malignant": 138,
+      "n_malignant_also_author_epithelial": 96,
+      "malignant_umi": 717016
+    },
+    {
+      "sample": "EFFUSION_11",
+      "origin": "PE",
+      "n_cells": 2943,
+      "n_malignant": 24,
+      "n_malignant_also_author_epithelial": 23,
+      "malignant_umi": 308926
+    },
+    {
+      "sample": "EFFUSION_12",
+      "origin": "PE",
+      "n_cells": 4224,
+      "n_malignant": 6,
+      "n_malignant_also_author_epithelial": 2,
+      "malignant_umi": 24648
+    },
+    {
+      "sample": "EFFUSION_13",
+      "origin": "PE",
+      "n_cells": 4441,
+      "n_malignant": 7,
+      "n_malignant_also_author_epithelial": 4,
+      "malignant_umi": 121459
+    },
+    {
+      "sample": "EFFUSION_64",
+      "origin": "PE",
+      "n_cells": 3812,
+      "n_malignant": 16,
+      "n_malignant_also_author_epithelial": 9,
+      "malignant_umi": 42404
+    },
+    {
+      "sample": "NS_02",
+      "origin": "mBrain",
+      "n_cells": 2313,
+      "n_malignant": 34,
+      "n_malignant_also_author_epithelial": 31,
+      "malignant_umi": 239288
+    },
+    {
+      "sample": "NS_03",
+      "origin": "mBrain",
+      "n_cells": 2990,
+      "n_malignant": 1886,
+      "n_malignant_also_author_epithelial": 1867,
+      "malignant_umi": 26423443
+    },
+    {
+      "sample": "NS_04",
+      "origin": "mBrain",
+      "n_cells": 1904,
+      "n_malignant": 583,
+      "n_malignant_also_author_epithelial": 547,
+      "malignant_umi": 9624084
+    },
+    {
+      "sample": "NS_06",
+      "origin": "mBrain",
+      "n_cells": 1070,
+      "n_malignant": 38,
+      "n_malignant_also_author_epithelial": 30,
+      "malignant_umi": 138881
+    },
+    {
+      "sample": "NS_07",
+      "origin": "mBrain",
+      "n_cells": 5730,
+      "n_malignant": 4621,
+      "n_malignant_also_author_epithelial": 4585,
+      "malignant_umi": 41048152
+    },
+    {
+      "sample": "NS_12",
+      "origin": "mBrain",
+      "n_cells": 3182,
+      "n_malignant": 2125,
+      "n_malignant_also_author_epithelial": 2072,
+      "malignant_umi": 26488564
+    },
+    {
+      "sample": "NS_13",
+      "origin": "mBrain",
+      "n_cells": 4845,
+      "n_malignant": 1184,
+      "n_malignant_also_author_epithelial": 863,
+      "malignant_umi": 6422338
+    },
+    {
+      "sample": "NS_16",
+      "origin": "mBrain",
+      "n_cells": 1317,
+      "n_malignant": 43,
+      "n_malignant_also_author_epithelial": 32,
+      "malignant_umi": 399949
+    },
+    {
+      "sample": "NS_17",
+      "origin": "mBrain",
+      "n_cells": 2409,
+      "n_malignant": 657,
+      "n_malignant_also_author_epithelial": 521,
+      "malignant_umi": 5646811
+    },
+    {
+      "sample": "NS_19",
+      "origin": "mBrain",
+      "n_cells": 3300,
+      "n_malignant": 235,
+      "n_malignant_also_author_epithelial": 225,
+      "malignant_umi": 988393
+    },
+    {
+      "sample": "BRONCHO_11",
+      "origin": "mLN",
+      "n_cells": 3178,
+      "n_malignant": 76,
+      "n_malignant_also_author_epithelial": 58,
+      "malignant_umi": 514549
+    },
+    {
+      "sample": "EBUS_10",
+      "origin": "mLN",
+      "n_cells": 5144,
+      "n_malignant": 151,
+      "n_malignant_also_author_epithelial": 126,
+      "malignant_umi": 1308729
+    },
+    {
+      "sample": "EBUS_12",
+      "origin": "mLN",
+      "n_cells": 3115,
+      "n_malignant": 32,
+      "n_malignant_also_author_epithelial": 26,
+      "malignant_umi": 201375
+    },
+    {
+      "sample": "EBUS_13",
+      "origin": "mLN",
+      "n_cells": 3550,
+      "n_malignant": 34,
+      "n_malignant_also_author_epithelial": 33,
+      "malignant_umi": 588851
+    },
+    {
+      "sample": "EBUS_15",
+      "origin": "mLN",
+      "n_cells": 1105,
+      "n_malignant": 127,
+      "n_malignant_also_author_epithelial": 119,
+      "malignant_umi": 401356
+    },
+    {
+      "sample": "EBUS_19",
+      "origin": "mLN",
+      "n_cells": 2112,
+      "n_malignant": 72,
+      "n_malignant_also_author_epithelial": 69,
+      "malignant_umi": 1125906
+    },
+    {
+      "sample": "EBUS_51",
+      "origin": "mLN",
+      "n_cells": 3275,
+      "n_malignant": 687,
+      "n_malignant_also_author_epithelial": 650,
+      "malignant_umi": 9454119
+    }
+  ],
+  "tests": [
+    {
+      "group_a": "Effusion",
+      "group_b": "Solid",
+      "n_a": 2,
+      "n_b": 17,
+      "mean_a": -0.07645705598304503,
+      "mean_b": 0.008994947762711215,
+      "median_a": -0.07645705598304503,
+      "median_b": 0.04755426325946277,
+      "mean_difference_a_minus_b": -0.08545200374575625,
+      "mannwhitney_u": 13.0,
+      "mannwhitney_p": 0.6549707602339181,
+      "permutation_p": 0.6432356764323568,
+      "program": "leptomeningeal",
+      "contrast": "effusion_vs_solid",
+      "n_locked": 711,
+      "n_used": 685,
+      "coverage": 0.9634317862165963,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    },
+    {
+      "group_a": "Brain",
+      "group_b": "LymphNode",
+      "n_a": 10,
+      "n_b": 7,
+      "mean_a": 0.036007090106163604,
+      "mean_b": -0.029593827013649376,
+      "median_a": 0.0690362113826437,
+      "median_b": -0.004531857305137127,
+      "mean_difference_a_minus_b": 0.06560091711981297,
+      "mannwhitney_u": 44.0,
+      "mannwhitney_p": 0.41731797614150556,
+      "permutation_p": 0.6200379962003799,
+      "program": "leptomeningeal",
+      "contrast": "brain_vs_lymph_node",
+      "n_locked": 711,
+      "n_used": 685,
+      "coverage": 0.9634317862165963,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    },
+    {
+      "group_a": "Effusion",
+      "group_b": "Solid",
+      "n_a": 2,
+      "n_b": 17,
+      "mean_a": 0.20289852322207008,
+      "mean_b": -0.02387041449671414,
+      "median_a": 0.20289852322207008,
+      "median_b": 0.08218063174073918,
+      "mean_difference_a_minus_b": 0.22676893771878423,
+      "mannwhitney_u": 25.0,
+      "mannwhitney_p": 0.3508771929824561,
+      "permutation_p": 0.38106189381061895,
+      "program": "parenchyma",
+      "contrast": "effusion_vs_solid",
+      "n_locked": 406,
+      "n_used": 399,
+      "coverage": 0.9827586206896551,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    },
+    {
+      "group_a": "Brain",
+      "group_b": "LymphNode",
+      "n_a": 10,
+      "n_b": 7,
+      "mean_a": -0.09036726098229823,
+      "mean_b": 0.07112508048269173,
+      "median_a": 0.026569236544817673,
+      "median_b": 0.10177840788425821,
+      "mean_difference_a_minus_b": -0.16149234146498997,
+      "mannwhitney_u": 28.0,
+      "mannwhitney_p": 0.5361990950226244,
+      "permutation_p": 0.3631636836316368,
+      "program": "parenchyma",
+      "contrast": "brain_vs_lymph_node",
+      "n_locked": 406,
+      "n_used": 399,
+      "coverage": 0.9827586206896551,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    },
+    {
+      "group_a": "Effusion",
+      "group_b": "Solid",
+      "n_a": 2,
+      "n_b": 17,
+      "mean_a": 0.3386953263951038,
+      "mean_b": -0.039846508987659325,
+      "median_a": 0.3386953263951038,
+      "median_b": 0.07861318920413514,
+      "mean_difference_a_minus_b": 0.37854183538276315,
+      "mannwhitney_u": 22.0,
+      "mannwhitney_p": 0.5730994152046783,
+      "permutation_p": 0.40315968403159685,
+      "program": "g2m",
+      "contrast": "effusion_vs_solid",
+      "n_locked": 200,
+      "n_used": 189,
+      "coverage": 0.945,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    },
+    {
+      "group_a": "Brain",
+      "group_b": "LymphNode",
+      "n_a": 10,
+      "n_b": 7,
+      "mean_a": -0.19808677191832252,
+      "mean_b": 0.1862110094847167,
+      "median_a": -0.06409894998718726,
+      "median_b": 0.16670012306815107,
+      "mean_difference_a_minus_b": -0.3842977814030392,
+      "mannwhitney_u": 19.0,
+      "mannwhitney_p": 0.13307280954339779,
+      "permutation_p": 0.1484851514848515,
+      "program": "g2m",
+      "contrast": "brain_vs_lymph_node",
+      "n_locked": 200,
+      "n_used": 189,
+      "coverage": 0.945,
+      "status": "tested",
+      "fdr_among_six": 0.6549707602339181
+    }
+  ],
+  "reading": {
+    "fluid_versus_solid_supported": false,
+    "parenchyma_higher_in_effusion_and_significant": false,
+    "g2m_higher_in_effusion_and_significant": false,
+    "parenchyma_brain_specific": false,
+    "g2m_separates_brain_from_lymph_node": false,
+    "leptomeningeal_beats_g2m_on_effusion_contrast": false,
+    "leptomeningeal_beats_g2m_on_brain_contrast": false
+  }
+}
